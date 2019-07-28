@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>120 - Controls (Flat)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="120---Controls-(Flat)" sketch:type="MSLayerGroup">
+            <path d="M6,0 C5.448,0 5,0.448 5,1 L5,41 C5,41.553 5.448,42 6,42 C6.552,42 7,41.553 7,41 L7,1 C7,0.448 6.552,0 6,0" id="Fill-160" fill="#C7CBC7" sketch:type="MSShapeGroup"></path>
+            <path d="M48,12 C47.448,12 47,12.448 47,13 L47,53 C47,53.553 47.448,54 48,54 C48.552,54 49,53.553 49,53 L49,13 C49,12.448 48.552,12 48,12" id="Fill-161" fill="#C7CBC7" sketch:type="MSShapeGroup"></path>
+            <path d="M27,0 C26.448,0 26,0.448 26,1 L26,20 C26,20.553 26.448,21 27,21 C27.552,21 28,20.553 28,20 L28,1 C28,0.448 27.552,0 27,0" id="Fill-162" fill="#C7CBC7" sketch:type="MSShapeGroup"></path>
+            <path d="M27,32 C26.448,32 26,32.447 26,33 L26,53 C26,53.553 26.448,54 27,54 C27.552,54 28,53.553 28,53 L28,33 C28,32.447 27.552,32 27,32" id="Fill-163" fill="#C7CBC7" sketch:type="MSShapeGroup"></path>
+            <path d="M6,41 C9.314,41 12,43.686 12,47 C12,50.314 9.314,53 6,53 C2.686,53 0,50.314 0,47 C0,43.686 2.686,41 6,41" id="Fill-1082" fill="#7383BF" sketch:type="MSShapeGroup"></path>
+            <path d="M26.793,20.586 C30.221,20.586 33,23.365 33,26.793 C33,30.221 30.221,33 26.793,33 C23.365,33 20.586,30.221 20.586,26.793 C20.586,23.365 23.365,20.586 26.793,20.586" id="Fill-1086" fill="#25B99A" sketch:type="MSShapeGroup"></path>
+            <path d="M48,13 C51.314,13 54,10.314 54,7 C54,3.687 51.314,1 48,1 C44.686,1 42,3.687 42,7 C42,10.314 44.686,13 48,13" id="Fill-1087" fill="#7383BF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

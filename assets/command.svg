@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>130 - Command (Flat)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="130---Command-(Flat)" sketch:type="MSLayerGroup">
+            <path d="M51.2,60 L8.8,60 C3.94,60 0,56.06 0,51.2 L0,8.8 C0,3.94 3.94,0 8.8,0 L51.2,0 C56.06,0 60,3.94 60,8.8 L60,51.2 C60,56.06 56.06,60 51.2,60" id="Fill-164" fill="#E8EDEE" sketch:type="MSShapeGroup"></path>
+            <path d="M25,25 L20.5,25 C18.015,25 16,22.985 16,20.5 C16,18.015 18.015,16 20.5,16 C22.985,16 25,18.015 25,20.5 L25,25 L25,25 Z M25,25 L36,25 L36,36 L25,36 L25,25 Z M20.5,45 L20.5,45 C18.015,45 16,42.986 16,40.5 C16,38.015 18.015,36 20.5,36 L25,36 L25,40.5 C25,42.986 22.985,45 20.5,45 L20.5,45 Z M40.5,25 L36,25 L36,20.5 C36,18.015 38.015,16 40.5,16 C42.985,16 45,18.015 45,20.5 C45,22.985 42.985,25 40.5,25 L40.5,25 Z M40.5,45 L40.5,45 C38.015,45 36,42.986 36,40.5 L36,36 L40.5,36 C42.985,36 45,38.015 45,40.5 C45,42.986 42.985,45 40.5,45 L40.5,45 Z" id="Stroke-1065" stroke="#B0B6BB" stroke-width="2" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

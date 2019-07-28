@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>241 - Repeat (Flat)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="241---Repeat-(Flat)" sketch:type="MSLayerGroup">
+            <path d="M58,29 C58,45.017 45.016,58 29,58 C12.984,58 0,45.017 0,29 C0,12.984 12.984,0 29,0 C45.016,0 58,12.984 58,29" id="Fill-765" fill="#F86363" sketch:type="MSShapeGroup"></path>
+            <path d="M10,32 C8.896,32 8,31.105 8,30 C8,22.281 14.28,16 22,16 L36,16 C37.104,16 38,16.896 38,18 C38,19.105 37.104,20 36,20 L22,20 C16.486,20 12,24.487 12,30 C12,31.105 11.104,32 10,32" id="Fill-1909" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M26.002,28 C25.384,28 24.774,27.715 24.383,27.177 C23.732,26.283 23.931,25.032 24.823,24.383 L33.6,18 L24.823,11.617 C23.931,10.968 23.732,9.717 24.383,8.823 C25.031,7.932 26.282,7.732 27.177,8.383 L40.4,18 L27.177,27.617 C26.821,27.876 26.409,28 26.002,28" id="Fill-1910" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M35,42 L21,42 C19.896,42 19,41.104 19,40 C19,38.896 19.896,38 21,38 L35,38 C40.514,38 45,33.514 45,28 C45,26.896 45.896,26 47,26 C48.104,26 49,26.896 49,28 C49,35.72 42.72,42 35,42" id="Fill-1912" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M30.998,50 C30.591,50 30.179,49.876 29.823,49.617 L16.6,40 L29.823,30.383 C30.718,29.731 31.967,29.931 32.617,30.823 C33.268,31.717 33.069,32.968 32.177,33.617 L23.4,40 L32.177,46.383 C33.069,47.032 33.268,48.283 32.617,49.177 C32.227,49.715 31.616,50 30.998,50" id="Fill-1913" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

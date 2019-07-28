@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>374 - Home (Flat)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icons" sketch:type="MSArtboardGroup" transform="translate(-841.000000, -357.000000)">
+            <g id="374---Home-(Flat)" sketch:type="MSLayerGroup" transform="translate(842.000000, 359.000000)">
+                <path d="M28,0 L5,21.357 L5,56 L51,56 L51,21.357 L28,0" id="Fill-300" fill="#E8EDEE" sketch:type="MSShapeGroup"></path>
+                <path d="M13,21 L25,21 L25,33 L13,33 L13,21 Z" id="Fill-303" fill="#25AE88" sketch:type="MSShapeGroup"></path>
+                <path d="M31,21 L43,21 L43,33 L31,33 L31,21 Z" id="Fill-304" fill="#25AE88" sketch:type="MSShapeGroup"></path>
+                <path d="M13,39 L25,39 L25,51 L13,51 L13,39 Z" id="Fill-305" fill="#25AE88" sketch:type="MSShapeGroup"></path>
+                <path d="M31,39 L43,39 L43,51 L31,51 L31,39 Z" id="Fill-306" fill="#25AE88" sketch:type="MSShapeGroup"></path>
+                <path d="M0,26 L28,0 L56,26" id="Stroke-2262" stroke="#556080" stroke-width="2" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

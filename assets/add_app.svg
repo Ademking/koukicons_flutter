@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="55px" height="55px" viewBox="0 0 55 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>343 - Add Application (Flat)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icons" sketch:type="MSArtboardGroup" transform="translate(-963.000000, -720.000000)">
+            <g id="343---Add-Application-(Flat)" sketch:type="MSLayerGroup" transform="translate(963.000000, 720.000000)">
+                <path d="M21.66,24 L2.34,24 C1.048,24 0,22.952 0,21.66 L0,2.34 C0,1.048 1.048,0 2.34,0 L21.66,0 C22.952,0 24,1.048 24,2.34 L24,21.66 C24,22.952 22.952,24 21.66,24" id="Fill-501" fill="#F0CE49" sketch:type="MSShapeGroup"></path>
+                <path d="M51.66,24 L32.34,24 C31.048,24 30,22.952 30,21.66 L30,2.34 C30,1.048 31.048,0 32.34,0 L51.66,0 C52.952,0 54,1.048 54,2.34 L54,21.66 C54,22.952 52.952,24 51.66,24" id="Fill-502" fill="#7FABDA" sketch:type="MSShapeGroup"></path>
+                <path d="M21.66,54 L2.34,54 C1.048,54 0,52.952 0,51.66 L0,32.34 C0,31.048 1.048,30 2.34,30 L21.66,30 C22.952,30 24,31.048 24,32.34 L24,51.66 C24,52.952 22.952,54 21.66,54" id="Fill-503" fill="#D75A4A" sketch:type="MSShapeGroup"></path>
+                <path d="M42,30 L42,54 M30,42 L54,42" id="Stroke-504" stroke="#23A24D" stroke-width="2" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

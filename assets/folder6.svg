@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="58px" height="51px" viewBox="0 0 58 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>69 - Folder (Flat)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icons" sketch:type="MSArtboardGroup" transform="translate(-241.000000, -4081.000000)">
+            <g id="69---Folder-(Flat)" sketch:type="MSLayerGroup" transform="translate(241.000000, 4081.000000)">
+                <path d="M20,0 L25,7 L58,7 L58,0 L20,0" id="Fill-1404" fill="#7383BF" sketch:type="MSShapeGroup"></path>
+                <path d="M25,7 L20,0 L0,0 L0,51 L58,51 L58,14 L30,14 L25,7" id="Fill-1405" fill="#424A60" sketch:type="MSShapeGroup"></path>
+                <path d="M30,14 L58,14 L58,7 L25,7 L30,14" id="Fill-1406" fill="#71C3AA" sketch:type="MSShapeGroup"></path>
+                <path d="M18,26 L32,26 C32.552,26 33,25.553 33,25 C33,24.447 32.552,24 32,24 L18,24 C17.448,24 17,24.447 17,25 C17,25.553 17.448,26 18,26" id="Fill-1446" fill="#7383BF" sketch:type="MSShapeGroup"></path>
+                <path d="M18,32 L40,32 C40.552,32 41,31.553 41,31 C41,30.447 40.552,30 40,30 L18,30 C17.448,30 17,30.447 17,31 C17,31.553 17.448,32 18,32" id="Fill-1447" fill="#7383BF" sketch:type="MSShapeGroup"></path>
+                <path d="M40,36 L18,36 C17.448,36 17,36.447 17,37 C17,37.553 17.448,38 18,38 L40,38 C40.552,38 41,37.553 41,37 C41,36.447 40.552,36 40,36" id="Fill-1448" fill="#7383BF" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+name: koukicons
+description: Colorful Icons for your Flutter App
+version: 0.0.1
+author: Adem Kouki<ademkingnew@gmail.com>
+homepage: https://github.com/Ademking/koukicons_flutter.git
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  flutter_svg: ^0.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  assets:
+   - assets/

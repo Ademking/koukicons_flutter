@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="55px" height="57px" viewBox="0 0 55 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>277 - Frame Picture (Flat)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icons" sketch:type="MSArtboardGroup" transform="translate(-483.000000, -1558.000000)">
+            <g id="277---Frame-Picture-(Flat)" sketch:type="MSLayerGroup" transform="translate(484.000000, 1559.000000)">
+                <path d="M24.021,1.354 C18.163,5.042 7,15 7,15 L47,15 C47,15 35.836,5.042 29.979,1.354" id="Stroke-683" stroke="#556080" stroke-width="2" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M31,4 C31,6.209 29.209,8 27,8 C24.791,8 23,6.209 23,4 C23,1.791 24.791,0 27,0 C29.209,0 31,1.791 31,4 L31,4 Z" id="Fill-2556" fill="#949493" sketch:type="MSShapeGroup"></path>
+                <path d="M31,4 C31,6.209 29.209,8 27,8 C24.791,8 23,6.209 23,4 C23,1.791 24.791,0 27,0 C29.209,0 31,1.791 31,4 L31,4 Z" id="Stroke-2557" stroke="#C7CBC7" stroke-width="2" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M0,15 L53,15 L53,55 L0,55 L0,15 Z" id="Fill-2558" fill="#E8EDEE" sketch:type="MSShapeGroup"></path>
+                <path d="M0,15 L53,15 L53,55 L0,55 L0,15 Z" id="Stroke-2559" stroke="#424A60" stroke-width="2" sketch:type="MSShapeGroup"></path>
+                <path d="M4,19 L49,19 L49,51 L4,51 L4,19 Z" id="Fill-2560" fill="#424A60" sketch:type="MSShapeGroup"></path>
+                <path d="M4,19 L49,19 L49,51 L4,51 L4,19 Z" id="Stroke-2561" stroke="#E8EDEE" stroke-width="2" sketch:type="MSShapeGroup"></path>
+                <path d="M17.569,26.569 C17.569,29.092 15.523,31.138 13,31.138 C10.477,31.138 8.431,29.092 8.431,26.569 C8.431,24.046 10.477,22 13,22 C15.523,22 17.569,24.046 17.569,26.569" id="Fill-2565" fill="#F0CE49" sketch:type="MSShapeGroup"></path>
+                <path d="M48,41.111 L47,40 L35,29 L24.5,40.5 L34,50 L48,50 L48,41.111" id="Fill-2566" fill="#199172" sketch:type="MSShapeGroup"></path>
+                <path d="M5,50 L34,50 L19.017,35.017 L5,47.359 L5,50" id="Fill-2567" fill="#25AE88" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

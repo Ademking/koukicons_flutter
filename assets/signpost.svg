@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="55px" height="60px" viewBox="0 0 55 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>307 - Signpost (Flat)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icons" sketch:type="MSArtboardGroup" transform="translate(-483.000000, -1197.000000)">
+            <g id="307---Signpost-(Flat)" sketch:type="MSLayerGroup" transform="translate(482.000000, 1198.000000)">
+                <path d="M27,3 L27,0 M27,58 L27,39 M27,19 L27,23" id="Stroke-620" stroke="#38454F" stroke-width="2" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                <path d="M46.889,19 L8.397,19 C7.073,19 6,17.928 6,16.604 L6,5.397 C6,4.074 7.073,3 8.397,3 L46.889,3 L55.6,10.841 C55.695,10.926 55.695,11.075 55.6,11.16 L46.889,19" id="Fill-2517" fill="#23A24D" sketch:type="MSShapeGroup"></path>
+                <path d="M9.783,39 L48.603,39 C49.927,39 51,37.927 51,36.604 L51,25.397 C51,24.073 49.927,23 48.603,23 L9.783,23 L1.071,30.84 C0.976,30.926 0.976,31.074 1.071,31.16 L9.783,39" id="Fill-2518" fill="#ECBA16" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
