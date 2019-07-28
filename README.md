@@ -6,6 +6,12 @@
 
 🍪 This package provides Colorful Icons for Flutter Apps
 
+# Screenshot
+
+<p align="center">
+  <img width="200" src="images/screenshot.png">
+</p>
+
 ## Getting Started
 
 For help getting started with Flutter, view our 
