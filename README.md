@@ -12,7 +12,31 @@
   <img width="200" src="images/screenshot.png">
 </p>
 
-## Add new Icons
+# How to use
+
+To use this plugin, add `koukicons` as a dependency in your pubspec.yaml file.
+
+That's it! start using Icons - for example : `Koukicons(Koukicon.like),`
+
+### Example
+
+``` dart
+import 'package:koukicons/koukions.dart';
+...
+Column(
+  children: <Widget>[
+    Text("I"),
+    Koukicons(Koukicon.like),
+    Text("You"),
+  ],
+),
+```
+
+# List of Icons
+
+To Discover all the icons, [Click Here](ListIcons.md)
+
+# Add new Icons
 
 1. Fork this repository
 
