@@ -34,7 +34,7 @@ Column(
 
 # List of Icons
 
-To Discover all the icons, [Click Here](ListIcons.md)
+To Discover all the icons, [Click Here 🍪](https://github.com/Ademking/koukicons_flutter/blob/master/ListIcons.md)
 
 # Add new Icons
 
