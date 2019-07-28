@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" src="images/cookies.png">
+  <img width="150" src="https://i.imgur.com/9J994ci.png">
 </p>
 
 # Koukicons
@@ -9,7 +9,7 @@
 # Screenshot
 
 <p align="center">
-  <img width="200" src="images/screenshot.png">
+  <img width="200" src="https://i.imgur.com/SSipylN.png">
 </p>
 
 # How to use
