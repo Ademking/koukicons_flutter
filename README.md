@@ -1,14 +1,12 @@
+<p align="center">
+  <img width="150" src="images/cookies.png">
+</p>
+
 # Koukicons
 
-This package provides Colorful Icons for Flutter Apps
-
+🍪 This package provides Colorful Icons for Flutter Apps
 
 ## Getting Started
-
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
 
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
