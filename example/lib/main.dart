@@ -44,7 +44,7 @@ class _MyHomePageState extends State<MyHomePage> {
 				Row(
 					mainAxisAlignment: MainAxisAlignment.center,
 					children: <Widget>[
-						Koukicons(Koukicon.like_x),
+						Koukicons(Koukicon.likeX),
 						SizedBox(width: 10.0),
 						Koukicons(Koukicon.ok),
 						SizedBox(width: 10.0),
@@ -55,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
 					]
 				),
 				SizedBox(height: 10.0),
-				Koukicons(Koukicon.gallery_x, height: 100),
+				Koukicons(Koukicon.galleryX, height: 100),
 			]
 		),
 	  ), 
