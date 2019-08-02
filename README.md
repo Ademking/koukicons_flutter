@@ -18,13 +18,13 @@ To use this plugin, add `koukicons` as a dependency in your pubspec.yaml file.
 
 That's it! start using Your Icons:
 
-1. First you need to import the icons you need - Example:
+1. First you need to import the icons you need (List of icons [Here 🍪](https://github.com/Ademking/koukicons_flutter/blob/master/ListIcons.md)) - For example:
 
 ```  dart
 import 'package:koukicons/home.dart';
 import 'package:koukicons/gift.dart';
 import 'package:koukicons/pin.dart';
-\\ More icons here...
+\\ import more icons here...
 ```
 
 2. then you need call your Icons - (you can also specify width / height / color) :
@@ -61,6 +61,7 @@ To explore all the icons, [Click Here 🍪](https://github.com/Ademking/koukicon
 # App size
 
 Q: There are many icons. My app will be very big if i use this package?
+
 A: No, Don't worry. Your app will import only the icons that you are using. so your app size will be so small.
 
 
