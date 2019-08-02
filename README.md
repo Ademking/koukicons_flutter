@@ -27,7 +27,7 @@ import 'package:koukicons/pin.dart';
 \\ import more icons here...
 ```
 
-2. then you need call your Icons - (you can also specify width / height / color) :
+2. then you need to call your imported Icons - *(you can also specify **width** / **height** / **color**)* :
 
 ```  dart
 ...
