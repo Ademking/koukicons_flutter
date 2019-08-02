@@ -1,5 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:koukicons/koukicons.dart';
+
+// Import Icons
+import 'package:koukicons/gift.dart';
+import 'package:koukicons/like.dart';
+import 'package:koukicons/star.dart';
+import 'package:koukicons/pic2.dart';
+import 'package:koukicons/diamond.dart';
 
 void main() => runApp(MyApp());
 
@@ -26,39 +32,37 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
       ),
-      body:  Center(
-		child: Column(
-			mainAxisAlignment: MainAxisAlignment.center,
-			children: <Widget>[
-				Text("No More black & white Icons", style: TextStyle(fontSize: 20.0)),
-				SizedBox(height: 10.0),
-				Text("Enjoy Colorful Icons!", style: TextStyle(fontSize: 29.0)),
-				SizedBox(height: 10.0),
-				Row(
-					mainAxisAlignment: MainAxisAlignment.center,
-					children: <Widget>[
-						Koukicons(Koukicon.likeX),
-						SizedBox(width: 10.0),
-						Koukicons(Koukicon.ok),
-						SizedBox(width: 10.0),
-						Koukicons(Koukicon.pic2),
-						SizedBox(width: 10.0),
-						Koukicons(Koukicon.star),
-						
-					]
-				),
-				SizedBox(height: 10.0),
-				Koukicons(Koukicon.galleryX, height: 100),
-			]
-		),
-	  ), 
+      body: Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: <Widget>[
+            Text('+700 Colorful Icons!', style: TextStyle(fontSize: 30)),
+            Text('No more black & white icons', style: TextStyle(fontSize:16)),
+            SizedBox(
+              height: 10,
+            ),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: <Widget>[
+                KoukiconsGift(),
+                KoukiconsLike(),
+                KoukiconsStar(),
+                KoukiconsPic2(),
+              ],
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            KoukiconsDiamond(height: 100,),
+          ],
+        ),
+      ),
     );
   }
 }

@@ -1,0 +1,28 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_svg/flutter_svg.dart';
+
+// THIS FILE IS AUTO-GENERATED 
+
+class KoukiconsStar extends StatelessWidget {
+  final double height;
+  final double width;
+  final Color color;
+
+  final _svgString = '''
+	<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg width="54px" height="52px" viewBox="0 0 54 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->    <title>161 - Star (Flat)</title>    <desc>Created with Sketch.</desc>    <defs></defs>    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">        <g id="161---Star-(Flat)" sketch:type="MSLayerGroup" fill="#F0CE49">            <path d="M27.03,0 L35.353,16.864 L53.963,19.568 L40.497,32.696 L43.676,51.231 L27.03,42.479 L10.384,51.231 L13.563,32.696 L0.096,19.568 L18.707,16.864 L27.03,0" id="Fill-1012" sketch:type="MSShapeGroup"></path>        </g>    </g></svg>
+    ''';
+
+  KoukiconsStar({Key key, this.height, this.width, this.color}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return SvgPicture.string(
+      _svgString,
+      color: this.color,
+      height: this.height,
+      width: this.width,
+    );
+  }
+}
+
+    
