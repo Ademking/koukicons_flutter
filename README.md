@@ -78,3 +78,8 @@ python generator.py
 ```
 
 4. Pull request and eat some cookies 🍪🍪🍪 
+
+-----
+
+# If you like this package, Please Buy me some cookies 🍪🍪🍪
+[http://paypal.me/AdemKouki](http://paypal.me/AdemKouki)
