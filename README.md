@@ -6,13 +6,13 @@
 
 🍪 This package provides +700 Colorful Icons for Flutter Apps.
 
-# Screenshot
+# :iphone: Screenshot
 
 <p align="center">
   <img width="200" src="https://i.imgur.com/JGPJKq3.png">
 </p>
 
-# How to use
+# :question: How to use
 
 To use this plugin, add `koukicons` as a dependency in your pubspec.yaml file.
 
@@ -54,18 +54,25 @@ Column(
 ),
 ```
 
-# List of Icons
+# :star: List of Icons
 
 To explore all the icons, [Click Here 🍪](https://github.com/Ademking/koukicons_flutter/blob/master/ListIcons.md)
 
-# App size
+# :pushpin: App size
 
 Q: There are many icons. My app will be very big if i use this package?
 
 A: No, Don't worry. Your app will import only the icons that you are using. so your app size will be so small.
 
+# :warning: Disclaimer
 
-# How to add new icons to this library
+I don't own these Icons, i collected them from the entire internet. (Flaticons, and many other websites...). I have just made this collection to help others.I don't advice you to use it in commercial applications.
+
+You can use your own icons / contribute to this repository by adding new icons here (the part below...)
+
+Again, I made this package for educational purposes. Thank you :heart:
+
+# :question: How to add new icons to this library
 
 1. Fork this repository
 
