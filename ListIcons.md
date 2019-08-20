@@ -2,695 +2,695 @@
 
 | Icon name  | Preview  | Code |
 |---|---|---|
-| about | <p align="center"><img width="50" src="icons/about.svg"></p> | `import 'package:koukicons/about.dart';`<br>`KoukiconsAbout(), `|
-| acceptDatabase | <p align="center"><img width="50" src="icons/acceptDatabase.svg"></p> | `import 'package:koukicons/acceptDatabase.dart';`<br>`KoukiconsAcceptDatabase(), `|
-| add | <p align="center"><img width="50" src="icons/add.svg"></p> | `import 'package:koukicons/add.dart';`<br>`KoukiconsAdd(), `|
-| add2 | <p align="center"><img width="50" src="icons/add2.svg"></p> | `import 'package:koukicons/add2.dart';`<br>`KoukiconsAdd2(), `|
-| add3 | <p align="center"><img width="50" src="icons/add3.svg"></p> | `import 'package:koukicons/add3.dart';`<br>`KoukiconsAdd3(), `|
-| addApp | <p align="center"><img width="50" src="icons/addApp.svg"></p> | `import 'package:koukicons/addApp.dart';`<br>`KoukiconsAddApp(), `|
-| addColumn | <p align="center"><img width="50" src="icons/addColumn.svg"></p> | `import 'package:koukicons/addColumn.dart';`<br>`KoukiconsAddColumn(), `|
-| addDatabase | <p align="center"><img width="50" src="icons/addDatabase.svg"></p> | `import 'package:koukicons/addDatabase.dart';`<br>`KoukiconsAddDatabase(), `|
-| addImage | <p align="center"><img width="50" src="icons/addImage.svg"></p> | `import 'package:koukicons/addImage.dart';`<br>`KoukiconsAddImage(), `|
-| addressBook | <p align="center"><img width="50" src="icons/addressBook.svg"></p> | `import 'package:koukicons/addressBook.dart';`<br>`KoukiconsAddressBook(), `|
-| addRow | <p align="center"><img width="50" src="icons/addRow.svg"></p> | `import 'package:koukicons/addRow.dart';`<br>`KoukiconsAddRow(), `|
-| addWin | <p align="center"><img width="50" src="icons/addWin.svg"></p> | `import 'package:koukicons/addWin.dart';`<br>`KoukiconsAddWin(), `|
-| advance | <p align="center"><img width="50" src="icons/advance.svg"></p> | `import 'package:koukicons/advance.dart';`<br>`KoukiconsAdvance(), `|
-| advertising | <p align="center"><img width="50" src="icons/advertising.svg"></p> | `import 'package:koukicons/advertising.dart';`<br>`KoukiconsAdvertising(), `|
-| airdrop | <p align="center"><img width="50" src="icons/airdrop.svg"></p> | `import 'package:koukicons/airdrop.dart';`<br>`KoukiconsAirdrop(), `|
-| airplay | <p align="center"><img width="50" src="icons/airplay.svg"></p> | `import 'package:koukicons/airplay.dart';`<br>`KoukiconsAirplay(), `|
-| alarm1 | <p align="center"><img width="50" src="icons/alarm1.svg"></p> | `import 'package:koukicons/alarm1.dart';`<br>`KoukiconsAlarm1(), `|
-| alarm2 | <p align="center"><img width="50" src="icons/alarm2.svg"></p> | `import 'package:koukicons/alarm2.dart';`<br>`KoukiconsAlarm2(), `|
-| alarmClock | <p align="center"><img width="50" src="icons/alarmClock.svg"></p> | `import 'package:koukicons/alarmClock.dart';`<br>`KoukiconsAlarmClock(), `|
-| alarmoff | <p align="center"><img width="50" src="icons/alarmoff.svg"></p> | `import 'package:koukicons/alarmoff.dart';`<br>`KoukiconsAlarmoff(), `|
-| album | <p align="center"><img width="50" src="icons/album.svg"></p> | `import 'package:koukicons/album.dart';`<br>`KoukiconsAlbum(), `|
-| albumCd | <p align="center"><img width="50" src="icons/albumCd.svg"></p> | `import 'package:koukicons/albumCd.dart';`<br>`KoukiconsAlbumCd(), `|
-| albums | <p align="center"><img width="50" src="icons/albums.svg"></p> | `import 'package:koukicons/albums.dart';`<br>`KoukiconsAlbums(), `|
-| albums2 | <p align="center"><img width="50" src="icons/albums2.svg"></p> | `import 'package:koukicons/albums2.dart';`<br>`KoukiconsAlbums2(), `|
-| albumsView | <p align="center"><img width="50" src="icons/albumsView.svg"></p> | `import 'package:koukicons/albumsView.dart';`<br>`KoukiconsAlbumsView(), `|
-| alphabeticalSortingAz | <p align="center"><img width="50" src="icons/alphabeticalSortingAz.svg"></p> | `import 'package:koukicons/alphabeticalSortingAz.dart';`<br>`KoukiconsAlphabeticalSortingAz(), `|
-| alphabeticalSortingZa | <p align="center"><img width="50" src="icons/alphabeticalSortingZa.svg"></p> | `import 'package:koukicons/alphabeticalSortingZa.dart';`<br>`KoukiconsAlphabeticalSortingZa(), `|
-| answers | <p align="center"><img width="50" src="icons/answers.svg"></p> | `import 'package:koukicons/answers.dart';`<br>`KoukiconsAnswers(), `|
-| approval | <p align="center"><img width="50" src="icons/approval.svg"></p> | `import 'package:koukicons/approval.dart';`<br>`KoukiconsApproval(), `|
-| approve | <p align="center"><img width="50" src="icons/approve.svg"></p> | `import 'package:koukicons/approve.dart';`<br>`KoukiconsApprove(), `|
-| archive | <p align="center"><img width="50" src="icons/archive.svg"></p> | `import 'package:koukicons/archive.dart';`<br>`KoukiconsArchive(), `|
-| archive2 | <p align="center"><img width="50" src="icons/archive2.svg"></p> | `import 'package:koukicons/archive2.dart';`<br>`KoukiconsArchive2(), `|
-| archive3 | <p align="center"><img width="50" src="icons/archive3.svg"></p> | `import 'package:koukicons/archive3.dart';`<br>`KoukiconsArchive3(), `|
-| areaChart | <p align="center"><img width="50" src="icons/areaChart.svg"></p> | `import 'package:koukicons/areaChart.dart';`<br>`KoukiconsAreaChart(), `|
-| assistant | <p align="center"><img width="50" src="icons/assistant.svg"></p> | `import 'package:koukicons/assistant.dart';`<br>`KoukiconsAssistant(), `|
-| attach | <p align="center"><img width="50" src="icons/attach.svg"></p> | `import 'package:koukicons/attach.dart';`<br>`KoukiconsAttach(), `|
-| audioFile | <p align="center"><img width="50" src="icons/audioFile.svg"></p> | `import 'package:koukicons/audioFile.dart';`<br>`KoukiconsAudioFile(), `|
-| automatic | <p align="center"><img width="50" src="icons/automatic.svg"></p> | `import 'package:koukicons/automatic.dart';`<br>`KoukiconsAutomatic(), `|
-| automotive | <p align="center"><img width="50" src="icons/automotive.svg"></p> | `import 'package:koukicons/automotive.dart';`<br>`KoukiconsAutomotive(), `|
-| back | <p align="center"><img width="50" src="icons/back.svg"></p> | `import 'package:koukicons/back.dart';`<br>`KoukiconsBack(), `|
-| back2 | <p align="center"><img width="50" src="icons/back2.svg"></p> | `import 'package:koukicons/back2.dart';`<br>`KoukiconsBack2(), `|
-| badDecision | <p align="center"><img width="50" src="icons/badDecision.svg"></p> | `import 'package:koukicons/badDecision.dart';`<br>`KoukiconsBadDecision(), `|
-| barChart | <p align="center"><img width="50" src="icons/barChart.svg"></p> | `import 'package:koukicons/barChart.dart';`<br>`KoukiconsBarChart(), `|
-| bearish | <p align="center"><img width="50" src="icons/bearish.svg"></p> | `import 'package:koukicons/bearish.dart';`<br>`KoukiconsBearish(), `|
-| binoculars | <p align="center"><img width="50" src="icons/binoculars.svg"></p> | `import 'package:koukicons/binoculars.dart';`<br>`KoukiconsBinoculars(), `|
-| biohazard | <p align="center"><img width="50" src="icons/biohazard.svg"></p> | `import 'package:koukicons/biohazard.dart';`<br>`KoukiconsBiohazard(), `|
-| biomass | <p align="center"><img width="50" src="icons/biomass.svg"></p> | `import 'package:koukicons/biomass.dart';`<br>`KoukiconsBiomass(), `|
-| biotech | <p align="center"><img width="50" src="icons/biotech.svg"></p> | `import 'package:koukicons/biotech.dart';`<br>`KoukiconsBiotech(), `|
-| blueprint | <p align="center"><img width="50" src="icons/blueprint.svg"></p> | `import 'package:koukicons/blueprint.dart';`<br>`KoukiconsBlueprint(), `|
-| bluetooth | <p align="center"><img width="50" src="icons/bluetooth.svg"></p> | `import 'package:koukicons/bluetooth.dart';`<br>`KoukiconsBluetooth(), `|
-| bluetooth2 | <p align="center"><img width="50" src="icons/bluetooth2.svg"></p> | `import 'package:koukicons/bluetooth2.dart';`<br>`KoukiconsBluetooth2(), `|
-| bookmark | <p align="center"><img width="50" src="icons/bookmark.svg"></p> | `import 'package:koukicons/bookmark.dart';`<br>`KoukiconsBookmark(), `|
-| bookmark2 | <p align="center"><img width="50" src="icons/bookmark2.svg"></p> | `import 'package:koukicons/bookmark2.dart';`<br>`KoukiconsBookmark2(), `|
-| bookmarkC | <p align="center"><img width="50" src="icons/bookmarkC.svg"></p> | `import 'package:koukicons/bookmarkC.dart';`<br>`KoukiconsBookmarkC(), `|
-| box | <p align="center"><img width="50" src="icons/box.svg"></p> | `import 'package:koukicons/box.dart';`<br>`KoukiconsBox(), `|
-| boxArchive | <p align="center"><img width="50" src="icons/boxArchive.svg"></p> | `import 'package:koukicons/boxArchive.dart';`<br>`KoukiconsBoxArchive(), `|
-| boxArchive2 | <p align="center"><img width="50" src="icons/boxArchive2.svg"></p> | `import 'package:koukicons/boxArchive2.dart';`<br>`KoukiconsBoxArchive2(), `|
-| briefcase | <p align="center"><img width="50" src="icons/briefcase.svg"></p> | `import 'package:koukicons/briefcase.dart';`<br>`KoukiconsBriefcase(), `|
-| brokenLink | <p align="center"><img width="50" src="icons/brokenLink.svg"></p> | `import 'package:koukicons/brokenLink.dart';`<br>`KoukiconsBrokenLink(), `|
-| brokenLink2 | <p align="center"><img width="50" src="icons/brokenLink2.svg"></p> | `import 'package:koukicons/brokenLink2.dart';`<br>`KoukiconsBrokenLink2(), `|
-| bullish | <p align="center"><img width="50" src="icons/bullish.svg"></p> | `import 'package:koukicons/bullish.dart';`<br>`KoukiconsBullish(), `|
-| business | <p align="center"><img width="50" src="icons/business.svg"></p> | `import 'package:koukicons/business.dart';`<br>`KoukiconsBusiness(), `|
-| businessContact | <p align="center"><img width="50" src="icons/businessContact.svg"></p> | `import 'package:koukicons/businessContact.dart';`<br>`KoukiconsBusinessContact(), `|
-| businessman | <p align="center"><img width="50" src="icons/businessman.svg"></p> | `import 'package:koukicons/businessman.dart';`<br>`KoukiconsBusinessman(), `|
-| businesswoman | <p align="center"><img width="50" src="icons/businesswoman.svg"></p> | `import 'package:koukicons/businesswoman.dart';`<br>`KoukiconsBusinesswoman(), `|
-| buttingIn | <p align="center"><img width="50" src="icons/buttingIn.svg"></p> | `import 'package:koukicons/buttingIn.dart';`<br>`KoukiconsButtingIn(), `|
-| cableRelease | <p align="center"><img width="50" src="icons/cableRelease.svg"></p> | `import 'package:koukicons/cableRelease.dart';`<br>`KoukiconsCableRelease(), `|
-| calc | <p align="center"><img width="50" src="icons/calc.svg"></p> | `import 'package:koukicons/calc.dart';`<br>`KoukiconsCalc(), `|
-| calc2 | <p align="center"><img width="50" src="icons/calc2.svg"></p> | `import 'package:koukicons/calc2.dart';`<br>`KoukiconsCalc2(), `|
-| calculator | <p align="center"><img width="50" src="icons/calculator.svg"></p> | `import 'package:koukicons/calculator.dart';`<br>`KoukiconsCalculator(), `|
-| calend | <p align="center"><img width="50" src="icons/calend.svg"></p> | `import 'package:koukicons/calend.dart';`<br>`KoukiconsCalend(), `|
-| calendar | <p align="center"><img width="50" src="icons/calendar.svg"></p> | `import 'package:koukicons/calendar.dart';`<br>`KoukiconsCalendar(), `|
-| calendar1 | <p align="center"><img width="50" src="icons/calendar1.svg"></p> | `import 'package:koukicons/calendar1.dart';`<br>`KoukiconsCalendar1(), `|
-| calendar2 | <p align="center"><img width="50" src="icons/calendar2.svg"></p> | `import 'package:koukicons/calendar2.dart';`<br>`KoukiconsCalendar2(), `|
-| calendar3 | <p align="center"><img width="50" src="icons/calendar3.svg"></p> | `import 'package:koukicons/calendar3.dart';`<br>`KoukiconsCalendar3(), `|
-| calendar4 | <p align="center"><img width="50" src="icons/calendar4.svg"></p> | `import 'package:koukicons/calendar4.dart';`<br>`KoukiconsCalendar4(), `|
-| calendar5 | <p align="center"><img width="50" src="icons/calendar5.svg"></p> | `import 'package:koukicons/calendar5.dart';`<br>`KoukiconsCalendar5(), `|
-| callback | <p align="center"><img width="50" src="icons/callback.svg"></p> | `import 'package:koukicons/callback.dart';`<br>`KoukiconsCallback(), `|
-| callTransfer | <p align="center"><img width="50" src="icons/callTransfer.svg"></p> | `import 'package:koukicons/callTransfer.dart';`<br>`KoukiconsCallTransfer(), `|
-| camcorder | <p align="center"><img width="50" src="icons/camcorder.svg"></p> | `import 'package:koukicons/camcorder.dart';`<br>`KoukiconsCamcorder(), `|
-| camcorderPro | <p align="center"><img width="50" src="icons/camcorderPro.svg"></p> | `import 'package:koukicons/camcorderPro.dart';`<br>`KoukiconsCamcorderPro(), `|
-| camera | <p align="center"><img width="50" src="icons/camera.svg"></p> | `import 'package:koukicons/camera.dart';`<br>`KoukiconsCamera(), `|
-| camera2 | <p align="center"><img width="50" src="icons/camera2.svg"></p> | `import 'package:koukicons/camera2.dart';`<br>`KoukiconsCamera2(), `|
-| cameraAddon | <p align="center"><img width="50" src="icons/cameraAddon.svg"></p> | `import 'package:koukicons/cameraAddon.dart';`<br>`KoukiconsCameraAddon(), `|
-| cameraIdentification | <p align="center"><img width="50" src="icons/cameraIdentification.svg"></p> | `import 'package:koukicons/cameraIdentification.dart';`<br>`KoukiconsCameraIdentification(), `|
-| camx | <p align="center"><img width="50" src="icons/camx.svg"></p> | `import 'package:koukicons/camx.dart';`<br>`KoukiconsCamx(), `|
-| cancel | <p align="center"><img width="50" src="icons/cancel.svg"></p> | `import 'package:koukicons/cancel.dart';`<br>`KoukiconsCancel(), `|
-| candleSticks | <p align="center"><img width="50" src="icons/candleSticks.svg"></p> | `import 'package:koukicons/candleSticks.dart';`<br>`KoukiconsCandleSticks(), `|
-| capacitor | <p align="center"><img width="50" src="icons/capacitor.svg"></p> | `import 'package:koukicons/capacitor.dart';`<br>`KoukiconsCapacitor(), `|
-| caseX | <p align="center"><img width="50" src="icons/caseX.svg"></p> | `import 'package:koukicons/caseX.dart';`<br>`KoukiconsCaseX(), `|
-| cd | <p align="center"><img width="50" src="icons/cd.svg"></p> | `import 'package:koukicons/cd.dart';`<br>`KoukiconsCd(), `|
-| cd2 | <p align="center"><img width="50" src="icons/cd2.svg"></p> | `import 'package:koukicons/cd2.dart';`<br>`KoukiconsCd2(), `|
-| cellPhone | <p align="center"><img width="50" src="icons/cellPhone.svg"></p> | `import 'package:koukicons/cellPhone.dart';`<br>`KoukiconsCellPhone(), `|
-| chargeBattery | <p align="center"><img width="50" src="icons/chargeBattery.svg"></p> | `import 'package:koukicons/chargeBattery.dart';`<br>`KoukiconsChargeBattery(), `|
-| chargingBattery | <p align="center"><img width="50" src="icons/chargingBattery.svg"></p> | `import 'package:koukicons/chargingBattery.dart';`<br>`KoukiconsChargingBattery(), `|
-| checklist | <p align="center"><img width="50" src="icons/checklist.svg"></p> | `import 'package:koukicons/checklist.dart';`<br>`KoukiconsChecklist(), `|
-| checkmark | <p align="center"><img width="50" src="icons/checkmark.svg"></p> | `import 'package:koukicons/checkmark.dart';`<br>`KoukiconsCheckmark(), `|
-| circuit | <p align="center"><img width="50" src="icons/circuit.svg"></p> | `import 'package:koukicons/circuit.dart';`<br>`KoukiconsCircuit(), `|
-| clapperboard | <p align="center"><img width="50" src="icons/clapperboard.svg"></p> | `import 'package:koukicons/clapperboard.dart';`<br>`KoukiconsClapperboard(), `|
-| clearFilters | <p align="center"><img width="50" src="icons/clearFilters.svg"></p> | `import 'package:koukicons/clearFilters.dart';`<br>`KoukiconsClearFilters(), `|
-| clock | <p align="center"><img width="50" src="icons/clock.svg"></p> | `import 'package:koukicons/clock.dart';`<br>`KoukiconsClock(), `|
-| clock2 | <p align="center"><img width="50" src="icons/clock2.svg"></p> | `import 'package:koukicons/clock2.dart';`<br>`KoukiconsClock2(), `|
-| clocktime | <p align="center"><img width="50" src="icons/clocktime.svg"></p> | `import 'package:koukicons/clocktime.dart';`<br>`KoukiconsClocktime(), `|
-| closeUpMode | <p align="center"><img width="50" src="icons/closeUpMode.svg"></p> | `import 'package:koukicons/closeUpMode.dart';`<br>`KoukiconsCloseUpMode(), `|
-| cloth | <p align="center"><img width="50" src="icons/cloth.svg"></p> | `import 'package:koukicons/cloth.dart';`<br>`KoukiconsCloth(), `|
-| cloud | <p align="center"><img width="50" src="icons/cloud.svg"></p> | `import 'package:koukicons/cloud.dart';`<br>`KoukiconsCloud(), `|
-| cloudDown | <p align="center"><img width="50" src="icons/cloudDown.svg"></p> | `import 'package:koukicons/cloudDown.dart';`<br>`KoukiconsCloudDown(), `|
-| cloudSearch | <p align="center"><img width="50" src="icons/cloudSearch.svg"></p> | `import 'package:koukicons/cloudSearch.dart';`<br>`KoukiconsCloudSearch(), `|
-| cloudSync | <p align="center"><img width="50" src="icons/cloudSync.svg"></p> | `import 'package:koukicons/cloudSync.dart';`<br>`KoukiconsCloudSync(), `|
-| cloudTransfert | <p align="center"><img width="50" src="icons/cloudTransfert.svg"></p> | `import 'package:koukicons/cloudTransfert.dart';`<br>`KoukiconsCloudTransfert(), `|
-| cloudUpload | <p align="center"><img width="50" src="icons/cloudUpload.svg"></p> | `import 'package:koukicons/cloudUpload.dart';`<br>`KoukiconsCloudUpload(), `|
-| cloudWarning | <p align="center"><img width="50" src="icons/cloudWarning.svg"></p> | `import 'package:koukicons/cloudWarning.dart';`<br>`KoukiconsCloudWarning(), `|
-| collaboration | <p align="center"><img width="50" src="icons/collaboration.svg"></p> | `import 'package:koukicons/collaboration.dart';`<br>`KoukiconsCollaboration(), `|
-| collapse | <p align="center"><img width="50" src="icons/collapse.svg"></p> | `import 'package:koukicons/collapse.dart';`<br>`KoukiconsCollapse(), `|
-| collect | <p align="center"><img width="50" src="icons/collect.svg"></p> | `import 'package:koukicons/collect.dart';`<br>`KoukiconsCollect(), `|
-| comboChart | <p align="center"><img width="50" src="icons/comboChart.svg"></p> | `import 'package:koukicons/comboChart.dart';`<br>`KoukiconsComboChart(), `|
-| command | <p align="center"><img width="50" src="icons/command.svg"></p> | `import 'package:koukicons/command.dart';`<br>`KoukiconsCommand(), `|
-| comments | <p align="center"><img width="50" src="icons/comments.svg"></p> | `import 'package:koukicons/comments.dart';`<br>`KoukiconsComments(), `|
-| compactCamera | <p align="center"><img width="50" src="icons/compactCamera.svg"></p> | `import 'package:koukicons/compactCamera.dart';`<br>`KoukiconsCompactCamera(), `|
-| compass | <p align="center"><img width="50" src="icons/compass.svg"></p> | `import 'package:koukicons/compass.dart';`<br>`KoukiconsCompass(), `|
-| compose | <p align="center"><img width="50" src="icons/compose.svg"></p> | `import 'package:koukicons/compose.dart';`<br>`KoukiconsCompose(), `|
-| conferenceCall | <p align="center"><img width="50" src="icons/conferenceCall.svg"></p> | `import 'package:koukicons/conferenceCall.dart';`<br>`KoukiconsConferenceCall(), `|
-| connectedNetwork | <p align="center"><img width="50" src="icons/connectedNetwork.svg"></p> | `import 'package:koukicons/connectedNetwork.dart';`<br>`KoukiconsConnectedNetwork(), `|
-| contacts | <p align="center"><img width="50" src="icons/contacts.svg"></p> | `import 'package:koukicons/contacts.dart';`<br>`KoukiconsContacts(), `|
-| controls1 | <p align="center"><img width="50" src="icons/controls1.svg"></p> | `import 'package:koukicons/controls1.dart';`<br>`KoukiconsControls1(), `|
-| controls10 | <p align="center"><img width="50" src="icons/controls10.svg"></p> | `import 'package:koukicons/controls10.dart';`<br>`KoukiconsControls10(), `|
-| controls2 | <p align="center"><img width="50" src="icons/controls2.svg"></p> | `import 'package:koukicons/controls2.dart';`<br>`KoukiconsControls2(), `|
-| controls3 | <p align="center"><img width="50" src="icons/controls3.svg"></p> | `import 'package:koukicons/controls3.dart';`<br>`KoukiconsControls3(), `|
-| controls4 | <p align="center"><img width="50" src="icons/controls4.svg"></p> | `import 'package:koukicons/controls4.dart';`<br>`KoukiconsControls4(), `|
-| controls5 | <p align="center"><img width="50" src="icons/controls5.svg"></p> | `import 'package:koukicons/controls5.dart';`<br>`KoukiconsControls5(), `|
-| controls6 | <p align="center"><img width="50" src="icons/controls6.svg"></p> | `import 'package:koukicons/controls6.dart';`<br>`KoukiconsControls6(), `|
-| controls7 | <p align="center"><img width="50" src="icons/controls7.svg"></p> | `import 'package:koukicons/controls7.dart';`<br>`KoukiconsControls7(), `|
-| controls8 | <p align="center"><img width="50" src="icons/controls8.svg"></p> | `import 'package:koukicons/controls8.dart';`<br>`KoukiconsControls8(), `|
-| controls9 | <p align="center"><img width="50" src="icons/controls9.svg"></p> | `import 'package:koukicons/controls9.dart';`<br>`KoukiconsControls9(), `|
-| copyleft | <p align="center"><img width="50" src="icons/copyleft.svg"></p> | `import 'package:koukicons/copyleft.dart';`<br>`KoukiconsCopyleft(), `|
-| copyright | <p align="center"><img width="50" src="icons/copyright.svg"></p> | `import 'package:koukicons/copyright.dart';`<br>`KoukiconsCopyright(), `|
-| crystalOscillator | <p align="center"><img width="50" src="icons/crystalOscillator.svg"></p> | `import 'package:koukicons/crystalOscillator.dart';`<br>`KoukiconsCrystalOscillator(), `|
-| currencyExchange | <p align="center"><img width="50" src="icons/currencyExchange.svg"></p> | `import 'package:koukicons/currencyExchange.dart';`<br>`KoukiconsCurrencyExchange(), `|
-| cursor | <p align="center"><img width="50" src="icons/cursor.svg"></p> | `import 'package:koukicons/cursor.dart';`<br>`KoukiconsCursor(), `|
-| customerSupport | <p align="center"><img width="50" src="icons/customerSupport.svg"></p> | `import 'package:koukicons/customerSupport.dart';`<br>`KoukiconsCustomerSupport(), `|
-| dam | <p align="center"><img width="50" src="icons/dam.svg"></p> | `import 'package:koukicons/dam.dart';`<br>`KoukiconsDam(), `|
-| dataBackup | <p align="center"><img width="50" src="icons/dataBackup.svg"></p> | `import 'package:koukicons/dataBackup.dart';`<br>`KoukiconsDataBackup(), `|
-| database | <p align="center"><img width="50" src="icons/database.svg"></p> | `import 'package:koukicons/database.dart';`<br>`KoukiconsDatabase(), `|
-| database2 | <p align="center"><img width="50" src="icons/database2.svg"></p> | `import 'package:koukicons/database2.dart';`<br>`KoukiconsDatabase2(), `|
-| database3 | <p align="center"><img width="50" src="icons/database3.svg"></p> | `import 'package:koukicons/database3.dart';`<br>`KoukiconsDatabase3(), `|
-| databaseNetwork | <p align="center"><img width="50" src="icons/databaseNetwork.svg"></p> | `import 'package:koukicons/databaseNetwork.dart';`<br>`KoukiconsDatabaseNetwork(), `|
-| databaseX | <p align="center"><img width="50" src="icons/databaseX.svg"></p> | `import 'package:koukicons/databaseX.dart';`<br>`KoukiconsDatabaseX(), `|
-| dataConfiguration | <p align="center"><img width="50" src="icons/dataConfiguration.svg"></p> | `import 'package:koukicons/dataConfiguration.dart';`<br>`KoukiconsDataConfiguration(), `|
-| dataEncryption | <p align="center"><img width="50" src="icons/dataEncryption.svg"></p> | `import 'package:koukicons/dataEncryption.dart';`<br>`KoukiconsDataEncryption(), `|
-| dataProtection | <p align="center"><img width="50" src="icons/dataProtection.svg"></p> | `import 'package:koukicons/dataProtection.dart';`<br>`KoukiconsDataProtection(), `|
-| dataRecovery | <p align="center"><img width="50" src="icons/dataRecovery.svg"></p> | `import 'package:koukicons/dataRecovery.dart';`<br>`KoukiconsDataRecovery(), `|
-| dataSheet | <p align="center"><img width="50" src="icons/dataSheet.svg"></p> | `import 'package:koukicons/dataSheet.dart';`<br>`KoukiconsDataSheet(), `|
-| debt | <p align="center"><img width="50" src="icons/debt.svg"></p> | `import 'package:koukicons/debt.dart';`<br>`KoukiconsDebt(), `|
-| decision | <p align="center"><img width="50" src="icons/decision.svg"></p> | `import 'package:koukicons/decision.dart';`<br>`KoukiconsDecision(), `|
-| deleteColumn | <p align="center"><img width="50" src="icons/deleteColumn.svg"></p> | `import 'package:koukicons/deleteColumn.dart';`<br>`KoukiconsDeleteColumn(), `|
-| deleteDatabase | <p align="center"><img width="50" src="icons/deleteDatabase.svg"></p> | `import 'package:koukicons/deleteDatabase.dart';`<br>`KoukiconsDeleteDatabase(), `|
-| deleteRow | <p align="center"><img width="50" src="icons/deleteRow.svg"></p> | `import 'package:koukicons/deleteRow.dart';`<br>`KoukiconsDeleteRow(), `|
-| department | <p align="center"><img width="50" src="icons/department.svg"></p> | `import 'package:koukicons/department.dart';`<br>`KoukiconsDepartment(), `|
-| deployment | <p align="center"><img width="50" src="icons/deployment.svg"></p> | `import 'package:koukicons/deployment.dart';`<br>`KoukiconsDeployment(), `|
-| dialPad | <p align="center"><img width="50" src="icons/dialPad.svg"></p> | `import 'package:koukicons/dialPad.dart';`<br>`KoukiconsDialPad(), `|
-| diamond | <p align="center"><img width="50" src="icons/diamond.svg"></p> | `import 'package:koukicons/diamond.dart';`<br>`KoukiconsDiamond(), `|
-| diploamaX | <p align="center"><img width="50" src="icons/diploamaX.svg"></p> | `import 'package:koukicons/diploamaX.dart';`<br>`KoukiconsDiploamaX(), `|
-| diploma | <p align="center"><img width="50" src="icons/diploma.svg"></p> | `import 'package:koukicons/diploma.dart';`<br>`KoukiconsDiploma(), `|
-| diploma1 | <p align="center"><img width="50" src="icons/diploma1.svg"></p> | `import 'package:koukicons/diploma1.dart';`<br>`KoukiconsDiploma1(), `|
-| disapprove | <p align="center"><img width="50" src="icons/disapprove.svg"></p> | `import 'package:koukicons/disapprove.dart';`<br>`KoukiconsDisapprove(), `|
-| disclaimer | <p align="center"><img width="50" src="icons/disclaimer.svg"></p> | `import 'package:koukicons/disclaimer.dart';`<br>`KoukiconsDisclaimer(), `|
-| disconnectedNetwork | <p align="center"><img width="50" src="icons/disconnectedNetwork.svg"></p> | `import 'package:koukicons/disconnectedNetwork.dart';`<br>`KoukiconsDisconnectedNetwork(), `|
-| dislike | <p align="center"><img width="50" src="icons/dislike.svg"></p> | `import 'package:koukicons/dislike.dart';`<br>`KoukiconsDislike(), `|
-| disliked | <p align="center"><img width="50" src="icons/disliked.svg"></p> | `import 'package:koukicons/disliked.dart';`<br>`KoukiconsDisliked(), `|
-| display | <p align="center"><img width="50" src="icons/display.svg"></p> | `import 'package:koukicons/display.dart';`<br>`KoukiconsDisplay(), `|
-| divide | <p align="center"><img width="50" src="icons/divide.svg"></p> | `import 'package:koukicons/divide.dart';`<br>`KoukiconsDivide(), `|
-| divide2 | <p align="center"><img width="50" src="icons/divide2.svg"></p> | `import 'package:koukicons/divide2.dart';`<br>`KoukiconsDivide2(), `|
-| divide3 | <p align="center"><img width="50" src="icons/divide3.svg"></p> | `import 'package:koukicons/divide3.dart';`<br>`KoukiconsDivide3(), `|
-| doc | <p align="center"><img width="50" src="icons/doc.svg"></p> | `import 'package:koukicons/doc.dart';`<br>`KoukiconsDoc(), `|
-| docFolder | <p align="center"><img width="50" src="icons/docFolder.svg"></p> | `import 'package:koukicons/docFolder.dart';`<br>`KoukiconsDocFolder(), `|
-| docFolder2 | <p align="center"><img width="50" src="icons/docFolder2.svg"></p> | `import 'package:koukicons/docFolder2.dart';`<br>`KoukiconsDocFolder2(), `|
-| docFolder3 | <p align="center"><img width="50" src="icons/docFolder3.svg"></p> | `import 'package:koukicons/docFolder3.dart';`<br>`KoukiconsDocFolder3(), `|
-| docFolder4 | <p align="center"><img width="50" src="icons/docFolder4.svg"></p> | `import 'package:koukicons/docFolder4.dart';`<br>`KoukiconsDocFolder4(), `|
-| document | <p align="center"><img width="50" src="icons/document.svg"></p> | `import 'package:koukicons/document.dart';`<br>`KoukiconsDocument(), `|
-| donate | <p align="center"><img width="50" src="icons/donate.svg"></p> | `import 'package:koukicons/donate.dart';`<br>`KoukiconsDonate(), `|
-| doNotInhale | <p align="center"><img width="50" src="icons/doNotInhale.svg"></p> | `import 'package:koukicons/doNotInhale.dart';`<br>`KoukiconsDoNotInhale(), `|
-| doNotInsert | <p align="center"><img width="50" src="icons/doNotInsert.svg"></p> | `import 'package:koukicons/doNotInsert.dart';`<br>`KoukiconsDoNotInsert(), `|
-| doNotMix | <p align="center"><img width="50" src="icons/doNotMix.svg"></p> | `import 'package:koukicons/doNotMix.dart';`<br>`KoukiconsDoNotMix(), `|
-| doughnutChart | <p align="center"><img width="50" src="icons/doughnutChart.svg"></p> | `import 'package:koukicons/doughnutChart.dart';`<br>`KoukiconsDoughnutChart(), `|
-| down | <p align="center"><img width="50" src="icons/down.svg"></p> | `import 'package:koukicons/down.dart';`<br>`KoukiconsDown(), `|
-| downLeft | <p align="center"><img width="50" src="icons/downLeft.svg"></p> | `import 'package:koukicons/downLeft.dart';`<br>`KoukiconsDownLeft(), `|
-| download | <p align="center"><img width="50" src="icons/download.svg"></p> | `import 'package:koukicons/download.dart';`<br>`KoukiconsDownload(), `|
-| downloadFolder | <p align="center"><img width="50" src="icons/downloadFolder.svg"></p> | `import 'package:koukicons/downloadFolder.dart';`<br>`KoukiconsDownloadFolder(), `|
-| downloadX | <p align="center"><img width="50" src="icons/downloadX.svg"></p> | `import 'package:koukicons/downloadX.dart';`<br>`KoukiconsDownloadX(), `|
-| downRight | <p align="center"><img width="50" src="icons/downRight.svg"></p> | `import 'package:koukicons/downRight.dart';`<br>`KoukiconsDownRight(), `|
-| drainingBattery | <p align="center"><img width="50" src="icons/drainingBattery.svg"></p> | `import 'package:koukicons/drainingBattery.dart';`<br>`KoukiconsDrainingBattery(), `|
-| drainingBattery2 | <p align="center"><img width="50" src="icons/drainingBattery2.svg"></p> | `import 'package:koukicons/drainingBattery2.dart';`<br>`KoukiconsDrainingBattery2(), `|
-| driverLicence | <p align="center"><img width="50" src="icons/driverLicence.svg"></p> | `import 'package:koukicons/driverLicence.dart';`<br>`KoukiconsDriverLicence(), `|
-| edit | <p align="center"><img width="50" src="icons/edit.svg"></p> | `import 'package:koukicons/edit.dart';`<br>`KoukiconsEdit(), `|
-| editDoc | <p align="center"><img width="50" src="icons/editDoc.svg"></p> | `import 'package:koukicons/editDoc.dart';`<br>`KoukiconsEditDoc(), `|
-| editImage | <p align="center"><img width="50" src="icons/editImage.svg"></p> | `import 'package:koukicons/editImage.dart';`<br>`KoukiconsEditImage(), `|
-| eject | <p align="center"><img width="50" src="icons/eject.svg"></p> | `import 'package:koukicons/eject.dart';`<br>`KoukiconsEject(), `|
-| eject2 | <p align="center"><img width="50" src="icons/eject2.svg"></p> | `import 'package:koukicons/eject2.dart';`<br>`KoukiconsEject2(), `|
-| electricalSensor | <p align="center"><img width="50" src="icons/electricalSensor.svg"></p> | `import 'package:koukicons/electricalSensor.dart';`<br>`KoukiconsElectricalSensor(), `|
-| electricalThreshold | <p align="center"><img width="50" src="icons/electricalThreshold.svg"></p> | `import 'package:koukicons/electricalThreshold.dart';`<br>`KoukiconsElectricalThreshold(), `|
-| electricity | <p align="center"><img width="50" src="icons/electricity.svg"></p> | `import 'package:koukicons/electricity.dart';`<br>`KoukiconsElectricity(), `|
-| electroDevices | <p align="center"><img width="50" src="icons/electroDevices.svg"></p> | `import 'package:koukicons/electroDevices.dart';`<br>`KoukiconsElectroDevices(), `|
-| electronics | <p align="center"><img width="50" src="icons/electronics.svg"></p> | `import 'package:koukicons/electronics.dart';`<br>`KoukiconsElectronics(), `|
-| employeeBadge | <p align="center"><img width="50" src="icons/employeeBadge.svg"></p> | `import 'package:koukicons/employeeBadge.dart';`<br>`KoukiconsEmployeeBadge(), `|
-| employeeBadge2 | <p align="center"><img width="50" src="icons/employeeBadge2.svg"></p> | `import 'package:koukicons/employeeBadge2.dart';`<br>`KoukiconsEmployeeBadge2(), `|
-| employeeBadge3 | <p align="center"><img width="50" src="icons/employeeBadge3.svg"></p> | `import 'package:koukicons/employeeBadge3.dart';`<br>`KoukiconsEmployeeBadge3(), `|
-| employeeBadge4 | <p align="center"><img width="50" src="icons/employeeBadge4.svg"></p> | `import 'package:koukicons/employeeBadge4.dart';`<br>`KoukiconsEmployeeBadge4(), `|
-| emptyBattery | <p align="center"><img width="50" src="icons/emptyBattery.svg"></p> | `import 'package:koukicons/emptyBattery.dart';`<br>`KoukiconsEmptyBattery(), `|
-| emptyFilter | <p align="center"><img width="50" src="icons/emptyFilter.svg"></p> | `import 'package:koukicons/emptyFilter.dart';`<br>`KoukiconsEmptyFilter(), `|
-| emptyTrash | <p align="center"><img width="50" src="icons/emptyTrash.svg"></p> | `import 'package:koukicons/emptyTrash.dart';`<br>`KoukiconsEmptyTrash(), `|
-| endCall | <p align="center"><img width="50" src="icons/endCall.svg"></p> | `import 'package:koukicons/endCall.dart';`<br>`KoukiconsEndCall(), `|
-| engineering | <p align="center"><img width="50" src="icons/engineering.svg"></p> | `import 'package:koukicons/engineering.dart';`<br>`KoukiconsEngineering(), `|
-| enter | <p align="center"><img width="50" src="icons/enter.svg"></p> | `import 'package:koukicons/enter.dart';`<br>`KoukiconsEnter(), `|
-| enteringHeavenAlive | <p align="center"><img width="50" src="icons/enteringHeavenAlive.svg"></p> | `import 'package:koukicons/enteringHeavenAlive.dart';`<br>`KoukiconsEnteringHeavenAlive(), `|
-| equal | <p align="center"><img width="50" src="icons/equal.svg"></p> | `import 'package:koukicons/equal.dart';`<br>`KoukiconsEqual(), `|
-| equal2 | <p align="center"><img width="50" src="icons/equal2.svg"></p> | `import 'package:koukicons/equal2.dart';`<br>`KoukiconsEqual2(), `|
-| equal3 | <p align="center"><img width="50" src="icons/equal3.svg"></p> | `import 'package:koukicons/equal3.dart';`<br>`KoukiconsEqual3(), `|
-| error | <p align="center"><img width="50" src="icons/error.svg"></p> | `import 'package:koukicons/error.dart';`<br>`KoukiconsError(), `|
-| eventDate | <p align="center"><img width="50" src="icons/eventDate.svg"></p> | `import 'package:koukicons/eventDate.dart';`<br>`KoukiconsEventDate(), `|
-| eventDate2 | <p align="center"><img width="50" src="icons/eventDate2.svg"></p> | `import 'package:koukicons/eventDate2.dart';`<br>`KoukiconsEventDate2(), `|
-| exitArrow | <p align="center"><img width="50" src="icons/exitArrow.svg"></p> | `import 'package:koukicons/exitArrow.dart';`<br>`KoukiconsExitArrow(), `|
-| exitDoor | <p align="center"><img width="50" src="icons/exitDoor.svg"></p> | `import 'package:koukicons/exitDoor.dart';`<br>`KoukiconsExitDoor(), `|
-| exitDoor2 | <p align="center"><img width="50" src="icons/exitDoor2.svg"></p> | `import 'package:koukicons/exitDoor2.dart';`<br>`KoukiconsExitDoor2(), `|
-| exitWin | <p align="center"><img width="50" src="icons/exitWin.svg"></p> | `import 'package:koukicons/exitWin.dart';`<br>`KoukiconsExitWin(), `|
-| expand | <p align="center"><img width="50" src="icons/expand.svg"></p> | `import 'package:koukicons/expand.dart';`<br>`KoukiconsExpand(), `|
-| expired | <p align="center"><img width="50" src="icons/expired.svg"></p> | `import 'package:koukicons/expired.dart';`<br>`KoukiconsExpired(), `|
-| export | <p align="center"><img width="50" src="icons/export.svg"></p> | `import 'package:koukicons/export.dart';`<br>`KoukiconsExport(), `|
-| external | <p align="center"><img width="50" src="icons/external.svg"></p> | `import 'package:koukicons/external.dart';`<br>`KoukiconsExternal(), `|
-| factory | <p align="center"><img width="50" src="icons/factory.svg"></p> | `import 'package:koukicons/factory.dart';`<br>`KoukiconsFactory(), `|
-| factoryBreakdown | <p align="center"><img width="50" src="icons/factoryBreakdown.svg"></p> | `import 'package:koukicons/factoryBreakdown.dart';`<br>`KoukiconsFactoryBreakdown(), `|
-| faq | <p align="center"><img width="50" src="icons/faq.svg"></p> | `import 'package:koukicons/faq.dart';`<br>`KoukiconsFaq(), `|
-| fastBack | <p align="center"><img width="50" src="icons/fastBack.svg"></p> | `import 'package:koukicons/fastBack.dart';`<br>`KoukiconsFastBack(), `|
-| fastBack2 | <p align="center"><img width="50" src="icons/fastBack2.svg"></p> | `import 'package:koukicons/fastBack2.dart';`<br>`KoukiconsFastBack2(), `|
-| fastForward | <p align="center"><img width="50" src="icons/fastForward.svg"></p> | `import 'package:koukicons/fastForward.dart';`<br>`KoukiconsFastForward(), `|
-| fastForward2 | <p align="center"><img width="50" src="icons/fastForward2.svg"></p> | `import 'package:koukicons/fastForward2.dart';`<br>`KoukiconsFastForward2(), `|
-| favourite | <p align="center"><img width="50" src="icons/favourite.svg"></p> | `import 'package:koukicons/favourite.dart';`<br>`KoukiconsFavourite(), `|
-| favourite2 | <p align="center"><img width="50" src="icons/favourite2.svg"></p> | `import 'package:koukicons/favourite2.dart';`<br>`KoukiconsFavourite2(), `|
-| fax | <p align="center"><img width="50" src="icons/fax.svg"></p> | `import 'package:koukicons/fax.dart';`<br>`KoukiconsFax(), `|
-| feedback | <p align="center"><img width="50" src="icons/feedback.svg"></p> | `import 'package:koukicons/feedback.dart';`<br>`KoukiconsFeedback(), `|
-| feedIn | <p align="center"><img width="50" src="icons/feedIn.svg"></p> | `import 'package:koukicons/feedIn.dart';`<br>`KoukiconsFeedIn(), `|
-| file | <p align="center"><img width="50" src="icons/file.svg"></p> | `import 'package:koukicons/file.dart';`<br>`KoukiconsFile(), `|
-| files | <p align="center"><img width="50" src="icons/files.svg"></p> | `import 'package:koukicons/files.dart';`<br>`KoukiconsFiles(), `|
-| files2 | <p align="center"><img width="50" src="icons/files2.svg"></p> | `import 'package:koukicons/files2.dart';`<br>`KoukiconsFiles2(), `|
-| filingCabinet | <p align="center"><img width="50" src="icons/filingCabinet.svg"></p> | `import 'package:koukicons/filingCabinet.dart';`<br>`KoukiconsFilingCabinet(), `|
-| filledFilter | <p align="center"><img width="50" src="icons/filledFilter.svg"></p> | `import 'package:koukicons/filledFilter.dart';`<br>`KoukiconsFilledFilter(), `|
-| film | <p align="center"><img width="50" src="icons/film.svg"></p> | `import 'package:koukicons/film.dart';`<br>`KoukiconsFilm(), `|
-| filmReel | <p align="center"><img width="50" src="icons/filmReel.svg"></p> | `import 'package:koukicons/filmReel.dart';`<br>`KoukiconsFilmReel(), `|
-| finePrint | <p align="center"><img width="50" src="icons/finePrint.svg"></p> | `import 'package:koukicons/finePrint.dart';`<br>`KoukiconsFinePrint(), `|
-| fingerprint | <p align="center"><img width="50" src="icons/fingerprint.svg"></p> | `import 'package:koukicons/fingerprint.dart';`<br>`KoukiconsFingerprint(), `|
-| flag1 | <p align="center"><img width="50" src="icons/flag1.svg"></p> | `import 'package:koukicons/flag1.dart';`<br>`KoukiconsFlag1(), `|
-| flag2 | <p align="center"><img width="50" src="icons/flag2.svg"></p> | `import 'package:koukicons/flag2.dart';`<br>`KoukiconsFlag2(), `|
-| flag3 | <p align="center"><img width="50" src="icons/flag3.svg"></p> | `import 'package:koukicons/flag3.dart';`<br>`KoukiconsFlag3(), `|
-| flag4 | <p align="center"><img width="50" src="icons/flag4.svg"></p> | `import 'package:koukicons/flag4.dart';`<br>`KoukiconsFlag4(), `|
-| flag5 | <p align="center"><img width="50" src="icons/flag5.svg"></p> | `import 'package:koukicons/flag5.dart';`<br>`KoukiconsFlag5(), `|
-| flashAuto | <p align="center"><img width="50" src="icons/flashAuto.svg"></p> | `import 'package:koukicons/flashAuto.dart';`<br>`KoukiconsFlashAuto(), `|
-| flashOff | <p align="center"><img width="50" src="icons/flashOff.svg"></p> | `import 'package:koukicons/flashOff.dart';`<br>`KoukiconsFlashOff(), `|
-| flashOn | <p align="center"><img width="50" src="icons/flashOn.svg"></p> | `import 'package:koukicons/flashOn.dart';`<br>`KoukiconsFlashOn(), `|
-| flipboard | <p align="center"><img width="50" src="icons/flipboard.svg"></p> | `import 'package:koukicons/flipboard.dart';`<br>`KoukiconsFlipboard(), `|
-| flipboard2 | <p align="center"><img width="50" src="icons/flipboard2.svg"></p> | `import 'package:koukicons/flipboard2.dart';`<br>`KoukiconsFlipboard2(), `|
-| flowChart | <p align="center"><img width="50" src="icons/flowChart.svg"></p> | `import 'package:koukicons/flowChart.dart';`<br>`KoukiconsFlowChart(), `|
-| focus | <p align="center"><img width="50" src="icons/focus.svg"></p> | `import 'package:koukicons/focus.dart';`<br>`KoukiconsFocus(), `|
-| folder | <p align="center"><img width="50" src="icons/folder.svg"></p> | `import 'package:koukicons/folder.dart';`<br>`KoukiconsFolder(), `|
-| folder2 | <p align="center"><img width="50" src="icons/folder2.svg"></p> | `import 'package:koukicons/folder2.dart';`<br>`KoukiconsFolder2(), `|
-| folder3 | <p align="center"><img width="50" src="icons/folder3.svg"></p> | `import 'package:koukicons/folder3.dart';`<br>`KoukiconsFolder3(), `|
-| folder4 | <p align="center"><img width="50" src="icons/folder4.svg"></p> | `import 'package:koukicons/folder4.dart';`<br>`KoukiconsFolder4(), `|
-| folder5 | <p align="center"><img width="50" src="icons/folder5.svg"></p> | `import 'package:koukicons/folder5.dart';`<br>`KoukiconsFolder5(), `|
-| folder6 | <p align="center"><img width="50" src="icons/folder6.svg"></p> | `import 'package:koukicons/folder6.dart';`<br>`KoukiconsFolder6(), `|
-| folder7 | <p align="center"><img width="50" src="icons/folder7.svg"></p> | `import 'package:koukicons/folder7.dart';`<br>`KoukiconsFolder7(), `|
-| folderX | <p align="center"><img width="50" src="icons/folderX.svg"></p> | `import 'package:koukicons/folderX.dart';`<br>`KoukiconsFolderX(), `|
-| forbidden | <p align="center"><img width="50" src="icons/forbidden.svg"></p> | `import 'package:koukicons/forbidden.dart';`<br>`KoukiconsForbidden(), `|
-| forward | <p align="center"><img width="50" src="icons/forward.svg"></p> | `import 'package:koukicons/forward.dart';`<br>`KoukiconsForward(), `|
-| forward2 | <p align="center"><img width="50" src="icons/forward2.svg"></p> | `import 'package:koukicons/forward2.dart';`<br>`KoukiconsForward2(), `|
-| frame | <p align="center"><img width="50" src="icons/frame.svg"></p> | `import 'package:koukicons/frame.dart';`<br>`KoukiconsFrame(), `|
-| framePic | <p align="center"><img width="50" src="icons/framePic.svg"></p> | `import 'package:koukicons/framePic.dart';`<br>`KoukiconsFramePic(), `|
-| fullBattery | <p align="center"><img width="50" src="icons/fullBattery.svg"></p> | `import 'package:koukicons/fullBattery.dart';`<br>`KoukiconsFullBattery(), `|
-| fullBattery2 | <p align="center"><img width="50" src="icons/fullBattery2.svg"></p> | `import 'package:koukicons/fullBattery2.dart';`<br>`KoukiconsFullBattery2(), `|
-| fullBattery3 | <p align="center"><img width="50" src="icons/fullBattery3.svg"></p> | `import 'package:koukicons/fullBattery3.dart';`<br>`KoukiconsFullBattery3(), `|
-| fullTrash | <p align="center"><img width="50" src="icons/fullTrash.svg"></p> | `import 'package:koukicons/fullTrash.dart';`<br>`KoukiconsFullTrash(), `|
-| funnel | <p align="center"><img width="50" src="icons/funnel.svg"></p> | `import 'package:koukicons/funnel.dart';`<br>`KoukiconsFunnel(), `|
-| gallery | <p align="center"><img width="50" src="icons/gallery.svg"></p> | `import 'package:koukicons/gallery.dart';`<br>`KoukiconsGallery(), `|
-| galleryX | <p align="center"><img width="50" src="icons/galleryX.svg"></p> | `import 'package:koukicons/galleryX.dart';`<br>`KoukiconsGalleryX(), `|
-| genealogy | <p align="center"><img width="50" src="icons/genealogy.svg"></p> | `import 'package:koukicons/genealogy.dart';`<br>`KoukiconsGenealogy(), `|
-| genericSortingAsc | <p align="center"><img width="50" src="icons/genericSortingAsc.svg"></p> | `import 'package:koukicons/genericSortingAsc.dart';`<br>`KoukiconsGenericSortingAsc(), `|
-| genericSortingDesc | <p align="center"><img width="50" src="icons/genericSortingDesc.svg"></p> | `import 'package:koukicons/genericSortingDesc.dart';`<br>`KoukiconsGenericSortingDesc(), `|
-| gift | <p align="center"><img width="50" src="icons/gift.svg"></p> | `import 'package:koukicons/gift.dart';`<br>`KoukiconsGift(), `|
-| glasses | <p align="center"><img width="50" src="icons/glasses.svg"></p> | `import 'package:koukicons/glasses.dart';`<br>`KoukiconsGlasses(), `|
-| globe | <p align="center"><img width="50" src="icons/globe.svg"></p> | `import 'package:koukicons/globe.dart';`<br>`KoukiconsGlobe(), `|
-| goodDecision | <p align="center"><img width="50" src="icons/goodDecision.svg"></p> | `import 'package:koukicons/goodDecision.dart';`<br>`KoukiconsGoodDecision(), `|
-| graduationCap | <p align="center"><img width="50" src="icons/graduationCap.svg"></p> | `import 'package:koukicons/graduationCap.dart';`<br>`KoukiconsGraduationCap(), `|
-| grid | <p align="center"><img width="50" src="icons/grid.svg"></p> | `import 'package:koukicons/grid.dart';`<br>`KoukiconsGrid(), `|
-| halfBattery | <p align="center"><img width="50" src="icons/halfBattery.svg"></p> | `import 'package:koukicons/halfBattery.dart';`<br>`KoukiconsHalfBattery(), `|
-| halfBattery2 | <p align="center"><img width="50" src="icons/halfBattery2.svg"></p> | `import 'package:koukicons/halfBattery2.dart';`<br>`KoukiconsHalfBattery2(), `|
-| hambMenu | <p align="center"><img width="50" src="icons/hambMenu.svg"></p> | `import 'package:koukicons/hambMenu.dart';`<br>`KoukiconsHambMenu(), `|
-| hambMenu2 | <p align="center"><img width="50" src="icons/hambMenu2.svg"></p> | `import 'package:koukicons/hambMenu2.dart';`<br>`KoukiconsHambMenu2(), `|
-| headset | <p align="center"><img width="50" src="icons/headset.svg"></p> | `import 'package:koukicons/headset.dart';`<br>`KoukiconsHeadset(), `|
-| heatMap | <p align="center"><img width="50" src="icons/heatMap.svg"></p> | `import 'package:koukicons/heatMap.dart';`<br>`KoukiconsHeatMap(), `|
-| help | <p align="center"><img width="50" src="icons/help.svg"></p> | `import 'package:koukicons/help.dart';`<br>`KoukiconsHelp(), `|
-| help2 | <p align="center"><img width="50" src="icons/help2.svg"></p> | `import 'package:koukicons/help2.dart';`<br>`KoukiconsHelp2(), `|
-| hide | <p align="center"><img width="50" src="icons/hide.svg"></p> | `import 'package:koukicons/hide.dart';`<br>`KoukiconsHide(), `|
-| highBattery | <p align="center"><img width="50" src="icons/highBattery.svg"></p> | `import 'package:koukicons/highBattery.dart';`<br>`KoukiconsHighBattery(), `|
-| highPriority | <p align="center"><img width="50" src="icons/highPriority.svg"></p> | `import 'package:koukicons/highPriority.dart';`<br>`KoukiconsHighPriority(), `|
-| highVol | <p align="center"><img width="50" src="icons/highVol.svg"></p> | `import 'package:koukicons/highVol.dart';`<br>`KoukiconsHighVol(), `|
-| highVol2 | <p align="center"><img width="50" src="icons/highVol2.svg"></p> | `import 'package:koukicons/highVol2.dart';`<br>`KoukiconsHighVol2(), `|
-| home | <p align="center"><img width="50" src="icons/home.svg"></p> | `import 'package:koukicons/home.dart';`<br>`KoukiconsHome(), `|
-| home1 | <p align="center"><img width="50" src="icons/home1.svg"></p> | `import 'package:koukicons/home1.dart';`<br>`KoukiconsHome1(), `|
-| home2 | <p align="center"><img width="50" src="icons/home2.svg"></p> | `import 'package:koukicons/home2.dart';`<br>`KoukiconsHome2(), `|
-| home3 | <p align="center"><img width="50" src="icons/home3.svg"></p> | `import 'package:koukicons/home3.dart';`<br>`KoukiconsHome3(), `|
-| home4 | <p align="center"><img width="50" src="icons/home4.svg"></p> | `import 'package:koukicons/home4.dart';`<br>`KoukiconsHome4(), `|
-| icons8Cup | <p align="center"><img width="50" src="icons/icons8Cup.svg"></p> | `import 'package:koukicons/icons8Cup.dart';`<br>`KoukiconsIcons8Cup(), `|
-| id | <p align="center"><img width="50" src="icons/id.svg"></p> | `import 'package:koukicons/id.dart';`<br>`KoukiconsId(), `|
-| idea | <p align="center"><img width="50" src="icons/idea.svg"></p> | `import 'package:koukicons/idea.dart';`<br>`KoukiconsIdea(), `|
-| ideaX | <p align="center"><img width="50" src="icons/ideaX.svg"></p> | `import 'package:koukicons/ideaX.dart';`<br>`KoukiconsIdeaX(), `|
-| imageFile | <p align="center"><img width="50" src="icons/imageFile.svg"></p> | `import 'package:koukicons/imageFile.dart';`<br>`KoukiconsImageFile(), `|
-| import | <p align="center"><img width="50" src="icons/import.svg"></p> | `import 'package:koukicons/import.dart';`<br>`KoukiconsImport(), `|
-| importantArchive | <p align="center"><img width="50" src="icons/importantArchive.svg"></p> | `import 'package:koukicons/importantArchive.dart';`<br>`KoukiconsImportantArchive(), `|
-| infinity | <p align="center"><img width="50" src="icons/infinity.svg"></p> | `import 'package:koukicons/infinity.dart';`<br>`KoukiconsInfinity(), `|
-| info | <p align="center"><img width="50" src="icons/info.svg"></p> | `import 'package:koukicons/info.dart';`<br>`KoukiconsInfo(), `|
-| inspection | <p align="center"><img width="50" src="icons/inspection.svg"></p> | `import 'package:koukicons/inspection.dart';`<br>`KoukiconsInspection(), `|
-| integratedWebcam | <p align="center"><img width="50" src="icons/integratedWebcam.svg"></p> | `import 'package:koukicons/integratedWebcam.dart';`<br>`KoukiconsIntegratedWebcam(), `|
-| internal | <p align="center"><img width="50" src="icons/internal.svg"></p> | `import 'package:koukicons/internal.dart';`<br>`KoukiconsInternal(), `|
-| internet | <p align="center"><img width="50" src="icons/internet.svg"></p> | `import 'package:koukicons/internet.dart';`<br>`KoukiconsInternet(), `|
-| inTransit | <p align="center"><img width="50" src="icons/inTransit.svg"></p> | `import 'package:koukicons/inTransit.dart';`<br>`KoukiconsInTransit(), `|
-| invite | <p align="center"><img width="50" src="icons/invite.svg"></p> | `import 'package:koukicons/invite.dart';`<br>`KoukiconsInvite(), `|
-| ipad | <p align="center"><img width="50" src="icons/ipad.svg"></p> | `import 'package:koukicons/ipad.dart';`<br>`KoukiconsIpad(), `|
-| iphone | <p align="center"><img width="50" src="icons/iphone.svg"></p> | `import 'package:koukicons/iphone.dart';`<br>`KoukiconsIphone(), `|
-| key1 | <p align="center"><img width="50" src="icons/key1.svg"></p> | `import 'package:koukicons/key1.dart';`<br>`KoukiconsKey1(), `|
-| key2 | <p align="center"><img width="50" src="icons/key2.svg"></p> | `import 'package:koukicons/key2.dart';`<br>`KoukiconsKey2(), `|
-| kindle | <p align="center"><img width="50" src="icons/kindle.svg"></p> | `import 'package:koukicons/kindle.dart';`<br>`KoukiconsKindle(), `|
-| knob | <p align="center"><img width="50" src="icons/knob.svg"></p> | `import 'package:koukicons/knob.dart';`<br>`KoukiconsKnob(), `|
-| knob2 | <p align="center"><img width="50" src="icons/knob2.svg"></p> | `import 'package:koukicons/knob2.dart';`<br>`KoukiconsKnob2(), `|
-| lamp | <p align="center"><img width="50" src="icons/lamp.svg"></p> | `import 'package:koukicons/lamp.dart';`<br>`KoukiconsLamp(), `|
-| lan | <p align="center"><img width="50" src="icons/lan.svg"></p> | `import 'package:koukicons/lan.dart';`<br>`KoukiconsLan(), `|
-| landscape | <p align="center"><img width="50" src="icons/landscape.svg"></p> | `import 'package:koukicons/landscape.dart';`<br>`KoukiconsLandscape(), `|
-| layers | <p align="center"><img width="50" src="icons/layers.svg"></p> | `import 'package:koukicons/layers.dart';`<br>`KoukiconsLayers(), `|
-| layers2 | <p align="center"><img width="50" src="icons/layers2.svg"></p> | `import 'package:koukicons/layers2.dart';`<br>`KoukiconsLayers2(), `|
-| leakingBattery | <p align="center"><img width="50" src="icons/leakingBattery.svg"></p> | `import 'package:koukicons/leakingBattery.dart';`<br>`KoukiconsLeakingBattery(), `|
-| leave | <p align="center"><img width="50" src="icons/leave.svg"></p> | `import 'package:koukicons/leave.dart';`<br>`KoukiconsLeave(), `|
-| left | <p align="center"><img width="50" src="icons/left.svg"></p> | `import 'package:koukicons/left.dart';`<br>`KoukiconsLeft(), `|
-| leftDown | <p align="center"><img width="50" src="icons/leftDown.svg"></p> | `import 'package:koukicons/leftDown.dart';`<br>`KoukiconsLeftDown(), `|
-| leftDown2 | <p align="center"><img width="50" src="icons/leftDown2.svg"></p> | `import 'package:koukicons/leftDown2.dart';`<br>`KoukiconsLeftDown2(), `|
-| leftUp | <p align="center"><img width="50" src="icons/leftUp.svg"></p> | `import 'package:koukicons/leftUp.dart';`<br>`KoukiconsLeftUp(), `|
-| leftUp2 | <p align="center"><img width="50" src="icons/leftUp2.svg"></p> | `import 'package:koukicons/leftUp2.dart';`<br>`KoukiconsLeftUp2(), `|
-| library | <p align="center"><img width="50" src="icons/library.svg"></p> | `import 'package:koukicons/library.dart';`<br>`KoukiconsLibrary(), `|
-| lightAtTheEndOfTunnel | <p align="center"><img width="50" src="icons/lightAtTheEndOfTunnel.svg"></p> | `import 'package:koukicons/lightAtTheEndOfTunnel.dart';`<br>`KoukiconsLightAtTheEndOfTunnel(), `|
-| like | <p align="center"><img width="50" src="icons/like.svg"></p> | `import 'package:koukicons/like.dart';`<br>`KoukiconsLike(), `|
-| like2 | <p align="center"><img width="50" src="icons/like2.svg"></p> | `import 'package:koukicons/like2.dart';`<br>`KoukiconsLike2(), `|
-| likePlaceholder | <p align="center"><img width="50" src="icons/likePlaceholder.svg"></p> | `import 'package:koukicons/likePlaceholder.dart';`<br>`KoukiconsLikePlaceholder(), `|
-| likeX | <p align="center"><img width="50" src="icons/likeX.svg"></p> | `import 'package:koukicons/likeX.dart';`<br>`KoukiconsLikeX(), `|
-| lineChart | <p align="center"><img width="50" src="icons/lineChart.svg"></p> | `import 'package:koukicons/lineChart.dart';`<br>`KoukiconsLineChart(), `|
-| link | <p align="center"><img width="50" src="icons/link.svg"></p> | `import 'package:koukicons/link.dart';`<br>`KoukiconsLink(), `|
-| linkGreen | <p align="center"><img width="50" src="icons/linkGreen.svg"></p> | `import 'package:koukicons/linkGreen.dart';`<br>`KoukiconsLinkGreen(), `|
-| list | <p align="center"><img width="50" src="icons/list.svg"></p> | `import 'package:koukicons/list.dart';`<br>`KoukiconsList(), `|
-| liveNews | <p align="center"><img width="50" src="icons/liveNews.svg"></p> | `import 'package:koukicons/liveNews.dart';`<br>`KoukiconsLiveNews(), `|
-| location | <p align="center"><img width="50" src="icons/location.svg"></p> | `import 'package:koukicons/location.dart';`<br>`KoukiconsLocation(), `|
-| location2 | <p align="center"><img width="50" src="icons/location2.svg"></p> | `import 'package:koukicons/location2.dart';`<br>`KoukiconsLocation2(), `|
-| location3 | <p align="center"><img width="50" src="icons/location3.svg"></p> | `import 'package:koukicons/location3.dart';`<br>`KoukiconsLocation3(), `|
-| locationArea | <p align="center"><img width="50" src="icons/locationArea.svg"></p> | `import 'package:koukicons/locationArea.dart';`<br>`KoukiconsLocationArea(), `|
-| locationPin | <p align="center"><img width="50" src="icons/locationPin.svg"></p> | `import 'package:koukicons/locationPin.dart';`<br>`KoukiconsLocationPin(), `|
-| lock | <p align="center"><img width="50" src="icons/lock.svg"></p> | `import 'package:koukicons/lock.dart';`<br>`KoukiconsLock(), `|
-| lock2 | <p align="center"><img width="50" src="icons/lock2.svg"></p> | `import 'package:koukicons/lock2.dart';`<br>`KoukiconsLock2(), `|
-| lock3 | <p align="center"><img width="50" src="icons/lock3.svg"></p> | `import 'package:koukicons/lock3.dart';`<br>`KoukiconsLock3(), `|
-| lock4 | <p align="center"><img width="50" src="icons/lock4.svg"></p> | `import 'package:koukicons/lock4.dart';`<br>`KoukiconsLock4(), `|
-| locked | <p align="center"><img width="50" src="icons/locked.svg"></p> | `import 'package:koukicons/locked.dart';`<br>`KoukiconsLocked(), `|
-| lockFolder | <p align="center"><img width="50" src="icons/lockFolder.svg"></p> | `import 'package:koukicons/lockFolder.dart';`<br>`KoukiconsLockFolder(), `|
-| lockLandscape | <p align="center"><img width="50" src="icons/lockLandscape.svg"></p> | `import 'package:koukicons/lockLandscape.dart';`<br>`KoukiconsLockLandscape(), `|
-| lockOri | <p align="center"><img width="50" src="icons/lockOri.svg"></p> | `import 'package:koukicons/lockOri.dart';`<br>`KoukiconsLockOri(), `|
-| lockPortrait | <p align="center"><img width="50" src="icons/lockPortrait.svg"></p> | `import 'package:koukicons/lockPortrait.dart';`<br>`KoukiconsLockPortrait(), `|
-| lockX | <p align="center"><img width="50" src="icons/lockX.svg"></p> | `import 'package:koukicons/lockX.dart';`<br>`KoukiconsLockX(), `|
-| lowBattery | <p align="center"><img width="50" src="icons/lowBattery.svg"></p> | `import 'package:koukicons/lowBattery.dart';`<br>`KoukiconsLowBattery(), `|
-| lowBattery2 | <p align="center"><img width="50" src="icons/lowBattery2.svg"></p> | `import 'package:koukicons/lowBattery2.dart';`<br>`KoukiconsLowBattery2(), `|
-| lowBattery3 | <p align="center"><img width="50" src="icons/lowBattery3.svg"></p> | `import 'package:koukicons/lowBattery3.dart';`<br>`KoukiconsLowBattery3(), `|
-| lowPriority | <p align="center"><img width="50" src="icons/lowPriority.svg"></p> | `import 'package:koukicons/lowPriority.dart';`<br>`KoukiconsLowPriority(), `|
-| lowVol | <p align="center"><img width="50" src="icons/lowVol.svg"></p> | `import 'package:koukicons/lowVol.dart';`<br>`KoukiconsLowVol(), `|
-| lowVol2 | <p align="center"><img width="50" src="icons/lowVol2.svg"></p> | `import 'package:koukicons/lowVol2.dart';`<br>`KoukiconsLowVol2(), `|
-| magic | <p align="center"><img width="50" src="icons/magic.svg"></p> | `import 'package:koukicons/magic.dart';`<br>`KoukiconsMagic(), `|
-| magnet1 | <p align="center"><img width="50" src="icons/magnet1.svg"></p> | `import 'package:koukicons/magnet1.dart';`<br>`KoukiconsMagnet1(), `|
-| magnet2 | <p align="center"><img width="50" src="icons/magnet2.svg"></p> | `import 'package:koukicons/magnet2.dart';`<br>`KoukiconsMagnet2(), `|
-| magnet3 | <p align="center"><img width="50" src="icons/magnet3.svg"></p> | `import 'package:koukicons/magnet3.dart';`<br>`KoukiconsMagnet3(), `|
-| makeDecision | <p align="center"><img width="50" src="icons/makeDecision.svg"></p> | `import 'package:koukicons/makeDecision.dart';`<br>`KoukiconsMakeDecision(), `|
-| manager | <p align="center"><img width="50" src="icons/manager.svg"></p> | `import 'package:koukicons/manager.dart';`<br>`KoukiconsManager(), `|
-| map | <p align="center"><img width="50" src="icons/map.svg"></p> | `import 'package:koukicons/map.dart';`<br>`KoukiconsMap(), `|
-| map2 | <p align="center"><img width="50" src="icons/map2.svg"></p> | `import 'package:koukicons/map2.dart';`<br>`KoukiconsMap2(), `|
-| mapLocation | <p align="center"><img width="50" src="icons/mapLocation.svg"></p> | `import 'package:koukicons/mapLocation.dart';`<br>`KoukiconsMapLocation(), `|
-| mediumPriority | <p align="center"><img width="50" src="icons/mediumPriority.svg"></p> | `import 'package:koukicons/mediumPriority.dart';`<br>`KoukiconsMediumPriority(), `|
-| medVol | <p align="center"><img width="50" src="icons/medVol.svg"></p> | `import 'package:koukicons/medVol.dart';`<br>`KoukiconsMedVol(), `|
-| medVol2 | <p align="center"><img width="50" src="icons/medVol2.svg"></p> | `import 'package:koukicons/medVol2.dart';`<br>`KoukiconsMedVol2(), `|
-| menu | <p align="center"><img width="50" src="icons/menu.svg"></p> | `import 'package:koukicons/menu.dart';`<br>`KoukiconsMenu(), `|
-| menu2 | <p align="center"><img width="50" src="icons/menu2.svg"></p> | `import 'package:koukicons/menu2.dart';`<br>`KoukiconsMenu2(), `|
-| menuX | <p align="center"><img width="50" src="icons/menuX.svg"></p> | `import 'package:koukicons/menuX.dart';`<br>`KoukiconsMenuX(), `|
-| middleBattery | <p align="center"><img width="50" src="icons/middleBattery.svg"></p> | `import 'package:koukicons/middleBattery.dart';`<br>`KoukiconsMiddleBattery(), `|
-| mindMap | <p align="center"><img width="50" src="icons/mindMap.svg"></p> | `import 'package:koukicons/mindMap.dart';`<br>`KoukiconsMindMap(), `|
-| minus | <p align="center"><img width="50" src="icons/minus.svg"></p> | `import 'package:koukicons/minus.dart';`<br>`KoukiconsMinus(), `|
-| missedCall | <p align="center"><img width="50" src="icons/missedCall.svg"></p> | `import 'package:koukicons/missedCall.dart';`<br>`KoukiconsMissedCall(), `|
-| mms | <p align="center"><img width="50" src="icons/mms.svg"></p> | `import 'package:koukicons/mms.dart';`<br>`KoukiconsMms(), `|
-| moneyTransfer | <p align="center"><img width="50" src="icons/moneyTransfer.svg"></p> | `import 'package:koukicons/moneyTransfer.dart';`<br>`KoukiconsMoneyTransfer(), `|
-| more | <p align="center"><img width="50" src="icons/more.svg"></p> | `import 'package:koukicons/more.dart';`<br>`KoukiconsMore(), `|
-| more2 | <p align="center"><img width="50" src="icons/more2.svg"></p> | `import 'package:koukicons/more2.dart';`<br>`KoukiconsMore2(), `|
-| more3 | <p align="center"><img width="50" src="icons/more3.svg"></p> | `import 'package:koukicons/more3.dart';`<br>`KoukiconsMore3(), `|
-| movie | <p align="center"><img width="50" src="icons/movie.svg"></p> | `import 'package:koukicons/movie.dart';`<br>`KoukiconsMovie(), `|
-| movie2 | <p align="center"><img width="50" src="icons/movie2.svg"></p> | `import 'package:koukicons/movie2.dart';`<br>`KoukiconsMovie2(), `|
-| movieCam | <p align="center"><img width="50" src="icons/movieCam.svg"></p> | `import 'package:koukicons/movieCam.dart';`<br>`KoukiconsMovieCam(), `|
-| multipleCameras | <p align="center"><img width="50" src="icons/multipleCameras.svg"></p> | `import 'package:koukicons/multipleCameras.dart';`<br>`KoukiconsMultipleCameras(), `|
-| multipleDevices | <p align="center"><img width="50" src="icons/multipleDevices.svg"></p> | `import 'package:koukicons/multipleDevices.dart';`<br>`KoukiconsMultipleDevices(), `|
-| multipleInputs | <p align="center"><img width="50" src="icons/multipleInputs.svg"></p> | `import 'package:koukicons/multipleInputs.dart';`<br>`KoukiconsMultipleInputs(), `|
-| multipleSmartphones | <p align="center"><img width="50" src="icons/multipleSmartphones.svg"></p> | `import 'package:koukicons/multipleSmartphones.dart';`<br>`KoukiconsMultipleSmartphones(), `|
-| multiply | <p align="center"><img width="50" src="icons/multiply.svg"></p> | `import 'package:koukicons/multiply.dart';`<br>`KoukiconsMultiply(), `|
-| multiply3 | <p align="center"><img width="50" src="icons/multiply3.svg"></p> | `import 'package:koukicons/multiply3.dart';`<br>`KoukiconsMultiply3(), `|
-| music | <p align="center"><img width="50" src="icons/music.svg"></p> | `import 'package:koukicons/music.dart';`<br>`KoukiconsMusic(), `|
-| musical | <p align="center"><img width="50" src="icons/musical.svg"></p> | `import 'package:koukicons/musical.dart';`<br>`KoukiconsMusical(), `|
-| musicX | <p align="center"><img width="50" src="icons/musicX.svg"></p> | `import 'package:koukicons/musicX.dart';`<br>`KoukiconsMusicX(), `|
-| mute | <p align="center"><img width="50" src="icons/mute.svg"></p> | `import 'package:koukicons/mute.dart';`<br>`KoukiconsMute(), `|
-| mute2 | <p align="center"><img width="50" src="icons/mute2.svg"></p> | `import 'package:koukicons/mute2.dart';`<br>`KoukiconsMute2(), `|
-| mute3 | <p align="center"><img width="50" src="icons/mute3.svg"></p> | `import 'package:koukicons/mute3.dart';`<br>`KoukiconsMute3(), `|
-| navigation | <p align="center"><img width="50" src="icons/navigation.svg"></p> | `import 'package:koukicons/navigation.dart';`<br>`KoukiconsNavigation(), `|
-| navigator | <p align="center"><img width="50" src="icons/navigator.svg"></p> | `import 'package:koukicons/navigator.dart';`<br>`KoukiconsNavigator(), `|
-| negativeDynamic | <p align="center"><img width="50" src="icons/negativeDynamic.svg"></p> | `import 'package:koukicons/negativeDynamic.dart';`<br>`KoukiconsNegativeDynamic(), `|
-| network | <p align="center"><img width="50" src="icons/network.svg"></p> | `import 'package:koukicons/network.dart';`<br>`KoukiconsNetwork(), `|
-| network2 | <p align="center"><img width="50" src="icons/network2.svg"></p> | `import 'package:koukicons/network2.dart';`<br>`KoukiconsNetwork2(), `|
-| neutralDecision | <p align="center"><img width="50" src="icons/neutralDecision.svg"></p> | `import 'package:koukicons/neutralDecision.dart';`<br>`KoukiconsNeutralDecision(), `|
-| neutralTrading | <p align="center"><img width="50" src="icons/neutralTrading.svg"></p> | `import 'package:koukicons/neutralTrading.dart';`<br>`KoukiconsNeutralTrading(), `|
-| news | <p align="center"><img width="50" src="icons/news.svg"></p> | `import 'package:koukicons/news.dart';`<br>`KoukiconsNews(), `|
-| newspaper | <p align="center"><img width="50" src="icons/newspaper.svg"></p> | `import 'package:koukicons/newspaper.dart';`<br>`KoukiconsNewspaper(), `|
-| next | <p align="center"><img width="50" src="icons/next.svg"></p> | `import 'package:koukicons/next.dart';`<br>`KoukiconsNext(), `|
-| nightLandscape | <p align="center"><img width="50" src="icons/nightLandscape.svg"></p> | `import 'package:koukicons/nightLandscape.dart';`<br>`KoukiconsNightLandscape(), `|
-| nightPortrait | <p align="center"><img width="50" src="icons/nightPortrait.svg"></p> | `import 'package:koukicons/nightPortrait.dart';`<br>`KoukiconsNightPortrait(), `|
-| noIdea | <p align="center"><img width="50" src="icons/noIdea.svg"></p> | `import 'package:koukicons/noIdea.dart';`<br>`KoukiconsNoIdea(), `|
-| nook | <p align="center"><img width="50" src="icons/nook.svg"></p> | `import 'package:koukicons/nook.dart';`<br>`KoukiconsNook(), `|
-| note | <p align="center"><img width="50" src="icons/note.svg"></p> | `import 'package:koukicons/note.dart';`<br>`KoukiconsNote(), `|
-| notebook | <p align="center"><img width="50" src="icons/notebook.svg"></p> | `import 'package:koukicons/notebook.dart';`<br>`KoukiconsNotebook(), `|
-| notebook1 | <p align="center"><img width="50" src="icons/notebook1.svg"></p> | `import 'package:koukicons/notebook1.dart';`<br>`KoukiconsNotebook1(), `|
-| notebook2 | <p align="center"><img width="50" src="icons/notebook2.svg"></p> | `import 'package:koukicons/notebook2.dart';`<br>`KoukiconsNotebook2(), `|
-| notebook3 | <p align="center"><img width="50" src="icons/notebook3.svg"></p> | `import 'package:koukicons/notebook3.dart';`<br>`KoukiconsNotebook3(), `|
-| notif | <p align="center"><img width="50" src="icons/notif.svg"></p> | `import 'package:koukicons/notif.dart';`<br>`KoukiconsNotif(), `|
-| noVideo | <p align="center"><img width="50" src="icons/noVideo.svg"></p> | `import 'package:koukicons/noVideo.dart';`<br>`KoukiconsNoVideo(), `|
-| numericalSorting12 | <p align="center"><img width="50" src="icons/numericalSorting12.svg"></p> | `import 'package:koukicons/numericalSorting12.dart';`<br>`KoukiconsNumericalSorting12(), `|
-| numericalSorting21 | <p align="center"><img width="50" src="icons/numericalSorting21.svg"></p> | `import 'package:koukicons/numericalSorting21.dart';`<br>`KoukiconsNumericalSorting21(), `|
-| off | <p align="center"><img width="50" src="icons/off.svg"></p> | `import 'package:koukicons/off.dart';`<br>`KoukiconsOff(), `|
-| offTrig | <p align="center"><img width="50" src="icons/offTrig.svg"></p> | `import 'package:koukicons/offTrig.dart';`<br>`KoukiconsOffTrig(), `|
-| offTrig2 | <p align="center"><img width="50" src="icons/offTrig2.svg"></p> | `import 'package:koukicons/offTrig2.dart';`<br>`KoukiconsOffTrig2(), `|
-| ok | <p align="center"><img width="50" src="icons/ok.svg"></p> | `import 'package:koukicons/ok.dart';`<br>`KoukiconsOk(), `|
-| oldTimeCamera | <p align="center"><img width="50" src="icons/oldTimeCamera.svg"></p> | `import 'package:koukicons/oldTimeCamera.dart';`<br>`KoukiconsOldTimeCamera(), `|
-| on | <p align="center"><img width="50" src="icons/on.svg"></p> | `import 'package:koukicons/on.dart';`<br>`KoukiconsOn(), `|
-| onlineSupport | <p align="center"><img width="50" src="icons/onlineSupport.svg"></p> | `import 'package:koukicons/onlineSupport.dart';`<br>`KoukiconsOnlineSupport(), `|
-| onOff | <p align="center"><img width="50" src="icons/onOff.svg"></p> | `import 'package:koukicons/onOff.dart';`<br>`KoukiconsOnOff(), `|
-| onOffSwitch | <p align="center"><img width="50" src="icons/onOffSwitch.svg"></p> | `import 'package:koukicons/onOffSwitch.dart';`<br>`KoukiconsOnOffSwitch(), `|
-| onTrig | <p align="center"><img width="50" src="icons/onTrig.svg"></p> | `import 'package:koukicons/onTrig.dart';`<br>`KoukiconsOnTrig(), `|
-| onTrig2 | <p align="center"><img width="50" src="icons/onTrig2.svg"></p> | `import 'package:koukicons/onTrig2.dart';`<br>`KoukiconsOnTrig2(), `|
-| openedFolder | <p align="center"><img width="50" src="icons/openedFolder.svg"></p> | `import 'package:koukicons/openedFolder.dart';`<br>`KoukiconsOpenedFolder(), `|
-| openFolder | <p align="center"><img width="50" src="icons/openFolder.svg"></p> | `import 'package:koukicons/openFolder.dart';`<br>`KoukiconsOpenFolder(), `|
-| openFolder2 | <p align="center"><img width="50" src="icons/openFolder2.svg"></p> | `import 'package:koukicons/openFolder2.dart';`<br>`KoukiconsOpenFolder2(), `|
-| organization | <p align="center"><img width="50" src="icons/organization.svg"></p> | `import 'package:koukicons/organization.dart';`<br>`KoukiconsOrganization(), `|
-| orgUnit | <p align="center"><img width="50" src="icons/orgUnit.svg"></p> | `import 'package:koukicons/orgUnit.dart';`<br>`KoukiconsOrgUnit(), `|
-| overtime | <p align="center"><img width="50" src="icons/overtime.svg"></p> | `import 'package:koukicons/overtime.dart';`<br>`KoukiconsOvertime(), `|
-| package | <p align="center"><img width="50" src="icons/package.svg"></p> | `import 'package:koukicons/package.dart';`<br>`KoukiconsPackage(), `|
-| paid | <p align="center"><img width="50" src="icons/paid.svg"></p> | `import 'package:koukicons/paid.dart';`<br>`KoukiconsPaid(), `|
-| panorama | <p align="center"><img width="50" src="icons/panorama.svg"></p> | `import 'package:koukicons/panorama.dart';`<br>`KoukiconsPanorama(), `|
-| parallelTasks | <p align="center"><img width="50" src="icons/parallelTasks.svg"></p> | `import 'package:koukicons/parallelTasks.dart';`<br>`KoukiconsParallelTasks(), `|
-| pause | <p align="center"><img width="50" src="icons/pause.svg"></p> | `import 'package:koukicons/pause.dart';`<br>`KoukiconsPause(), `|
-| pause2 | <p align="center"><img width="50" src="icons/pause2.svg"></p> | `import 'package:koukicons/pause2.dart';`<br>`KoukiconsPause2(), `|
-| percent | <p align="center"><img width="50" src="icons/percent.svg"></p> | `import 'package:koukicons/percent.dart';`<br>`KoukiconsPercent(), `|
-| percent2 | <p align="center"><img width="50" src="icons/percent2.svg"></p> | `import 'package:koukicons/percent2.dart';`<br>`KoukiconsPercent2(), `|
-| perspective | <p align="center"><img width="50" src="icons/perspective.svg"></p> | `import 'package:koukicons/perspective.dart';`<br>`KoukiconsPerspective(), `|
-| phone | <p align="center"><img width="50" src="icons/phone.svg"></p> | `import 'package:koukicons/phone.dart';`<br>`KoukiconsPhone(), `|
-| phoneAndroid | <p align="center"><img width="50" src="icons/phoneAndroid.svg"></p> | `import 'package:koukicons/phoneAndroid.dart';`<br>`KoukiconsPhoneAndroid(), `|
-| phoneApps | <p align="center"><img width="50" src="icons/phoneApps.svg"></p> | `import 'package:koukicons/phoneApps.dart';`<br>`KoukiconsPhoneApps(), `|
-| phoneChat | <p align="center"><img width="50" src="icons/phoneChat.svg"></p> | `import 'package:koukicons/phoneChat.dart';`<br>`KoukiconsPhoneChat(), `|
-| phoneDown | <p align="center"><img width="50" src="icons/phoneDown.svg"></p> | `import 'package:koukicons/phoneDown.dart';`<br>`KoukiconsPhoneDown(), `|
-| phoneMessage | <p align="center"><img width="50" src="icons/phoneMessage.svg"></p> | `import 'package:koukicons/phoneMessage.dart';`<br>`KoukiconsPhoneMessage(), `|
-| phoneProfile | <p align="center"><img width="50" src="icons/phoneProfile.svg"></p> | `import 'package:koukicons/phoneProfile.dart';`<br>`KoukiconsPhoneProfile(), `|
-| phoneUp | <p align="center"><img width="50" src="icons/phoneUp.svg"></p> | `import 'package:koukicons/phoneUp.dart';`<br>`KoukiconsPhoneUp(), `|
-| phoneVibrate | <p align="center"><img width="50" src="icons/phoneVibrate.svg"></p> | `import 'package:koukicons/phoneVibrate.dart';`<br>`KoukiconsPhoneVibrate(), `|
-| photoReel | <p align="center"><img width="50" src="icons/photoReel.svg"></p> | `import 'package:koukicons/photoReel.dart';`<br>`KoukiconsPhotoReel(), `|
-| pic | <p align="center"><img width="50" src="icons/pic.svg"></p> | `import 'package:koukicons/pic.dart';`<br>`KoukiconsPic(), `|
-| pic2 | <p align="center"><img width="50" src="icons/pic2.svg"></p> | `import 'package:koukicons/pic2.dart';`<br>`KoukiconsPic2(), `|
-| picture | <p align="center"><img width="50" src="icons/picture.svg"></p> | `import 'package:koukicons/picture.dart';`<br>`KoukiconsPicture(), `|
-| pieChart | <p align="center"><img width="50" src="icons/pieChart.svg"></p> | `import 'package:koukicons/pieChart.dart';`<br>`KoukiconsPieChart(), `|
-| pin | <p align="center"><img width="50" src="icons/pin.svg"></p> | `import 'package:koukicons/pin.dart';`<br>`KoukiconsPin(), `|
-| planner | <p align="center"><img width="50" src="icons/planner.svg"></p> | `import 'package:koukicons/planner.dart';`<br>`KoukiconsPlanner(), `|
-| play | <p align="center"><img width="50" src="icons/play.svg"></p> | `import 'package:koukicons/play.dart';`<br>`KoukiconsPlay(), `|
-| play2 | <p align="center"><img width="50" src="icons/play2.svg"></p> | `import 'package:koukicons/play2.dart';`<br>`KoukiconsPlay2(), `|
-| plus | <p align="center"><img width="50" src="icons/plus.svg"></p> | `import 'package:koukicons/plus.dart';`<br>`KoukiconsPlus(), `|
-| podiumWithAudience | <p align="center"><img width="50" src="icons/podiumWithAudience.svg"></p> | `import 'package:koukicons/podiumWithAudience.dart';`<br>`KoukiconsPodiumWithAudience(), `|
-| podiumWithoutSpeaker | <p align="center"><img width="50" src="icons/podiumWithoutSpeaker.svg"></p> | `import 'package:koukicons/podiumWithoutSpeaker.dart';`<br>`KoukiconsPodiumWithoutSpeaker(), `|
-| podiumWithSpeaker | <p align="center"><img width="50" src="icons/podiumWithSpeaker.svg"></p> | `import 'package:koukicons/podiumWithSpeaker.dart';`<br>`KoukiconsPodiumWithSpeaker(), `|
-| portraitMode | <p align="center"><img width="50" src="icons/portraitMode.svg"></p> | `import 'package:koukicons/portraitMode.dart';`<br>`KoukiconsPortraitMode(), `|
-| positiveDynamic | <p align="center"><img width="50" src="icons/positiveDynamic.svg"></p> | `import 'package:koukicons/positiveDynamic.dart';`<br>`KoukiconsPositiveDynamic(), `|
-| previous | <p align="center"><img width="50" src="icons/previous.svg"></p> | `import 'package:koukicons/previous.dart';`<br>`KoukiconsPrevious(), `|
-| priceTag | <p align="center"><img width="50" src="icons/priceTag.svg"></p> | `import 'package:koukicons/priceTag.dart';`<br>`KoukiconsPriceTag(), `|
-| print | <p align="center"><img width="50" src="icons/print.svg"></p> | `import 'package:koukicons/print.dart';`<br>`KoukiconsPrint(), `|
-| printer | <p align="center"><img width="50" src="icons/printer.svg"></p> | `import 'package:koukicons/printer.dart';`<br>`KoukiconsPrinter(), `|
-| privacy | <p align="center"><img width="50" src="icons/privacy.svg"></p> | `import 'package:koukicons/privacy.dart';`<br>`KoukiconsPrivacy(), `|
-| privacyX | <p align="center"><img width="50" src="icons/privacyX.svg"></p> | `import 'package:koukicons/privacyX.dart';`<br>`KoukiconsPrivacyX(), `|
-| process | <p align="center"><img width="50" src="icons/process.svg"></p> | `import 'package:koukicons/process.dart';`<br>`KoukiconsProcess(), `|
-| profile | <p align="center"><img width="50" src="icons/profile.svg"></p> | `import 'package:koukicons/profile.dart';`<br>`KoukiconsProfile(), `|
-| profile2 | <p align="center"><img width="50" src="icons/profile2.svg"></p> | `import 'package:koukicons/profile2.dart';`<br>`KoukiconsProfile2(), `|
-| profile3 | <p align="center"><img width="50" src="icons/profile3.svg"></p> | `import 'package:koukicons/profile3.dart';`<br>`KoukiconsProfile3(), `|
-| profile4 | <p align="center"><img width="50" src="icons/profile4.svg"></p> | `import 'package:koukicons/profile4.dart';`<br>`KoukiconsProfile4(), `|
-| profilex | <p align="center"><img width="50" src="icons/profilex.svg"></p> | `import 'package:koukicons/profilex.dart';`<br>`KoukiconsProfilex(), `|
-| profiley | <p align="center"><img width="50" src="icons/profiley.svg"></p> | `import 'package:koukicons/profiley.dart';`<br>`KoukiconsProfiley(), `|
-| promote | <p align="center"><img width="50" src="icons/promote.svg"></p> | `import 'package:koukicons/promote.dart';`<br>`KoukiconsPromote(), `|
-| promote2 | <p align="center"><img width="50" src="icons/promote2.svg"></p> | `import 'package:koukicons/promote2.dart';`<br>`KoukiconsPromote2(), `|
-| puzzle | <p align="center"><img width="50" src="icons/puzzle.svg"></p> | `import 'package:koukicons/puzzle.dart';`<br>`KoukiconsPuzzle(), `|
-| questions | <p align="center"><img width="50" src="icons/questions.svg"></p> | `import 'package:koukicons/questions.dart';`<br>`KoukiconsQuestions(), `|
-| radar | <p align="center"><img width="50" src="icons/radar.svg"></p> | `import 'package:koukicons/radar.dart';`<br>`KoukiconsRadar(), `|
-| radarPlot | <p align="center"><img width="50" src="icons/radarPlot.svg"></p> | `import 'package:koukicons/radarPlot.dart';`<br>`KoukiconsRadarPlot(), `|
-| rating | <p align="center"><img width="50" src="icons/rating.svg"></p> | `import 'package:koukicons/rating.dart';`<br>`KoukiconsRating(), `|
-| ratings | <p align="center"><img width="50" src="icons/ratings.svg"></p> | `import 'package:koukicons/ratings.dart';`<br>`KoukiconsRatings(), `|
-| reading | <p align="center"><img width="50" src="icons/reading.svg"></p> | `import 'package:koukicons/reading.dart';`<br>`KoukiconsReading(), `|
-| readingEbook | <p align="center"><img width="50" src="icons/readingEbook.svg"></p> | `import 'package:koukicons/readingEbook.dart';`<br>`KoukiconsReadingEbook(), `|
-| readX | <p align="center"><img width="50" src="icons/readX.svg"></p> | `import 'package:koukicons/readX.dart';`<br>`KoukiconsReadX(), `|
-| receive | <p align="center"><img width="50" src="icons/receive.svg"></p> | `import 'package:koukicons/receive.dart';`<br>`KoukiconsReceive(), `|
-| record | <p align="center"><img width="50" src="icons/record.svg"></p> | `import 'package:koukicons/record.dart';`<br>`KoukiconsRecord(), `|
-| redo | <p align="center"><img width="50" src="icons/redo.svg"></p> | `import 'package:koukicons/redo.dart';`<br>`KoukiconsRedo(), `|
-| refresh | <p align="center"><img width="50" src="icons/refresh.svg"></p> | `import 'package:koukicons/refresh.dart';`<br>`KoukiconsRefresh(), `|
-| registeredTrademark | <p align="center"><img width="50" src="icons/registeredTrademark.svg"></p> | `import 'package:koukicons/registeredTrademark.dart';`<br>`KoukiconsRegisteredTrademark(), `|
-| removeImage | <p align="center"><img width="50" src="icons/removeImage.svg"></p> | `import 'package:koukicons/removeImage.dart';`<br>`KoukiconsRemoveImage(), `|
-| repeat | <p align="center"><img width="50" src="icons/repeat.svg"></p> | `import 'package:koukicons/repeat.dart';`<br>`KoukiconsRepeat(), `|
-| repeat2 | <p align="center"><img width="50" src="icons/repeat2.svg"></p> | `import 'package:koukicons/repeat2.dart';`<br>`KoukiconsRepeat2(), `|
-| report | <p align="center"><img width="50" src="icons/report.svg"></p> | `import 'package:koukicons/report.dart';`<br>`KoukiconsReport(), `|
-| restart | <p align="center"><img width="50" src="icons/restart.svg"></p> | `import 'package:koukicons/restart.dart';`<br>`KoukiconsRestart(), `|
-| resumee | <p align="center"><img width="50" src="icons/resumee.svg"></p> | `import 'package:koukicons/resumee.dart';`<br>`KoukiconsResumee(), `|
-| reuse | <p align="center"><img width="50" src="icons/reuse.svg"></p> | `import 'package:koukicons/reuse.dart';`<br>`KoukiconsReuse(), `|
-| right | <p align="center"><img width="50" src="icons/right.svg"></p> | `import 'package:koukicons/right.dart';`<br>`KoukiconsRight(), `|
-| rightDown | <p align="center"><img width="50" src="icons/rightDown.svg"></p> | `import 'package:koukicons/rightDown.dart';`<br>`KoukiconsRightDown(), `|
-| rightDown2 | <p align="center"><img width="50" src="icons/rightDown2.svg"></p> | `import 'package:koukicons/rightDown2.dart';`<br>`KoukiconsRightDown2(), `|
-| rightUp | <p align="center"><img width="50" src="icons/rightUp.svg"></p> | `import 'package:koukicons/rightUp.dart';`<br>`KoukiconsRightUp(), `|
-| rightUp2 | <p align="center"><img width="50" src="icons/rightUp2.svg"></p> | `import 'package:koukicons/rightUp2.dart';`<br>`KoukiconsRightUp2(), `|
-| ringing | <p align="center"><img width="50" src="icons/ringing.svg"></p> | `import 'package:koukicons/ringing.dart';`<br>`KoukiconsRinging(), `|
-| ringing2 | <p align="center"><img width="50" src="icons/ringing2.svg"></p> | `import 'package:koukicons/ringing2.dart';`<br>`KoukiconsRinging2(), `|
-| roadmap | <p align="center"><img width="50" src="icons/roadmap.svg"></p> | `import 'package:koukicons/roadmap.dart';`<br>`KoukiconsRoadmap(), `|
-| rotateCamera | <p align="center"><img width="50" src="icons/rotateCamera.svg"></p> | `import 'package:koukicons/rotateCamera.dart';`<br>`KoukiconsRotateCamera(), `|
-| rotateLand | <p align="center"><img width="50" src="icons/rotateLand.svg"></p> | `import 'package:koukicons/rotateLand.dart';`<br>`KoukiconsRotateLand(), `|
-| rotatePort | <p align="center"><img width="50" src="icons/rotatePort.svg"></p> | `import 'package:koukicons/rotatePort.dart';`<br>`KoukiconsRotatePort(), `|
-| rotateToLandscape | <p align="center"><img width="50" src="icons/rotateToLandscape.svg"></p> | `import 'package:koukicons/rotateToLandscape.dart';`<br>`KoukiconsRotateToLandscape(), `|
-| rotateToPortrait | <p align="center"><img width="50" src="icons/rotateToPortrait.svg"></p> | `import 'package:koukicons/rotateToPortrait.dart';`<br>`KoukiconsRotateToPortrait(), `|
-| ruler | <p align="center"><img width="50" src="icons/ruler.svg"></p> | `import 'package:koukicons/ruler.dart';`<br>`KoukiconsRuler(), `|
-| rules | <p align="center"><img width="50" src="icons/rules.svg"></p> | `import 'package:koukicons/rules.dart';`<br>`KoukiconsRules(), `|
-| safe | <p align="center"><img width="50" src="icons/safe.svg"></p> | `import 'package:koukicons/safe.dart';`<br>`KoukiconsSafe(), `|
-| safety | <p align="center"><img width="50" src="icons/safety.svg"></p> | `import 'package:koukicons/safety.dart';`<br>`KoukiconsSafety(), `|
-| salesPerformance | <p align="center"><img width="50" src="icons/salesPerformance.svg"></p> | `import 'package:koukicons/salesPerformance.dart';`<br>`KoukiconsSalesPerformance(), `|
-| save | <p align="center"><img width="50" src="icons/save.svg"></p> | `import 'package:koukicons/save.dart';`<br>`KoukiconsSave(), `|
-| scatterPlot | <p align="center"><img width="50" src="icons/scatterPlot.svg"></p> | `import 'package:koukicons/scatterPlot.dart';`<br>`KoukiconsScatterPlot(), `|
-| search | <p align="center"><img width="50" src="icons/search.svg"></p> | `import 'package:koukicons/search.dart';`<br>`KoukiconsSearch(), `|
-| search1 | <p align="center"><img width="50" src="icons/search1.svg"></p> | `import 'package:koukicons/search1.dart';`<br>`KoukiconsSearch1(), `|
-| search2 | <p align="center"><img width="50" src="icons/search2.svg"></p> | `import 'package:koukicons/search2.dart';`<br>`KoukiconsSearch2(), `|
-| searchFile | <p align="center"><img width="50" src="icons/searchFile.svg"></p> | `import 'package:koukicons/searchFile.dart';`<br>`KoukiconsSearchFile(), `|
-| searchPhone | <p align="center"><img width="50" src="icons/searchPhone.svg"></p> | `import 'package:koukicons/searchPhone.dart';`<br>`KoukiconsSearchPhone(), `|
-| searchX | <p align="center"><img width="50" src="icons/searchX.svg"></p> | `import 'package:koukicons/searchX.dart';`<br>`KoukiconsSearchX(), `|
-| selectTab | <p align="center"><img width="50" src="icons/selectTab.svg"></p> | `import 'package:koukicons/selectTab.dart';`<br>`KoukiconsSelectTab(), `|
-| selectWin | <p align="center"><img width="50" src="icons/selectWin.svg"></p> | `import 'package:koukicons/selectWin.dart';`<br>`KoukiconsSelectWin(), `|
-| selectWin2 | <p align="center"><img width="50" src="icons/selectWin2.svg"></p> | `import 'package:koukicons/selectWin2.dart';`<br>`KoukiconsSelectWin2(), `|
-| selfie | <p align="center"><img width="50" src="icons/selfie.svg"></p> | `import 'package:koukicons/selfie.dart';`<br>`KoukiconsSelfie(), `|
-| selfServiceKiosk | <p align="center"><img width="50" src="icons/selfServiceKiosk.svg"></p> | `import 'package:koukicons/selfServiceKiosk.dart';`<br>`KoukiconsSelfServiceKiosk(), `|
-| send | <p align="center"><img width="50" src="icons/send.svg"></p> | `import 'package:koukicons/send.dart';`<br>`KoukiconsSend(), `|
-| send2 | <p align="center"><img width="50" src="icons/send2.svg"></p> | `import 'package:koukicons/send2.dart';`<br>`KoukiconsSend2(), `|
-| send3 | <p align="center"><img width="50" src="icons/send3.svg"></p> | `import 'package:koukicons/send3.dart';`<br>`KoukiconsSend3(), `|
-| serialTasks | <p align="center"><img width="50" src="icons/serialTasks.svg"></p> | `import 'package:koukicons/serialTasks.dart';`<br>`KoukiconsSerialTasks(), `|
-| serviceMark | <p align="center"><img width="50" src="icons/serviceMark.svg"></p> | `import 'package:koukicons/serviceMark.dart';`<br>`KoukiconsServiceMark(), `|
-| services | <p align="center"><img width="50" src="icons/services.svg"></p> | `import 'package:koukicons/services.dart';`<br>`KoukiconsServices(), `|
-| settings | <p align="center"><img width="50" src="icons/settings.svg"></p> | `import 'package:koukicons/settings.dart';`<br>`KoukiconsSettings(), `|
-| settings1 | <p align="center"><img width="50" src="icons/settings1.svg"></p> | `import 'package:koukicons/settings1.dart';`<br>`KoukiconsSettings1(), `|
-| settings10 | <p align="center"><img width="50" src="icons/settings10.svg"></p> | `import 'package:koukicons/settings10.dart';`<br>`KoukiconsSettings10(), `|
-| settings2 | <p align="center"><img width="50" src="icons/settings2.svg"></p> | `import 'package:koukicons/settings2.dart';`<br>`KoukiconsSettings2(), `|
-| settings3 | <p align="center"><img width="50" src="icons/settings3.svg"></p> | `import 'package:koukicons/settings3.dart';`<br>`KoukiconsSettings3(), `|
-| settings4 | <p align="center"><img width="50" src="icons/settings4.svg"></p> | `import 'package:koukicons/settings4.dart';`<br>`KoukiconsSettings4(), `|
-| settings5 | <p align="center"><img width="50" src="icons/settings5.svg"></p> | `import 'package:koukicons/settings5.dart';`<br>`KoukiconsSettings5(), `|
-| settings6 | <p align="center"><img width="50" src="icons/settings6.svg"></p> | `import 'package:koukicons/settings6.dart';`<br>`KoukiconsSettings6(), `|
-| settings7 | <p align="center"><img width="50" src="icons/settings7.svg"></p> | `import 'package:koukicons/settings7.dart';`<br>`KoukiconsSettings7(), `|
-| settings8 | <p align="center"><img width="50" src="icons/settings8.svg"></p> | `import 'package:koukicons/settings8.dart';`<br>`KoukiconsSettings8(), `|
-| settings9 | <p align="center"><img width="50" src="icons/settings9.svg"></p> | `import 'package:koukicons/settings9.dart';`<br>`KoukiconsSettings9(), `|
-| share | <p align="center"><img width="50" src="icons/share.svg"></p> | `import 'package:koukicons/share.dart';`<br>`KoukiconsShare(), `|
-| share1 | <p align="center"><img width="50" src="icons/share1.svg"></p> | `import 'package:koukicons/share1.dart';`<br>`KoukiconsShare1(), `|
-| share2 | <p align="center"><img width="50" src="icons/share2.svg"></p> | `import 'package:koukicons/share2.dart';`<br>`KoukiconsShare2(), `|
-| share3 | <p align="center"><img width="50" src="icons/share3.svg"></p> | `import 'package:koukicons/share3.dart';`<br>`KoukiconsShare3(), `|
-| shipped | <p align="center"><img width="50" src="icons/shipped.svg"></p> | `import 'package:koukicons/shipped.dart';`<br>`KoukiconsShipped(), `|
-| shop | <p align="center"><img width="50" src="icons/shop.svg"></p> | `import 'package:koukicons/shop.dart';`<br>`KoukiconsShop(), `|
-| shuffle | <p align="center"><img width="50" src="icons/shuffle.svg"></p> | `import 'package:koukicons/shuffle.dart';`<br>`KoukiconsShuffle(), `|
-| shuffle2 | <p align="center"><img width="50" src="icons/shuffle2.svg"></p> | `import 'package:koukicons/shuffle2.dart';`<br>`KoukiconsShuffle2(), `|
-| shutdown | <p align="center"><img width="50" src="icons/shutdown.svg"></p> | `import 'package:koukicons/shutdown.dart';`<br>`KoukiconsShutdown(), `|
-| sign | <p align="center"><img width="50" src="icons/sign.svg"></p> | `import 'package:koukicons/sign.dart';`<br>`KoukiconsSign(), `|
-| signature | <p align="center"><img width="50" src="icons/signature.svg"></p> | `import 'package:koukicons/signature.dart';`<br>`KoukiconsSignature(), `|
-| signpost | <p align="center"><img width="50" src="icons/signpost.svg"></p> | `import 'package:koukicons/signpost.dart';`<br>`KoukiconsSignpost(), `|
-| silent | <p align="center"><img width="50" src="icons/silent.svg"></p> | `import 'package:koukicons/silent.dart';`<br>`KoukiconsSilent(), `|
-| silent2 | <p align="center"><img width="50" src="icons/silent2.svg"></p> | `import 'package:koukicons/silent2.dart';`<br>`KoukiconsSilent2(), `|
-| simCard | <p align="center"><img width="50" src="icons/simCard.svg"></p> | `import 'package:koukicons/simCard.dart';`<br>`KoukiconsSimCard(), `|
-| simCardChip | <p align="center"><img width="50" src="icons/simCardChip.svg"></p> | `import 'package:koukicons/simCardChip.dart';`<br>`KoukiconsSimCardChip(), `|
-| siri | <p align="center"><img width="50" src="icons/siri.svg"></p> | `import 'package:koukicons/siri.dart';`<br>`KoukiconsSiri(), `|
-| slrBackSide | <p align="center"><img width="50" src="icons/slrBackSide.svg"></p> | `import 'package:koukicons/slrBackSide.dart';`<br>`KoukiconsSlrBackSide(), `|
-| smartphoneTablet | <p align="center"><img width="50" src="icons/smartphoneTablet.svg"></p> | `import 'package:koukicons/smartphoneTablet.dart';`<br>`KoukiconsSmartphoneTablet(), `|
-| sms | <p align="center"><img width="50" src="icons/sms.svg"></p> | `import 'package:koukicons/sms.dart';`<br>`KoukiconsSms(), `|
-| soundRecordingCopyright | <p align="center"><img width="50" src="icons/soundRecordingCopyright.svg"></p> | `import 'package:koukicons/soundRecordingCopyright.dart';`<br>`KoukiconsSoundRecordingCopyright(), `|
-| speaker | <p align="center"><img width="50" src="icons/speaker.svg"></p> | `import 'package:koukicons/speaker.dart';`<br>`KoukiconsSpeaker(), `|
-| speed | <p align="center"><img width="50" src="icons/speed.svg"></p> | `import 'package:koukicons/speed.dart';`<br>`KoukiconsSpeed(), `|
-| sportsMode | <p align="center"><img width="50" src="icons/sportsMode.svg"></p> | `import 'package:koukicons/sportsMode.dart';`<br>`KoukiconsSportsMode(), `|
-| spotlight | <p align="center"><img width="50" src="icons/spotlight.svg"></p> | `import 'package:koukicons/spotlight.dart';`<br>`KoukiconsSpotlight(), `|
-| stackOfPhotos | <p align="center"><img width="50" src="icons/stackOfPhotos.svg"></p> | `import 'package:koukicons/stackOfPhotos.dart';`<br>`KoukiconsStackOfPhotos(), `|
-| star | <p align="center"><img width="50" src="icons/star.svg"></p> | `import 'package:koukicons/star.dart';`<br>`KoukiconsStar(), `|
-| start | <p align="center"><img width="50" src="icons/start.svg"></p> | `import 'package:koukicons/start.dart';`<br>`KoukiconsStart(), `|
-| statistics | <p align="center"><img width="50" src="icons/statistics.svg"></p> | `import 'package:koukicons/statistics.dart';`<br>`KoukiconsStatistics(), `|
-| stop | <p align="center"><img width="50" src="icons/stop.svg"></p> | `import 'package:koukicons/stop.dart';`<br>`KoukiconsStop(), `|
-| stop2 | <p align="center"><img width="50" src="icons/stop2.svg"></p> | `import 'package:koukicons/stop2.dart';`<br>`KoukiconsStop2(), `|
-| stopwatch | <p align="center"><img width="50" src="icons/stopwatch.svg"></p> | `import 'package:koukicons/stopwatch.dart';`<br>`KoukiconsStopwatch(), `|
-| stopwatch2 | <p align="center"><img width="50" src="icons/stopwatch2.svg"></p> | `import 'package:koukicons/stopwatch2.dart';`<br>`KoukiconsStopwatch2(), `|
-| stopwatch3 | <p align="center"><img width="50" src="icons/stopwatch3.svg"></p> | `import 'package:koukicons/stopwatch3.dart';`<br>`KoukiconsStopwatch3(), `|
-| streetLocation | <p align="center"><img width="50" src="icons/streetLocation.svg"></p> | `import 'package:koukicons/streetLocation.dart';`<br>`KoukiconsStreetLocation(), `|
-| streetName | <p align="center"><img width="50" src="icons/streetName.svg"></p> | `import 'package:koukicons/streetName.dart';`<br>`KoukiconsStreetName(), `|
-| streetOrien | <p align="center"><img width="50" src="icons/streetOrien.svg"></p> | `import 'package:koukicons/streetOrien.dart';`<br>`KoukiconsStreetOrien(), `|
-| substract | <p align="center"><img width="50" src="icons/substract.svg"></p> | `import 'package:koukicons/substract.dart';`<br>`KoukiconsSubstract(), `|
-| substract2 | <p align="center"><img width="50" src="icons/substract2.svg"></p> | `import 'package:koukicons/substract2.dart';`<br>`KoukiconsSubstract2(), `|
-| success | <p align="center"><img width="50" src="icons/success.svg"></p> | `import 'package:koukicons/success.dart';`<br>`KoukiconsSuccess(), `|
-| success2 | <p align="center"><img width="50" src="icons/success2.svg"></p> | `import 'package:koukicons/success2.dart';`<br>`KoukiconsSuccess2(), `|
-| success3 | <p align="center"><img width="50" src="icons/success3.svg"></p> | `import 'package:koukicons/success3.dart';`<br>`KoukiconsSuccess3(), `|
-| support | <p align="center"><img width="50" src="icons/support.svg"></p> | `import 'package:koukicons/support.dart';`<br>`KoukiconsSupport(), `|
-| survey | <p align="center"><img width="50" src="icons/survey.svg"></p> | `import 'package:koukicons/survey.dart';`<br>`KoukiconsSurvey(), `|
-| susbstract2 | <p align="center"><img width="50" src="icons/susbstract2.svg"></p> | `import 'package:koukicons/susbstract2.dart';`<br>`KoukiconsSusbstract2(), `|
-| switchCamera | <p align="center"><img width="50" src="icons/switchCamera.svg"></p> | `import 'package:koukicons/switchCamera.dart';`<br>`KoukiconsSwitchCamera(), `|
-| switchOff | <p align="center"><img width="50" src="icons/switchOff.svg"></p> | `import 'package:koukicons/switchOff.dart';`<br>`KoukiconsSwitchOff(), `|
-| synchronize | <p align="center"><img width="50" src="icons/synchronize.svg"></p> | `import 'package:koukicons/synchronize.dart';`<br>`KoukiconsSynchronize(), `|
-| tabletAndroid | <p align="center"><img width="50" src="icons/tabletAndroid.svg"></p> | `import 'package:koukicons/tabletAndroid.dart';`<br>`KoukiconsTabletAndroid(), `|
-| tabs | <p align="center"><img width="50" src="icons/tabs.svg"></p> | `import 'package:koukicons/tabs.dart';`<br>`KoukiconsTabs(), `|
-| takeNote | <p align="center"><img width="50" src="icons/takeNote.svg"></p> | `import 'package:koukicons/takeNote.dart';`<br>`KoukiconsTakeNote(), `|
-| takeNote2 | <p align="center"><img width="50" src="icons/takeNote2.svg"></p> | `import 'package:koukicons/takeNote2.dart';`<br>`KoukiconsTakeNote2(), `|
-| target | <p align="center"><img width="50" src="icons/target.svg"></p> | `import 'package:koukicons/target.dart';`<br>`KoukiconsTarget(), `|
-| techPower | <p align="center"><img width="50" src="icons/techPower.svg"></p> | `import 'package:koukicons/techPower.dart';`<br>`KoukiconsTechPower(), `|
-| template | <p align="center"><img width="50" src="icons/template.svg"></p> | `import 'package:koukicons/template.dart';`<br>`KoukiconsTemplate(), `|
-| thumbDown | <p align="center"><img width="50" src="icons/thumbDown.svg"></p> | `import 'package:koukicons/thumbDown.dart';`<br>`KoukiconsThumbDown(), `|
-| thumbUp | <p align="center"><img width="50" src="icons/thumbUp.svg"></p> | `import 'package:koukicons/thumbUp.dart';`<br>`KoukiconsThumbUp(), `|
-| time | <p align="center"><img width="50" src="icons/time.svg"></p> | `import 'package:koukicons/time.dart';`<br>`KoukiconsTime(), `|
-| timeFlies | <p align="center"><img width="50" src="icons/timeFlies.svg"></p> | `import 'package:koukicons/timeFlies.dart';`<br>`KoukiconsTimeFlies(), `|
-| timeline | <p align="center"><img width="50" src="icons/timeline.svg"></p> | `import 'package:koukicons/timeline.dart';`<br>`KoukiconsTimeline(), `|
-| timetracking | <p align="center"><img width="50" src="icons/timetracking.svg"></p> | `import 'package:koukicons/timetracking.dart';`<br>`KoukiconsTimetracking(), `|
-| timetracking2 | <p align="center"><img width="50" src="icons/timetracking2.svg"></p> | `import 'package:koukicons/timetracking2.dart';`<br>`KoukiconsTimetracking2(), `|
-| timetracking3 | <p align="center"><img width="50" src="icons/timetracking3.svg"></p> | `import 'package:koukicons/timetracking3.dart';`<br>`KoukiconsTimetracking3(), `|
-| todoList | <p align="center"><img width="50" src="icons/todoList.svg"></p> | `import 'package:koukicons/todoList.dart';`<br>`KoukiconsTodoList(), `|
-| touchscreenSmartphone | <p align="center"><img width="50" src="icons/touchscreenSmartphone.svg"></p> | `import 'package:koukicons/touchscreenSmartphone.dart';`<br>`KoukiconsTouchscreenSmartphone(), `|
-| track | <p align="center"><img width="50" src="icons/track.svg"></p> | `import 'package:koukicons/track.dart';`<br>`KoukiconsTrack(), `|
-| tracked | <p align="center"><img width="50" src="icons/tracked.svg"></p> | `import 'package:koukicons/tracked.dart';`<br>`KoukiconsTracked(), `|
-| trademark | <p align="center"><img width="50" src="icons/trademark.svg"></p> | `import 'package:koukicons/trademark.dart';`<br>`KoukiconsTrademark(), `|
-| trash | <p align="center"><img width="50" src="icons/trash.svg"></p> | `import 'package:koukicons/trash.dart';`<br>`KoukiconsTrash(), `|
-| trash2 | <p align="center"><img width="50" src="icons/trash2.svg"></p> | `import 'package:koukicons/trash2.dart';`<br>`KoukiconsTrash2(), `|
-| trash3 | <p align="center"><img width="50" src="icons/trash3.svg"></p> | `import 'package:koukicons/trash3.dart';`<br>`KoukiconsTrash3(), `|
-| trash4 | <p align="center"><img width="50" src="icons/trash4.svg"></p> | `import 'package:koukicons/trash4.dart';`<br>`KoukiconsTrash4(), `|
-| treeStructure | <p align="center"><img width="50" src="icons/treeStructure.svg"></p> | `import 'package:koukicons/treeStructure.dart';`<br>`KoukiconsTreeStructure(), `|
-| twoSmartphones | <p align="center"><img width="50" src="icons/twoSmartphones.svg"></p> | `import 'package:koukicons/twoSmartphones.dart';`<br>`KoukiconsTwoSmartphones(), `|
-| undo | <p align="center"><img width="50" src="icons/undo.svg"></p> | `import 'package:koukicons/undo.dart';`<br>`KoukiconsUndo(), `|
-| unlink | <p align="center"><img width="50" src="icons/unlink.svg"></p> | `import 'package:koukicons/unlink.dart';`<br>`KoukiconsUnlink(), `|
-| unlock | <p align="center"><img width="50" src="icons/unlock.svg"></p> | `import 'package:koukicons/unlock.dart';`<br>`KoukiconsUnlock(), `|
-| unlock2 | <p align="center"><img width="50" src="icons/unlock2.svg"></p> | `import 'package:koukicons/unlock2.dart';`<br>`KoukiconsUnlock2(), `|
-| unlock3 | <p align="center"><img width="50" src="icons/unlock3.svg"></p> | `import 'package:koukicons/unlock3.dart';`<br>`KoukiconsUnlock3(), `|
-| unlock4 | <p align="center"><img width="50" src="icons/unlock4.svg"></p> | `import 'package:koukicons/unlock4.dart';`<br>`KoukiconsUnlock4(), `|
-| unlocked | <p align="center"><img width="50" src="icons/unlocked.svg"></p> | `import 'package:koukicons/unlocked.dart';`<br>`KoukiconsUnlocked(), `|
-| unlocked2 | <p align="center"><img width="50" src="icons/unlocked2.svg"></p> | `import 'package:koukicons/unlocked2.dart';`<br>`KoukiconsUnlocked2(), `|
-| unlockFolder | <p align="center"><img width="50" src="icons/unlockFolder.svg"></p> | `import 'package:koukicons/unlockFolder.dart';`<br>`KoukiconsUnlockFolder(), `|
-| unlockOri | <p align="center"><img width="50" src="icons/unlockOri.svg"></p> | `import 'package:koukicons/unlockOri.dart';`<br>`KoukiconsUnlockOri(), `|
-| up | <p align="center"><img width="50" src="icons/up.svg"></p> | `import 'package:koukicons/up.dart';`<br>`KoukiconsUp(), `|
-| upLeft | <p align="center"><img width="50" src="icons/upLeft.svg"></p> | `import 'package:koukicons/upLeft.dart';`<br>`KoukiconsUpLeft(), `|
-| upload | <p align="center"><img width="50" src="icons/upload.svg"></p> | `import 'package:koukicons/upload.dart';`<br>`KoukiconsUpload(), `|
-| uploadFolder | <p align="center"><img width="50" src="icons/uploadFolder.svg"></p> | `import 'package:koukicons/uploadFolder.dart';`<br>`KoukiconsUploadFolder(), `|
-| uploadX | <p align="center"><img width="50" src="icons/uploadX.svg"></p> | `import 'package:koukicons/uploadX.dart';`<br>`KoukiconsUploadX(), `|
-| upRight | <p align="center"><img width="50" src="icons/upRight.svg"></p> | `import 'package:koukicons/upRight.dart';`<br>`KoukiconsUpRight(), `|
-| userF | <p align="center"><img width="50" src="icons/userF.svg"></p> | `import 'package:koukicons/userF.dart';`<br>`KoukiconsUserF(), `|
-| userM | <p align="center"><img width="50" src="icons/userM.svg"></p> | `import 'package:koukicons/userM.dart';`<br>`KoukiconsUserM(), `|
-| users | <p align="center"><img width="50" src="icons/users.svg"></p> | `import 'package:koukicons/users.dart';`<br>`KoukiconsUsers(), `|
-| users2 | <p align="center"><img width="50" src="icons/users2.svg"></p> | `import 'package:koukicons/users2.dart';`<br>`KoukiconsUsers2(), `|
-| vid2 | <p align="center"><img width="50" src="icons/vid2.svg"></p> | `import 'package:koukicons/vid2.dart';`<br>`KoukiconsVid2(), `|
-| vid3 | <p align="center"><img width="50" src="icons/vid3.svg"></p> | `import 'package:koukicons/vid3.dart';`<br>`KoukiconsVid3(), `|
-| video | <p align="center"><img width="50" src="icons/video.svg"></p> | `import 'package:koukicons/video.dart';`<br>`KoukiconsVideo(), `|
-| videoCall | <p align="center"><img width="50" src="icons/videoCall.svg"></p> | `import 'package:koukicons/videoCall.dart';`<br>`KoukiconsVideoCall(), `|
-| videoFile | <p align="center"><img width="50" src="icons/videoFile.svg"></p> | `import 'package:koukicons/videoFile.dart';`<br>`KoukiconsVideoFile(), `|
-| videoProjector | <p align="center"><img width="50" src="icons/videoProjector.svg"></p> | `import 'package:koukicons/videoProjector.dart';`<br>`KoukiconsVideoProjector(), `|
-| view | <p align="center"><img width="50" src="icons/view.svg"></p> | `import 'package:koukicons/view.dart';`<br>`KoukiconsView(), `|
-| view2 | <p align="center"><img width="50" src="icons/view2.svg"></p> | `import 'package:koukicons/view2.dart';`<br>`KoukiconsView2(), `|
-| viewDetails | <p align="center"><img width="50" src="icons/viewDetails.svg"></p> | `import 'package:koukicons/viewDetails.dart';`<br>`KoukiconsViewDetails(), `|
-| views | <p align="center"><img width="50" src="icons/views.svg"></p> | `import 'package:koukicons/views.dart';`<br>`KoukiconsViews(), `|
-| vip | <p align="center"><img width="50" src="icons/vip.svg"></p> | `import 'package:koukicons/vip.dart';`<br>`KoukiconsVip(), `|
-| voice | <p align="center"><img width="50" src="icons/voice.svg"></p> | `import 'package:koukicons/voice.dart';`<br>`KoukiconsVoice(), `|
-| voicemail | <p align="center"><img width="50" src="icons/voicemail.svg"></p> | `import 'package:koukicons/voicemail.dart';`<br>`KoukiconsVoicemail(), `|
-| voicePresentation | <p align="center"><img width="50" src="icons/voicePresentation.svg"></p> | `import 'package:koukicons/voicePresentation.dart';`<br>`KoukiconsVoicePresentation(), `|
-| volume | <p align="center"><img width="50" src="icons/volume.svg"></p> | `import 'package:koukicons/volume.dart';`<br>`KoukiconsVolume(), `|
-| volumeAdd | <p align="center"><img width="50" src="icons/volumeAdd.svg"></p> | `import 'package:koukicons/volumeAdd.dart';`<br>`KoukiconsVolumeAdd(), `|
-| warning | <p align="center"><img width="50" src="icons/warning.svg"></p> | `import 'package:koukicons/warning.dart';`<br>`KoukiconsWarning(), `|
-| webcam | <p align="center"><img width="50" src="icons/webcam.svg"></p> | `import 'package:koukicons/webcam.dart';`<br>`KoukiconsWebcam(), `|
-| wifi | <p align="center"><img width="50" src="icons/wifi.svg"></p> | `import 'package:koukicons/wifi.dart';`<br>`KoukiconsWifi(), `|
-| wifiSignal | <p align="center"><img width="50" src="icons/wifiSignal.svg"></p> | `import 'package:koukicons/wifiSignal.dart';`<br>`KoukiconsWifiSignal(), `|
-| win | <p align="center"><img width="50" src="icons/win.svg"></p> | `import 'package:koukicons/win.dart';`<br>`KoukiconsWin(), `|
-| win2 | <p align="center"><img width="50" src="icons/win2.svg"></p> | `import 'package:koukicons/win2.dart';`<br>`KoukiconsWin2(), `|
-| workflow | <p align="center"><img width="50" src="icons/workflow.svg"></p> | `import 'package:koukicons/workflow.dart';`<br>`KoukiconsWorkflow(), `|
-| world | <p align="center"><img width="50" src="icons/world.svg"></p> | `import 'package:koukicons/world.dart';`<br>`KoukiconsWorld(), `|
-| world2 | <p align="center"><img width="50" src="icons/world2.svg"></p> | `import 'package:koukicons/world2.dart';`<br>`KoukiconsWorld2(), `|
-| write | <p align="center"><img width="50" src="icons/write.svg"></p> | `import 'package:koukicons/write.dart';`<br>`KoukiconsWrite(), `|
-| zoomIn | <p align="center"><img width="50" src="icons/zoomIn.svg"></p> | `import 'package:koukicons/zoomIn.dart';`<br>`KoukiconsZoomIn(), `|
-| zoomOut | <p align="center"><img width="50" src="icons/zoomOut.svg"></p> | `import 'package:koukicons/zoomOut.dart';`<br>`KoukiconsZoomOut(), `|
+| about | <p align="center"><img width="50" loading="lazy" src="icons/about.svg"></p> | `import 'package:koukicons/about.dart';`<br>`KoukiconsAbout(), `|
+| acceptDatabase | <p align="center"><img width="50" loading="lazy" src="icons/acceptDatabase.svg"></p> | `import 'package:koukicons/acceptDatabase.dart';`<br>`KoukiconsAcceptDatabase(), `|
+| add | <p align="center"><img width="50" loading="lazy" src="icons/add.svg"></p> | `import 'package:koukicons/add.dart';`<br>`KoukiconsAdd(), `|
+| add2 | <p align="center"><img width="50" loading="lazy" src="icons/add2.svg"></p> | `import 'package:koukicons/add2.dart';`<br>`KoukiconsAdd2(), `|
+| add3 | <p align="center"><img width="50" loading="lazy" src="icons/add3.svg"></p> | `import 'package:koukicons/add3.dart';`<br>`KoukiconsAdd3(), `|
+| addApp | <p align="center"><img width="50" loading="lazy" src="icons/addApp.svg"></p> | `import 'package:koukicons/addApp.dart';`<br>`KoukiconsAddApp(), `|
+| addColumn | <p align="center"><img width="50" loading="lazy" src="icons/addColumn.svg"></p> | `import 'package:koukicons/addColumn.dart';`<br>`KoukiconsAddColumn(), `|
+| addDatabase | <p align="center"><img width="50" loading="lazy" src="icons/addDatabase.svg"></p> | `import 'package:koukicons/addDatabase.dart';`<br>`KoukiconsAddDatabase(), `|
+| addImage | <p align="center"><img width="50" loading="lazy" src="icons/addImage.svg"></p> | `import 'package:koukicons/addImage.dart';`<br>`KoukiconsAddImage(), `|
+| addressBook | <p align="center"><img width="50" loading="lazy" src="icons/addressBook.svg"></p> | `import 'package:koukicons/addressBook.dart';`<br>`KoukiconsAddressBook(), `|
+| addRow | <p align="center"><img width="50" loading="lazy" src="icons/addRow.svg"></p> | `import 'package:koukicons/addRow.dart';`<br>`KoukiconsAddRow(), `|
+| addWin | <p align="center"><img width="50" loading="lazy" src="icons/addWin.svg"></p> | `import 'package:koukicons/addWin.dart';`<br>`KoukiconsAddWin(), `|
+| advance | <p align="center"><img width="50" loading="lazy" src="icons/advance.svg"></p> | `import 'package:koukicons/advance.dart';`<br>`KoukiconsAdvance(), `|
+| advertising | <p align="center"><img width="50" loading="lazy" src="icons/advertising.svg"></p> | `import 'package:koukicons/advertising.dart';`<br>`KoukiconsAdvertising(), `|
+| airdrop | <p align="center"><img width="50" loading="lazy" src="icons/airdrop.svg"></p> | `import 'package:koukicons/airdrop.dart';`<br>`KoukiconsAirdrop(), `|
+| airplay | <p align="center"><img width="50" loading="lazy" src="icons/airplay.svg"></p> | `import 'package:koukicons/airplay.dart';`<br>`KoukiconsAirplay(), `|
+| alarm1 | <p align="center"><img width="50" loading="lazy" src="icons/alarm1.svg"></p> | `import 'package:koukicons/alarm1.dart';`<br>`KoukiconsAlarm1(), `|
+| alarm2 | <p align="center"><img width="50" loading="lazy" src="icons/alarm2.svg"></p> | `import 'package:koukicons/alarm2.dart';`<br>`KoukiconsAlarm2(), `|
+| alarmClock | <p align="center"><img width="50" loading="lazy" src="icons/alarmClock.svg"></p> | `import 'package:koukicons/alarmClock.dart';`<br>`KoukiconsAlarmClock(), `|
+| alarmoff | <p align="center"><img width="50" loading="lazy" src="icons/alarmoff.svg"></p> | `import 'package:koukicons/alarmoff.dart';`<br>`KoukiconsAlarmoff(), `|
+| album | <p align="center"><img width="50" loading="lazy" src="icons/album.svg"></p> | `import 'package:koukicons/album.dart';`<br>`KoukiconsAlbum(), `|
+| albumCd | <p align="center"><img width="50" loading="lazy" src="icons/albumCd.svg"></p> | `import 'package:koukicons/albumCd.dart';`<br>`KoukiconsAlbumCd(), `|
+| albums | <p align="center"><img width="50" loading="lazy" src="icons/albums.svg"></p> | `import 'package:koukicons/albums.dart';`<br>`KoukiconsAlbums(), `|
+| albums2 | <p align="center"><img width="50" loading="lazy" src="icons/albums2.svg"></p> | `import 'package:koukicons/albums2.dart';`<br>`KoukiconsAlbums2(), `|
+| albumsView | <p align="center"><img width="50" loading="lazy" src="icons/albumsView.svg"></p> | `import 'package:koukicons/albumsView.dart';`<br>`KoukiconsAlbumsView(), `|
+| alphabeticalSortingAz | <p align="center"><img width="50" loading="lazy" src="icons/alphabeticalSortingAz.svg"></p> | `import 'package:koukicons/alphabeticalSortingAz.dart';`<br>`KoukiconsAlphabeticalSortingAz(), `|
+| alphabeticalSortingZa | <p align="center"><img width="50" loading="lazy" src="icons/alphabeticalSortingZa.svg"></p> | `import 'package:koukicons/alphabeticalSortingZa.dart';`<br>`KoukiconsAlphabeticalSortingZa(), `|
+| answers | <p align="center"><img width="50" loading="lazy" src="icons/answers.svg"></p> | `import 'package:koukicons/answers.dart';`<br>`KoukiconsAnswers(), `|
+| approval | <p align="center"><img width="50" loading="lazy" src="icons/approval.svg"></p> | `import 'package:koukicons/approval.dart';`<br>`KoukiconsApproval(), `|
+| approve | <p align="center"><img width="50" loading="lazy" src="icons/approve.svg"></p> | `import 'package:koukicons/approve.dart';`<br>`KoukiconsApprove(), `|
+| archive | <p align="center"><img width="50" loading="lazy" src="icons/archive.svg"></p> | `import 'package:koukicons/archive.dart';`<br>`KoukiconsArchive(), `|
+| archive2 | <p align="center"><img width="50" loading="lazy" src="icons/archive2.svg"></p> | `import 'package:koukicons/archive2.dart';`<br>`KoukiconsArchive2(), `|
+| archive3 | <p align="center"><img width="50" loading="lazy" src="icons/archive3.svg"></p> | `import 'package:koukicons/archive3.dart';`<br>`KoukiconsArchive3(), `|
+| areaChart | <p align="center"><img width="50" loading="lazy" src="icons/areaChart.svg"></p> | `import 'package:koukicons/areaChart.dart';`<br>`KoukiconsAreaChart(), `|
+| assistant | <p align="center"><img width="50" loading="lazy" src="icons/assistant.svg"></p> | `import 'package:koukicons/assistant.dart';`<br>`KoukiconsAssistant(), `|
+| attach | <p align="center"><img width="50" loading="lazy" src="icons/attach.svg"></p> | `import 'package:koukicons/attach.dart';`<br>`KoukiconsAttach(), `|
+| audioFile | <p align="center"><img width="50" loading="lazy" src="icons/audioFile.svg"></p> | `import 'package:koukicons/audioFile.dart';`<br>`KoukiconsAudioFile(), `|
+| automatic | <p align="center"><img width="50" loading="lazy" src="icons/automatic.svg"></p> | `import 'package:koukicons/automatic.dart';`<br>`KoukiconsAutomatic(), `|
+| automotive | <p align="center"><img width="50" loading="lazy" src="icons/automotive.svg"></p> | `import 'package:koukicons/automotive.dart';`<br>`KoukiconsAutomotive(), `|
+| back | <p align="center"><img width="50" loading="lazy" src="icons/back.svg"></p> | `import 'package:koukicons/back.dart';`<br>`KoukiconsBack(), `|
+| back2 | <p align="center"><img width="50" loading="lazy" src="icons/back2.svg"></p> | `import 'package:koukicons/back2.dart';`<br>`KoukiconsBack2(), `|
+| badDecision | <p align="center"><img width="50" loading="lazy" src="icons/badDecision.svg"></p> | `import 'package:koukicons/badDecision.dart';`<br>`KoukiconsBadDecision(), `|
+| barChart | <p align="center"><img width="50" loading="lazy" src="icons/barChart.svg"></p> | `import 'package:koukicons/barChart.dart';`<br>`KoukiconsBarChart(), `|
+| bearish | <p align="center"><img width="50" loading="lazy" src="icons/bearish.svg"></p> | `import 'package:koukicons/bearish.dart';`<br>`KoukiconsBearish(), `|
+| binoculars | <p align="center"><img width="50" loading="lazy" src="icons/binoculars.svg"></p> | `import 'package:koukicons/binoculars.dart';`<br>`KoukiconsBinoculars(), `|
+| biohazard | <p align="center"><img width="50" loading="lazy" src="icons/biohazard.svg"></p> | `import 'package:koukicons/biohazard.dart';`<br>`KoukiconsBiohazard(), `|
+| biomass | <p align="center"><img width="50" loading="lazy" src="icons/biomass.svg"></p> | `import 'package:koukicons/biomass.dart';`<br>`KoukiconsBiomass(), `|
+| biotech | <p align="center"><img width="50" loading="lazy" src="icons/biotech.svg"></p> | `import 'package:koukicons/biotech.dart';`<br>`KoukiconsBiotech(), `|
+| blueprint | <p align="center"><img width="50" loading="lazy" src="icons/blueprint.svg"></p> | `import 'package:koukicons/blueprint.dart';`<br>`KoukiconsBlueprint(), `|
+| bluetooth | <p align="center"><img width="50" loading="lazy" src="icons/bluetooth.svg"></p> | `import 'package:koukicons/bluetooth.dart';`<br>`KoukiconsBluetooth(), `|
+| bluetooth2 | <p align="center"><img width="50" loading="lazy" src="icons/bluetooth2.svg"></p> | `import 'package:koukicons/bluetooth2.dart';`<br>`KoukiconsBluetooth2(), `|
+| bookmark | <p align="center"><img width="50" loading="lazy" src="icons/bookmark.svg"></p> | `import 'package:koukicons/bookmark.dart';`<br>`KoukiconsBookmark(), `|
+| bookmark2 | <p align="center"><img width="50" loading="lazy" src="icons/bookmark2.svg"></p> | `import 'package:koukicons/bookmark2.dart';`<br>`KoukiconsBookmark2(), `|
+| bookmarkC | <p align="center"><img width="50" loading="lazy" src="icons/bookmarkC.svg"></p> | `import 'package:koukicons/bookmarkC.dart';`<br>`KoukiconsBookmarkC(), `|
+| box | <p align="center"><img width="50" loading="lazy" src="icons/box.svg"></p> | `import 'package:koukicons/box.dart';`<br>`KoukiconsBox(), `|
+| boxArchive | <p align="center"><img width="50" loading="lazy" src="icons/boxArchive.svg"></p> | `import 'package:koukicons/boxArchive.dart';`<br>`KoukiconsBoxArchive(), `|
+| boxArchive2 | <p align="center"><img width="50" loading="lazy" src="icons/boxArchive2.svg"></p> | `import 'package:koukicons/boxArchive2.dart';`<br>`KoukiconsBoxArchive2(), `|
+| briefcase | <p align="center"><img width="50" loading="lazy" src="icons/briefcase.svg"></p> | `import 'package:koukicons/briefcase.dart';`<br>`KoukiconsBriefcase(), `|
+| brokenLink | <p align="center"><img width="50" loading="lazy" src="icons/brokenLink.svg"></p> | `import 'package:koukicons/brokenLink.dart';`<br>`KoukiconsBrokenLink(), `|
+| brokenLink2 | <p align="center"><img width="50" loading="lazy" src="icons/brokenLink2.svg"></p> | `import 'package:koukicons/brokenLink2.dart';`<br>`KoukiconsBrokenLink2(), `|
+| bullish | <p align="center"><img width="50" loading="lazy" src="icons/bullish.svg"></p> | `import 'package:koukicons/bullish.dart';`<br>`KoukiconsBullish(), `|
+| business | <p align="center"><img width="50" loading="lazy" src="icons/business.svg"></p> | `import 'package:koukicons/business.dart';`<br>`KoukiconsBusiness(), `|
+| businessContact | <p align="center"><img width="50" loading="lazy" src="icons/businessContact.svg"></p> | `import 'package:koukicons/businessContact.dart';`<br>`KoukiconsBusinessContact(), `|
+| businessman | <p align="center"><img width="50" loading="lazy" src="icons/businessman.svg"></p> | `import 'package:koukicons/businessman.dart';`<br>`KoukiconsBusinessman(), `|
+| businesswoman | <p align="center"><img width="50" loading="lazy" src="icons/businesswoman.svg"></p> | `import 'package:koukicons/businesswoman.dart';`<br>`KoukiconsBusinesswoman(), `|
+| buttingIn | <p align="center"><img width="50" loading="lazy" src="icons/buttingIn.svg"></p> | `import 'package:koukicons/buttingIn.dart';`<br>`KoukiconsButtingIn(), `|
+| cableRelease | <p align="center"><img width="50" loading="lazy" src="icons/cableRelease.svg"></p> | `import 'package:koukicons/cableRelease.dart';`<br>`KoukiconsCableRelease(), `|
+| calc | <p align="center"><img width="50" loading="lazy" src="icons/calc.svg"></p> | `import 'package:koukicons/calc.dart';`<br>`KoukiconsCalc(), `|
+| calc2 | <p align="center"><img width="50" loading="lazy" src="icons/calc2.svg"></p> | `import 'package:koukicons/calc2.dart';`<br>`KoukiconsCalc2(), `|
+| calculator | <p align="center"><img width="50" loading="lazy" src="icons/calculator.svg"></p> | `import 'package:koukicons/calculator.dart';`<br>`KoukiconsCalculator(), `|
+| calend | <p align="center"><img width="50" loading="lazy" src="icons/calend.svg"></p> | `import 'package:koukicons/calend.dart';`<br>`KoukiconsCalend(), `|
+| calendar | <p align="center"><img width="50" loading="lazy" src="icons/calendar.svg"></p> | `import 'package:koukicons/calendar.dart';`<br>`KoukiconsCalendar(), `|
+| calendar1 | <p align="center"><img width="50" loading="lazy" src="icons/calendar1.svg"></p> | `import 'package:koukicons/calendar1.dart';`<br>`KoukiconsCalendar1(), `|
+| calendar2 | <p align="center"><img width="50" loading="lazy" src="icons/calendar2.svg"></p> | `import 'package:koukicons/calendar2.dart';`<br>`KoukiconsCalendar2(), `|
+| calendar3 | <p align="center"><img width="50" loading="lazy" src="icons/calendar3.svg"></p> | `import 'package:koukicons/calendar3.dart';`<br>`KoukiconsCalendar3(), `|
+| calendar4 | <p align="center"><img width="50" loading="lazy" src="icons/calendar4.svg"></p> | `import 'package:koukicons/calendar4.dart';`<br>`KoukiconsCalendar4(), `|
+| calendar5 | <p align="center"><img width="50" loading="lazy" src="icons/calendar5.svg"></p> | `import 'package:koukicons/calendar5.dart';`<br>`KoukiconsCalendar5(), `|
+| callback | <p align="center"><img width="50" loading="lazy" src="icons/callback.svg"></p> | `import 'package:koukicons/callback.dart';`<br>`KoukiconsCallback(), `|
+| callTransfer | <p align="center"><img width="50" loading="lazy" src="icons/callTransfer.svg"></p> | `import 'package:koukicons/callTransfer.dart';`<br>`KoukiconsCallTransfer(), `|
+| camcorder | <p align="center"><img width="50" loading="lazy" src="icons/camcorder.svg"></p> | `import 'package:koukicons/camcorder.dart';`<br>`KoukiconsCamcorder(), `|
+| camcorderPro | <p align="center"><img width="50" loading="lazy" src="icons/camcorderPro.svg"></p> | `import 'package:koukicons/camcorderPro.dart';`<br>`KoukiconsCamcorderPro(), `|
+| camera | <p align="center"><img width="50" loading="lazy" src="icons/camera.svg"></p> | `import 'package:koukicons/camera.dart';`<br>`KoukiconsCamera(), `|
+| camera2 | <p align="center"><img width="50" loading="lazy" src="icons/camera2.svg"></p> | `import 'package:koukicons/camera2.dart';`<br>`KoukiconsCamera2(), `|
+| cameraAddon | <p align="center"><img width="50" loading="lazy" src="icons/cameraAddon.svg"></p> | `import 'package:koukicons/cameraAddon.dart';`<br>`KoukiconsCameraAddon(), `|
+| cameraIdentification | <p align="center"><img width="50" loading="lazy" src="icons/cameraIdentification.svg"></p> | `import 'package:koukicons/cameraIdentification.dart';`<br>`KoukiconsCameraIdentification(), `|
+| camx | <p align="center"><img width="50" loading="lazy" src="icons/camx.svg"></p> | `import 'package:koukicons/camx.dart';`<br>`KoukiconsCamx(), `|
+| cancel | <p align="center"><img width="50" loading="lazy" src="icons/cancel.svg"></p> | `import 'package:koukicons/cancel.dart';`<br>`KoukiconsCancel(), `|
+| candleSticks | <p align="center"><img width="50" loading="lazy" src="icons/candleSticks.svg"></p> | `import 'package:koukicons/candleSticks.dart';`<br>`KoukiconsCandleSticks(), `|
+| capacitor | <p align="center"><img width="50" loading="lazy" src="icons/capacitor.svg"></p> | `import 'package:koukicons/capacitor.dart';`<br>`KoukiconsCapacitor(), `|
+| caseX | <p align="center"><img width="50" loading="lazy" src="icons/caseX.svg"></p> | `import 'package:koukicons/caseX.dart';`<br>`KoukiconsCaseX(), `|
+| cd | <p align="center"><img width="50" loading="lazy" src="icons/cd.svg"></p> | `import 'package:koukicons/cd.dart';`<br>`KoukiconsCd(), `|
+| cd2 | <p align="center"><img width="50" loading="lazy" src="icons/cd2.svg"></p> | `import 'package:koukicons/cd2.dart';`<br>`KoukiconsCd2(), `|
+| cellPhone | <p align="center"><img width="50" loading="lazy" src="icons/cellPhone.svg"></p> | `import 'package:koukicons/cellPhone.dart';`<br>`KoukiconsCellPhone(), `|
+| chargeBattery | <p align="center"><img width="50" loading="lazy" src="icons/chargeBattery.svg"></p> | `import 'package:koukicons/chargeBattery.dart';`<br>`KoukiconsChargeBattery(), `|
+| chargingBattery | <p align="center"><img width="50" loading="lazy" src="icons/chargingBattery.svg"></p> | `import 'package:koukicons/chargingBattery.dart';`<br>`KoukiconsChargingBattery(), `|
+| checklist | <p align="center"><img width="50" loading="lazy" src="icons/checklist.svg"></p> | `import 'package:koukicons/checklist.dart';`<br>`KoukiconsChecklist(), `|
+| checkmark | <p align="center"><img width="50" loading="lazy" src="icons/checkmark.svg"></p> | `import 'package:koukicons/checkmark.dart';`<br>`KoukiconsCheckmark(), `|
+| circuit | <p align="center"><img width="50" loading="lazy" src="icons/circuit.svg"></p> | `import 'package:koukicons/circuit.dart';`<br>`KoukiconsCircuit(), `|
+| clapperboard | <p align="center"><img width="50" loading="lazy" src="icons/clapperboard.svg"></p> | `import 'package:koukicons/clapperboard.dart';`<br>`KoukiconsClapperboard(), `|
+| clearFilters | <p align="center"><img width="50" loading="lazy" src="icons/clearFilters.svg"></p> | `import 'package:koukicons/clearFilters.dart';`<br>`KoukiconsClearFilters(), `|
+| clock | <p align="center"><img width="50" loading="lazy" src="icons/clock.svg"></p> | `import 'package:koukicons/clock.dart';`<br>`KoukiconsClock(), `|
+| clock2 | <p align="center"><img width="50" loading="lazy" src="icons/clock2.svg"></p> | `import 'package:koukicons/clock2.dart';`<br>`KoukiconsClock2(), `|
+| clocktime | <p align="center"><img width="50" loading="lazy" src="icons/clocktime.svg"></p> | `import 'package:koukicons/clocktime.dart';`<br>`KoukiconsClocktime(), `|
+| closeUpMode | <p align="center"><img width="50" loading="lazy" src="icons/closeUpMode.svg"></p> | `import 'package:koukicons/closeUpMode.dart';`<br>`KoukiconsCloseUpMode(), `|
+| cloth | <p align="center"><img width="50" loading="lazy" src="icons/cloth.svg"></p> | `import 'package:koukicons/cloth.dart';`<br>`KoukiconsCloth(), `|
+| cloud | <p align="center"><img width="50" loading="lazy" src="icons/cloud.svg"></p> | `import 'package:koukicons/cloud.dart';`<br>`KoukiconsCloud(), `|
+| cloudDown | <p align="center"><img width="50" loading="lazy" src="icons/cloudDown.svg"></p> | `import 'package:koukicons/cloudDown.dart';`<br>`KoukiconsCloudDown(), `|
+| cloudSearch | <p align="center"><img width="50" loading="lazy" src="icons/cloudSearch.svg"></p> | `import 'package:koukicons/cloudSearch.dart';`<br>`KoukiconsCloudSearch(), `|
+| cloudSync | <p align="center"><img width="50" loading="lazy" src="icons/cloudSync.svg"></p> | `import 'package:koukicons/cloudSync.dart';`<br>`KoukiconsCloudSync(), `|
+| cloudTransfert | <p align="center"><img width="50" loading="lazy" src="icons/cloudTransfert.svg"></p> | `import 'package:koukicons/cloudTransfert.dart';`<br>`KoukiconsCloudTransfert(), `|
+| cloudUpload | <p align="center"><img width="50" loading="lazy" src="icons/cloudUpload.svg"></p> | `import 'package:koukicons/cloudUpload.dart';`<br>`KoukiconsCloudUpload(), `|
+| cloudWarning | <p align="center"><img width="50" loading="lazy" src="icons/cloudWarning.svg"></p> | `import 'package:koukicons/cloudWarning.dart';`<br>`KoukiconsCloudWarning(), `|
+| collaboration | <p align="center"><img width="50" loading="lazy" src="icons/collaboration.svg"></p> | `import 'package:koukicons/collaboration.dart';`<br>`KoukiconsCollaboration(), `|
+| collapse | <p align="center"><img width="50" loading="lazy" src="icons/collapse.svg"></p> | `import 'package:koukicons/collapse.dart';`<br>`KoukiconsCollapse(), `|
+| collect | <p align="center"><img width="50" loading="lazy" src="icons/collect.svg"></p> | `import 'package:koukicons/collect.dart';`<br>`KoukiconsCollect(), `|
+| comboChart | <p align="center"><img width="50" loading="lazy" src="icons/comboChart.svg"></p> | `import 'package:koukicons/comboChart.dart';`<br>`KoukiconsComboChart(), `|
+| command | <p align="center"><img width="50" loading="lazy" src="icons/command.svg"></p> | `import 'package:koukicons/command.dart';`<br>`KoukiconsCommand(), `|
+| comments | <p align="center"><img width="50" loading="lazy" src="icons/comments.svg"></p> | `import 'package:koukicons/comments.dart';`<br>`KoukiconsComments(), `|
+| compactCamera | <p align="center"><img width="50" loading="lazy" src="icons/compactCamera.svg"></p> | `import 'package:koukicons/compactCamera.dart';`<br>`KoukiconsCompactCamera(), `|
+| compass | <p align="center"><img width="50" loading="lazy" src="icons/compass.svg"></p> | `import 'package:koukicons/compass.dart';`<br>`KoukiconsCompass(), `|
+| compose | <p align="center"><img width="50" loading="lazy" src="icons/compose.svg"></p> | `import 'package:koukicons/compose.dart';`<br>`KoukiconsCompose(), `|
+| conferenceCall | <p align="center"><img width="50" loading="lazy" src="icons/conferenceCall.svg"></p> | `import 'package:koukicons/conferenceCall.dart';`<br>`KoukiconsConferenceCall(), `|
+| connectedNetwork | <p align="center"><img width="50" loading="lazy" src="icons/connectedNetwork.svg"></p> | `import 'package:koukicons/connectedNetwork.dart';`<br>`KoukiconsConnectedNetwork(), `|
+| contacts | <p align="center"><img width="50" loading="lazy" src="icons/contacts.svg"></p> | `import 'package:koukicons/contacts.dart';`<br>`KoukiconsContacts(), `|
+| controls1 | <p align="center"><img width="50" loading="lazy" src="icons/controls1.svg"></p> | `import 'package:koukicons/controls1.dart';`<br>`KoukiconsControls1(), `|
+| controls10 | <p align="center"><img width="50" loading="lazy" src="icons/controls10.svg"></p> | `import 'package:koukicons/controls10.dart';`<br>`KoukiconsControls10(), `|
+| controls2 | <p align="center"><img width="50" loading="lazy" src="icons/controls2.svg"></p> | `import 'package:koukicons/controls2.dart';`<br>`KoukiconsControls2(), `|
+| controls3 | <p align="center"><img width="50" loading="lazy" src="icons/controls3.svg"></p> | `import 'package:koukicons/controls3.dart';`<br>`KoukiconsControls3(), `|
+| controls4 | <p align="center"><img width="50" loading="lazy" src="icons/controls4.svg"></p> | `import 'package:koukicons/controls4.dart';`<br>`KoukiconsControls4(), `|
+| controls5 | <p align="center"><img width="50" loading="lazy" src="icons/controls5.svg"></p> | `import 'package:koukicons/controls5.dart';`<br>`KoukiconsControls5(), `|
+| controls6 | <p align="center"><img width="50" loading="lazy" src="icons/controls6.svg"></p> | `import 'package:koukicons/controls6.dart';`<br>`KoukiconsControls6(), `|
+| controls7 | <p align="center"><img width="50" loading="lazy" src="icons/controls7.svg"></p> | `import 'package:koukicons/controls7.dart';`<br>`KoukiconsControls7(), `|
+| controls8 | <p align="center"><img width="50" loading="lazy" src="icons/controls8.svg"></p> | `import 'package:koukicons/controls8.dart';`<br>`KoukiconsControls8(), `|
+| controls9 | <p align="center"><img width="50" loading="lazy" src="icons/controls9.svg"></p> | `import 'package:koukicons/controls9.dart';`<br>`KoukiconsControls9(), `|
+| copyleft | <p align="center"><img width="50" loading="lazy" src="icons/copyleft.svg"></p> | `import 'package:koukicons/copyleft.dart';`<br>`KoukiconsCopyleft(), `|
+| copyright | <p align="center"><img width="50" loading="lazy" src="icons/copyright.svg"></p> | `import 'package:koukicons/copyright.dart';`<br>`KoukiconsCopyright(), `|
+| crystalOscillator | <p align="center"><img width="50" loading="lazy" src="icons/crystalOscillator.svg"></p> | `import 'package:koukicons/crystalOscillator.dart';`<br>`KoukiconsCrystalOscillator(), `|
+| currencyExchange | <p align="center"><img width="50" loading="lazy" src="icons/currencyExchange.svg"></p> | `import 'package:koukicons/currencyExchange.dart';`<br>`KoukiconsCurrencyExchange(), `|
+| cursor | <p align="center"><img width="50" loading="lazy" src="icons/cursor.svg"></p> | `import 'package:koukicons/cursor.dart';`<br>`KoukiconsCursor(), `|
+| customerSupport | <p align="center"><img width="50" loading="lazy" src="icons/customerSupport.svg"></p> | `import 'package:koukicons/customerSupport.dart';`<br>`KoukiconsCustomerSupport(), `|
+| dam | <p align="center"><img width="50" loading="lazy" src="icons/dam.svg"></p> | `import 'package:koukicons/dam.dart';`<br>`KoukiconsDam(), `|
+| dataBackup | <p align="center"><img width="50" loading="lazy" src="icons/dataBackup.svg"></p> | `import 'package:koukicons/dataBackup.dart';`<br>`KoukiconsDataBackup(), `|
+| database | <p align="center"><img width="50" loading="lazy" src="icons/database.svg"></p> | `import 'package:koukicons/database.dart';`<br>`KoukiconsDatabase(), `|
+| database2 | <p align="center"><img width="50" loading="lazy" src="icons/database2.svg"></p> | `import 'package:koukicons/database2.dart';`<br>`KoukiconsDatabase2(), `|
+| database3 | <p align="center"><img width="50" loading="lazy" src="icons/database3.svg"></p> | `import 'package:koukicons/database3.dart';`<br>`KoukiconsDatabase3(), `|
+| databaseNetwork | <p align="center"><img width="50" loading="lazy" src="icons/databaseNetwork.svg"></p> | `import 'package:koukicons/databaseNetwork.dart';`<br>`KoukiconsDatabaseNetwork(), `|
+| databaseX | <p align="center"><img width="50" loading="lazy" src="icons/databaseX.svg"></p> | `import 'package:koukicons/databaseX.dart';`<br>`KoukiconsDatabaseX(), `|
+| dataConfiguration | <p align="center"><img width="50" loading="lazy" src="icons/dataConfiguration.svg"></p> | `import 'package:koukicons/dataConfiguration.dart';`<br>`KoukiconsDataConfiguration(), `|
+| dataEncryption | <p align="center"><img width="50" loading="lazy" src="icons/dataEncryption.svg"></p> | `import 'package:koukicons/dataEncryption.dart';`<br>`KoukiconsDataEncryption(), `|
+| dataProtection | <p align="center"><img width="50" loading="lazy" src="icons/dataProtection.svg"></p> | `import 'package:koukicons/dataProtection.dart';`<br>`KoukiconsDataProtection(), `|
+| dataRecovery | <p align="center"><img width="50" loading="lazy" src="icons/dataRecovery.svg"></p> | `import 'package:koukicons/dataRecovery.dart';`<br>`KoukiconsDataRecovery(), `|
+| dataSheet | <p align="center"><img width="50" loading="lazy" src="icons/dataSheet.svg"></p> | `import 'package:koukicons/dataSheet.dart';`<br>`KoukiconsDataSheet(), `|
+| debt | <p align="center"><img width="50" loading="lazy" src="icons/debt.svg"></p> | `import 'package:koukicons/debt.dart';`<br>`KoukiconsDebt(), `|
+| decision | <p align="center"><img width="50" loading="lazy" src="icons/decision.svg"></p> | `import 'package:koukicons/decision.dart';`<br>`KoukiconsDecision(), `|
+| deleteColumn | <p align="center"><img width="50" loading="lazy" src="icons/deleteColumn.svg"></p> | `import 'package:koukicons/deleteColumn.dart';`<br>`KoukiconsDeleteColumn(), `|
+| deleteDatabase | <p align="center"><img width="50" loading="lazy" src="icons/deleteDatabase.svg"></p> | `import 'package:koukicons/deleteDatabase.dart';`<br>`KoukiconsDeleteDatabase(), `|
+| deleteRow | <p align="center"><img width="50" loading="lazy" src="icons/deleteRow.svg"></p> | `import 'package:koukicons/deleteRow.dart';`<br>`KoukiconsDeleteRow(), `|
+| department | <p align="center"><img width="50" loading="lazy" src="icons/department.svg"></p> | `import 'package:koukicons/department.dart';`<br>`KoukiconsDepartment(), `|
+| deployment | <p align="center"><img width="50" loading="lazy" src="icons/deployment.svg"></p> | `import 'package:koukicons/deployment.dart';`<br>`KoukiconsDeployment(), `|
+| dialPad | <p align="center"><img width="50" loading="lazy" src="icons/dialPad.svg"></p> | `import 'package:koukicons/dialPad.dart';`<br>`KoukiconsDialPad(), `|
+| diamond | <p align="center"><img width="50" loading="lazy" src="icons/diamond.svg"></p> | `import 'package:koukicons/diamond.dart';`<br>`KoukiconsDiamond(), `|
+| diploamaX | <p align="center"><img width="50" loading="lazy" src="icons/diploamaX.svg"></p> | `import 'package:koukicons/diploamaX.dart';`<br>`KoukiconsDiploamaX(), `|
+| diploma | <p align="center"><img width="50" loading="lazy" src="icons/diploma.svg"></p> | `import 'package:koukicons/diploma.dart';`<br>`KoukiconsDiploma(), `|
+| diploma1 | <p align="center"><img width="50" loading="lazy" src="icons/diploma1.svg"></p> | `import 'package:koukicons/diploma1.dart';`<br>`KoukiconsDiploma1(), `|
+| disapprove | <p align="center"><img width="50" loading="lazy" src="icons/disapprove.svg"></p> | `import 'package:koukicons/disapprove.dart';`<br>`KoukiconsDisapprove(), `|
+| disclaimer | <p align="center"><img width="50" loading="lazy" src="icons/disclaimer.svg"></p> | `import 'package:koukicons/disclaimer.dart';`<br>`KoukiconsDisclaimer(), `|
+| disconnectedNetwork | <p align="center"><img width="50" loading="lazy" src="icons/disconnectedNetwork.svg"></p> | `import 'package:koukicons/disconnectedNetwork.dart';`<br>`KoukiconsDisconnectedNetwork(), `|
+| dislike | <p align="center"><img width="50" loading="lazy" src="icons/dislike.svg"></p> | `import 'package:koukicons/dislike.dart';`<br>`KoukiconsDislike(), `|
+| disliked | <p align="center"><img width="50" loading="lazy" src="icons/disliked.svg"></p> | `import 'package:koukicons/disliked.dart';`<br>`KoukiconsDisliked(), `|
+| display | <p align="center"><img width="50" loading="lazy" src="icons/display.svg"></p> | `import 'package:koukicons/display.dart';`<br>`KoukiconsDisplay(), `|
+| divide | <p align="center"><img width="50" loading="lazy" src="icons/divide.svg"></p> | `import 'package:koukicons/divide.dart';`<br>`KoukiconsDivide(), `|
+| divide2 | <p align="center"><img width="50" loading="lazy" src="icons/divide2.svg"></p> | `import 'package:koukicons/divide2.dart';`<br>`KoukiconsDivide2(), `|
+| divide3 | <p align="center"><img width="50" loading="lazy" src="icons/divide3.svg"></p> | `import 'package:koukicons/divide3.dart';`<br>`KoukiconsDivide3(), `|
+| doc | <p align="center"><img width="50" loading="lazy" src="icons/doc.svg"></p> | `import 'package:koukicons/doc.dart';`<br>`KoukiconsDoc(), `|
+| docFolder | <p align="center"><img width="50" loading="lazy" src="icons/docFolder.svg"></p> | `import 'package:koukicons/docFolder.dart';`<br>`KoukiconsDocFolder(), `|
+| docFolder2 | <p align="center"><img width="50" loading="lazy" src="icons/docFolder2.svg"></p> | `import 'package:koukicons/docFolder2.dart';`<br>`KoukiconsDocFolder2(), `|
+| docFolder3 | <p align="center"><img width="50" loading="lazy" src="icons/docFolder3.svg"></p> | `import 'package:koukicons/docFolder3.dart';`<br>`KoukiconsDocFolder3(), `|
+| docFolder4 | <p align="center"><img width="50" loading="lazy" src="icons/docFolder4.svg"></p> | `import 'package:koukicons/docFolder4.dart';`<br>`KoukiconsDocFolder4(), `|
+| document | <p align="center"><img width="50" loading="lazy" src="icons/document.svg"></p> | `import 'package:koukicons/document.dart';`<br>`KoukiconsDocument(), `|
+| donate | <p align="center"><img width="50" loading="lazy" src="icons/donate.svg"></p> | `import 'package:koukicons/donate.dart';`<br>`KoukiconsDonate(), `|
+| doNotInhale | <p align="center"><img width="50" loading="lazy" src="icons/doNotInhale.svg"></p> | `import 'package:koukicons/doNotInhale.dart';`<br>`KoukiconsDoNotInhale(), `|
+| doNotInsert | <p align="center"><img width="50" loading="lazy" src="icons/doNotInsert.svg"></p> | `import 'package:koukicons/doNotInsert.dart';`<br>`KoukiconsDoNotInsert(), `|
+| doNotMix | <p align="center"><img width="50" loading="lazy" src="icons/doNotMix.svg"></p> | `import 'package:koukicons/doNotMix.dart';`<br>`KoukiconsDoNotMix(), `|
+| doughnutChart | <p align="center"><img width="50" loading="lazy" src="icons/doughnutChart.svg"></p> | `import 'package:koukicons/doughnutChart.dart';`<br>`KoukiconsDoughnutChart(), `|
+| down | <p align="center"><img width="50" loading="lazy" src="icons/down.svg"></p> | `import 'package:koukicons/down.dart';`<br>`KoukiconsDown(), `|
+| downLeft | <p align="center"><img width="50" loading="lazy" src="icons/downLeft.svg"></p> | `import 'package:koukicons/downLeft.dart';`<br>`KoukiconsDownLeft(), `|
+| download | <p align="center"><img width="50" loading="lazy" src="icons/download.svg"></p> | `import 'package:koukicons/download.dart';`<br>`KoukiconsDownload(), `|
+| downloadFolder | <p align="center"><img width="50" loading="lazy" src="icons/downloadFolder.svg"></p> | `import 'package:koukicons/downloadFolder.dart';`<br>`KoukiconsDownloadFolder(), `|
+| downloadX | <p align="center"><img width="50" loading="lazy" src="icons/downloadX.svg"></p> | `import 'package:koukicons/downloadX.dart';`<br>`KoukiconsDownloadX(), `|
+| downRight | <p align="center"><img width="50" loading="lazy" src="icons/downRight.svg"></p> | `import 'package:koukicons/downRight.dart';`<br>`KoukiconsDownRight(), `|
+| drainingBattery | <p align="center"><img width="50" loading="lazy" src="icons/drainingBattery.svg"></p> | `import 'package:koukicons/drainingBattery.dart';`<br>`KoukiconsDrainingBattery(), `|
+| drainingBattery2 | <p align="center"><img width="50" loading="lazy" src="icons/drainingBattery2.svg"></p> | `import 'package:koukicons/drainingBattery2.dart';`<br>`KoukiconsDrainingBattery2(), `|
+| driverLicence | <p align="center"><img width="50" loading="lazy" src="icons/driverLicence.svg"></p> | `import 'package:koukicons/driverLicence.dart';`<br>`KoukiconsDriverLicence(), `|
+| edit | <p align="center"><img width="50" loading="lazy" src="icons/edit.svg"></p> | `import 'package:koukicons/edit.dart';`<br>`KoukiconsEdit(), `|
+| editDoc | <p align="center"><img width="50" loading="lazy" src="icons/editDoc.svg"></p> | `import 'package:koukicons/editDoc.dart';`<br>`KoukiconsEditDoc(), `|
+| editImage | <p align="center"><img width="50" loading="lazy" src="icons/editImage.svg"></p> | `import 'package:koukicons/editImage.dart';`<br>`KoukiconsEditImage(), `|
+| eject | <p align="center"><img width="50" loading="lazy" src="icons/eject.svg"></p> | `import 'package:koukicons/eject.dart';`<br>`KoukiconsEject(), `|
+| eject2 | <p align="center"><img width="50" loading="lazy" src="icons/eject2.svg"></p> | `import 'package:koukicons/eject2.dart';`<br>`KoukiconsEject2(), `|
+| electricalSensor | <p align="center"><img width="50" loading="lazy" src="icons/electricalSensor.svg"></p> | `import 'package:koukicons/electricalSensor.dart';`<br>`KoukiconsElectricalSensor(), `|
+| electricalThreshold | <p align="center"><img width="50" loading="lazy" src="icons/electricalThreshold.svg"></p> | `import 'package:koukicons/electricalThreshold.dart';`<br>`KoukiconsElectricalThreshold(), `|
+| electricity | <p align="center"><img width="50" loading="lazy" src="icons/electricity.svg"></p> | `import 'package:koukicons/electricity.dart';`<br>`KoukiconsElectricity(), `|
+| electroDevices | <p align="center"><img width="50" loading="lazy" src="icons/electroDevices.svg"></p> | `import 'package:koukicons/electroDevices.dart';`<br>`KoukiconsElectroDevices(), `|
+| electronics | <p align="center"><img width="50" loading="lazy" src="icons/electronics.svg"></p> | `import 'package:koukicons/electronics.dart';`<br>`KoukiconsElectronics(), `|
+| employeeBadge | <p align="center"><img width="50" loading="lazy" src="icons/employeeBadge.svg"></p> | `import 'package:koukicons/employeeBadge.dart';`<br>`KoukiconsEmployeeBadge(), `|
+| employeeBadge2 | <p align="center"><img width="50" loading="lazy" src="icons/employeeBadge2.svg"></p> | `import 'package:koukicons/employeeBadge2.dart';`<br>`KoukiconsEmployeeBadge2(), `|
+| employeeBadge3 | <p align="center"><img width="50" loading="lazy" src="icons/employeeBadge3.svg"></p> | `import 'package:koukicons/employeeBadge3.dart';`<br>`KoukiconsEmployeeBadge3(), `|
+| employeeBadge4 | <p align="center"><img width="50" loading="lazy" src="icons/employeeBadge4.svg"></p> | `import 'package:koukicons/employeeBadge4.dart';`<br>`KoukiconsEmployeeBadge4(), `|
+| emptyBattery | <p align="center"><img width="50" loading="lazy" src="icons/emptyBattery.svg"></p> | `import 'package:koukicons/emptyBattery.dart';`<br>`KoukiconsEmptyBattery(), `|
+| emptyFilter | <p align="center"><img width="50" loading="lazy" src="icons/emptyFilter.svg"></p> | `import 'package:koukicons/emptyFilter.dart';`<br>`KoukiconsEmptyFilter(), `|
+| emptyTrash | <p align="center"><img width="50" loading="lazy" src="icons/emptyTrash.svg"></p> | `import 'package:koukicons/emptyTrash.dart';`<br>`KoukiconsEmptyTrash(), `|
+| endCall | <p align="center"><img width="50" loading="lazy" src="icons/endCall.svg"></p> | `import 'package:koukicons/endCall.dart';`<br>`KoukiconsEndCall(), `|
+| engineering | <p align="center"><img width="50" loading="lazy" src="icons/engineering.svg"></p> | `import 'package:koukicons/engineering.dart';`<br>`KoukiconsEngineering(), `|
+| enter | <p align="center"><img width="50" loading="lazy" src="icons/enter.svg"></p> | `import 'package:koukicons/enter.dart';`<br>`KoukiconsEnter(), `|
+| enteringHeavenAlive | <p align="center"><img width="50" loading="lazy" src="icons/enteringHeavenAlive.svg"></p> | `import 'package:koukicons/enteringHeavenAlive.dart';`<br>`KoukiconsEnteringHeavenAlive(), `|
+| equal | <p align="center"><img width="50" loading="lazy" src="icons/equal.svg"></p> | `import 'package:koukicons/equal.dart';`<br>`KoukiconsEqual(), `|
+| equal2 | <p align="center"><img width="50" loading="lazy" src="icons/equal2.svg"></p> | `import 'package:koukicons/equal2.dart';`<br>`KoukiconsEqual2(), `|
+| equal3 | <p align="center"><img width="50" loading="lazy" src="icons/equal3.svg"></p> | `import 'package:koukicons/equal3.dart';`<br>`KoukiconsEqual3(), `|
+| error | <p align="center"><img width="50" loading="lazy" src="icons/error.svg"></p> | `import 'package:koukicons/error.dart';`<br>`KoukiconsError(), `|
+| eventDate | <p align="center"><img width="50" loading="lazy" src="icons/eventDate.svg"></p> | `import 'package:koukicons/eventDate.dart';`<br>`KoukiconsEventDate(), `|
+| eventDate2 | <p align="center"><img width="50" loading="lazy" src="icons/eventDate2.svg"></p> | `import 'package:koukicons/eventDate2.dart';`<br>`KoukiconsEventDate2(), `|
+| exitArrow | <p align="center"><img width="50" loading="lazy" src="icons/exitArrow.svg"></p> | `import 'package:koukicons/exitArrow.dart';`<br>`KoukiconsExitArrow(), `|
+| exitDoor | <p align="center"><img width="50" loading="lazy" src="icons/exitDoor.svg"></p> | `import 'package:koukicons/exitDoor.dart';`<br>`KoukiconsExitDoor(), `|
+| exitDoor2 | <p align="center"><img width="50" loading="lazy" src="icons/exitDoor2.svg"></p> | `import 'package:koukicons/exitDoor2.dart';`<br>`KoukiconsExitDoor2(), `|
+| exitWin | <p align="center"><img width="50" loading="lazy" src="icons/exitWin.svg"></p> | `import 'package:koukicons/exitWin.dart';`<br>`KoukiconsExitWin(), `|
+| expand | <p align="center"><img width="50" loading="lazy" src="icons/expand.svg"></p> | `import 'package:koukicons/expand.dart';`<br>`KoukiconsExpand(), `|
+| expired | <p align="center"><img width="50" loading="lazy" src="icons/expired.svg"></p> | `import 'package:koukicons/expired.dart';`<br>`KoukiconsExpired(), `|
+| export | <p align="center"><img width="50" loading="lazy" src="icons/export.svg"></p> | `import 'package:koukicons/export.dart';`<br>`KoukiconsExport(), `|
+| external | <p align="center"><img width="50" loading="lazy" src="icons/external.svg"></p> | `import 'package:koukicons/external.dart';`<br>`KoukiconsExternal(), `|
+| factory | <p align="center"><img width="50" loading="lazy" src="icons/factory.svg"></p> | `import 'package:koukicons/factory.dart';`<br>`KoukiconsFactory(), `|
+| factoryBreakdown | <p align="center"><img width="50" loading="lazy" src="icons/factoryBreakdown.svg"></p> | `import 'package:koukicons/factoryBreakdown.dart';`<br>`KoukiconsFactoryBreakdown(), `|
+| faq | <p align="center"><img width="50" loading="lazy" src="icons/faq.svg"></p> | `import 'package:koukicons/faq.dart';`<br>`KoukiconsFaq(), `|
+| fastBack | <p align="center"><img width="50" loading="lazy" src="icons/fastBack.svg"></p> | `import 'package:koukicons/fastBack.dart';`<br>`KoukiconsFastBack(), `|
+| fastBack2 | <p align="center"><img width="50" loading="lazy" src="icons/fastBack2.svg"></p> | `import 'package:koukicons/fastBack2.dart';`<br>`KoukiconsFastBack2(), `|
+| fastForward | <p align="center"><img width="50" loading="lazy" src="icons/fastForward.svg"></p> | `import 'package:koukicons/fastForward.dart';`<br>`KoukiconsFastForward(), `|
+| fastForward2 | <p align="center"><img width="50" loading="lazy" src="icons/fastForward2.svg"></p> | `import 'package:koukicons/fastForward2.dart';`<br>`KoukiconsFastForward2(), `|
+| favourite | <p align="center"><img width="50" loading="lazy" src="icons/favourite.svg"></p> | `import 'package:koukicons/favourite.dart';`<br>`KoukiconsFavourite(), `|
+| favourite2 | <p align="center"><img width="50" loading="lazy" src="icons/favourite2.svg"></p> | `import 'package:koukicons/favourite2.dart';`<br>`KoukiconsFavourite2(), `|
+| fax | <p align="center"><img width="50" loading="lazy" src="icons/fax.svg"></p> | `import 'package:koukicons/fax.dart';`<br>`KoukiconsFax(), `|
+| feedback | <p align="center"><img width="50" loading="lazy" src="icons/feedback.svg"></p> | `import 'package:koukicons/feedback.dart';`<br>`KoukiconsFeedback(), `|
+| feedIn | <p align="center"><img width="50" loading="lazy" src="icons/feedIn.svg"></p> | `import 'package:koukicons/feedIn.dart';`<br>`KoukiconsFeedIn(), `|
+| file | <p align="center"><img width="50" loading="lazy" src="icons/file.svg"></p> | `import 'package:koukicons/file.dart';`<br>`KoukiconsFile(), `|
+| files | <p align="center"><img width="50" loading="lazy" src="icons/files.svg"></p> | `import 'package:koukicons/files.dart';`<br>`KoukiconsFiles(), `|
+| files2 | <p align="center"><img width="50" loading="lazy" src="icons/files2.svg"></p> | `import 'package:koukicons/files2.dart';`<br>`KoukiconsFiles2(), `|
+| filingCabinet | <p align="center"><img width="50" loading="lazy" src="icons/filingCabinet.svg"></p> | `import 'package:koukicons/filingCabinet.dart';`<br>`KoukiconsFilingCabinet(), `|
+| filledFilter | <p align="center"><img width="50" loading="lazy" src="icons/filledFilter.svg"></p> | `import 'package:koukicons/filledFilter.dart';`<br>`KoukiconsFilledFilter(), `|
+| film | <p align="center"><img width="50" loading="lazy" src="icons/film.svg"></p> | `import 'package:koukicons/film.dart';`<br>`KoukiconsFilm(), `|
+| filmReel | <p align="center"><img width="50" loading="lazy" src="icons/filmReel.svg"></p> | `import 'package:koukicons/filmReel.dart';`<br>`KoukiconsFilmReel(), `|
+| finePrint | <p align="center"><img width="50" loading="lazy" src="icons/finePrint.svg"></p> | `import 'package:koukicons/finePrint.dart';`<br>`KoukiconsFinePrint(), `|
+| fingerprint | <p align="center"><img width="50" loading="lazy" src="icons/fingerprint.svg"></p> | `import 'package:koukicons/fingerprint.dart';`<br>`KoukiconsFingerprint(), `|
+| flag1 | <p align="center"><img width="50" loading="lazy" src="icons/flag1.svg"></p> | `import 'package:koukicons/flag1.dart';`<br>`KoukiconsFlag1(), `|
+| flag2 | <p align="center"><img width="50" loading="lazy" src="icons/flag2.svg"></p> | `import 'package:koukicons/flag2.dart';`<br>`KoukiconsFlag2(), `|
+| flag3 | <p align="center"><img width="50" loading="lazy" src="icons/flag3.svg"></p> | `import 'package:koukicons/flag3.dart';`<br>`KoukiconsFlag3(), `|
+| flag4 | <p align="center"><img width="50" loading="lazy" src="icons/flag4.svg"></p> | `import 'package:koukicons/flag4.dart';`<br>`KoukiconsFlag4(), `|
+| flag5 | <p align="center"><img width="50" loading="lazy" src="icons/flag5.svg"></p> | `import 'package:koukicons/flag5.dart';`<br>`KoukiconsFlag5(), `|
+| flashAuto | <p align="center"><img width="50" loading="lazy" src="icons/flashAuto.svg"></p> | `import 'package:koukicons/flashAuto.dart';`<br>`KoukiconsFlashAuto(), `|
+| flashOff | <p align="center"><img width="50" loading="lazy" src="icons/flashOff.svg"></p> | `import 'package:koukicons/flashOff.dart';`<br>`KoukiconsFlashOff(), `|
+| flashOn | <p align="center"><img width="50" loading="lazy" src="icons/flashOn.svg"></p> | `import 'package:koukicons/flashOn.dart';`<br>`KoukiconsFlashOn(), `|
+| flipboard | <p align="center"><img width="50" loading="lazy" src="icons/flipboard.svg"></p> | `import 'package:koukicons/flipboard.dart';`<br>`KoukiconsFlipboard(), `|
+| flipboard2 | <p align="center"><img width="50" loading="lazy" src="icons/flipboard2.svg"></p> | `import 'package:koukicons/flipboard2.dart';`<br>`KoukiconsFlipboard2(), `|
+| flowChart | <p align="center"><img width="50" loading="lazy" src="icons/flowChart.svg"></p> | `import 'package:koukicons/flowChart.dart';`<br>`KoukiconsFlowChart(), `|
+| focus | <p align="center"><img width="50" loading="lazy" src="icons/focus.svg"></p> | `import 'package:koukicons/focus.dart';`<br>`KoukiconsFocus(), `|
+| folder | <p align="center"><img width="50" loading="lazy" src="icons/folder.svg"></p> | `import 'package:koukicons/folder.dart';`<br>`KoukiconsFolder(), `|
+| folder2 | <p align="center"><img width="50" loading="lazy" src="icons/folder2.svg"></p> | `import 'package:koukicons/folder2.dart';`<br>`KoukiconsFolder2(), `|
+| folder3 | <p align="center"><img width="50" loading="lazy" src="icons/folder3.svg"></p> | `import 'package:koukicons/folder3.dart';`<br>`KoukiconsFolder3(), `|
+| folder4 | <p align="center"><img width="50" loading="lazy" src="icons/folder4.svg"></p> | `import 'package:koukicons/folder4.dart';`<br>`KoukiconsFolder4(), `|
+| folder5 | <p align="center"><img width="50" loading="lazy" src="icons/folder5.svg"></p> | `import 'package:koukicons/folder5.dart';`<br>`KoukiconsFolder5(), `|
+| folder6 | <p align="center"><img width="50" loading="lazy" src="icons/folder6.svg"></p> | `import 'package:koukicons/folder6.dart';`<br>`KoukiconsFolder6(), `|
+| folder7 | <p align="center"><img width="50" loading="lazy" src="icons/folder7.svg"></p> | `import 'package:koukicons/folder7.dart';`<br>`KoukiconsFolder7(), `|
+| folderX | <p align="center"><img width="50" loading="lazy" src="icons/folderX.svg"></p> | `import 'package:koukicons/folderX.dart';`<br>`KoukiconsFolderX(), `|
+| forbidden | <p align="center"><img width="50" loading="lazy" src="icons/forbidden.svg"></p> | `import 'package:koukicons/forbidden.dart';`<br>`KoukiconsForbidden(), `|
+| forward | <p align="center"><img width="50" loading="lazy" src="icons/forward.svg"></p> | `import 'package:koukicons/forward.dart';`<br>`KoukiconsForward(), `|
+| forward2 | <p align="center"><img width="50" loading="lazy" src="icons/forward2.svg"></p> | `import 'package:koukicons/forward2.dart';`<br>`KoukiconsForward2(), `|
+| frame | <p align="center"><img width="50" loading="lazy" src="icons/frame.svg"></p> | `import 'package:koukicons/frame.dart';`<br>`KoukiconsFrame(), `|
+| framePic | <p align="center"><img width="50" loading="lazy" src="icons/framePic.svg"></p> | `import 'package:koukicons/framePic.dart';`<br>`KoukiconsFramePic(), `|
+| fullBattery | <p align="center"><img width="50" loading="lazy" src="icons/fullBattery.svg"></p> | `import 'package:koukicons/fullBattery.dart';`<br>`KoukiconsFullBattery(), `|
+| fullBattery2 | <p align="center"><img width="50" loading="lazy" src="icons/fullBattery2.svg"></p> | `import 'package:koukicons/fullBattery2.dart';`<br>`KoukiconsFullBattery2(), `|
+| fullBattery3 | <p align="center"><img width="50" loading="lazy" src="icons/fullBattery3.svg"></p> | `import 'package:koukicons/fullBattery3.dart';`<br>`KoukiconsFullBattery3(), `|
+| fullTrash | <p align="center"><img width="50" loading="lazy" src="icons/fullTrash.svg"></p> | `import 'package:koukicons/fullTrash.dart';`<br>`KoukiconsFullTrash(), `|
+| funnel | <p align="center"><img width="50" loading="lazy" src="icons/funnel.svg"></p> | `import 'package:koukicons/funnel.dart';`<br>`KoukiconsFunnel(), `|
+| gallery | <p align="center"><img width="50" loading="lazy" src="icons/gallery.svg"></p> | `import 'package:koukicons/gallery.dart';`<br>`KoukiconsGallery(), `|
+| galleryX | <p align="center"><img width="50" loading="lazy" src="icons/galleryX.svg"></p> | `import 'package:koukicons/galleryX.dart';`<br>`KoukiconsGalleryX(), `|
+| genealogy | <p align="center"><img width="50" loading="lazy" src="icons/genealogy.svg"></p> | `import 'package:koukicons/genealogy.dart';`<br>`KoukiconsGenealogy(), `|
+| genericSortingAsc | <p align="center"><img width="50" loading="lazy" src="icons/genericSortingAsc.svg"></p> | `import 'package:koukicons/genericSortingAsc.dart';`<br>`KoukiconsGenericSortingAsc(), `|
+| genericSortingDesc | <p align="center"><img width="50" loading="lazy" src="icons/genericSortingDesc.svg"></p> | `import 'package:koukicons/genericSortingDesc.dart';`<br>`KoukiconsGenericSortingDesc(), `|
+| gift | <p align="center"><img width="50" loading="lazy" src="icons/gift.svg"></p> | `import 'package:koukicons/gift.dart';`<br>`KoukiconsGift(), `|
+| glasses | <p align="center"><img width="50" loading="lazy" src="icons/glasses.svg"></p> | `import 'package:koukicons/glasses.dart';`<br>`KoukiconsGlasses(), `|
+| globe | <p align="center"><img width="50" loading="lazy" src="icons/globe.svg"></p> | `import 'package:koukicons/globe.dart';`<br>`KoukiconsGlobe(), `|
+| goodDecision | <p align="center"><img width="50" loading="lazy" src="icons/goodDecision.svg"></p> | `import 'package:koukicons/goodDecision.dart';`<br>`KoukiconsGoodDecision(), `|
+| graduationCap | <p align="center"><img width="50" loading="lazy" src="icons/graduationCap.svg"></p> | `import 'package:koukicons/graduationCap.dart';`<br>`KoukiconsGraduationCap(), `|
+| grid | <p align="center"><img width="50" loading="lazy" src="icons/grid.svg"></p> | `import 'package:koukicons/grid.dart';`<br>`KoukiconsGrid(), `|
+| halfBattery | <p align="center"><img width="50" loading="lazy" src="icons/halfBattery.svg"></p> | `import 'package:koukicons/halfBattery.dart';`<br>`KoukiconsHalfBattery(), `|
+| halfBattery2 | <p align="center"><img width="50" loading="lazy" src="icons/halfBattery2.svg"></p> | `import 'package:koukicons/halfBattery2.dart';`<br>`KoukiconsHalfBattery2(), `|
+| hambMenu | <p align="center"><img width="50" loading="lazy" src="icons/hambMenu.svg"></p> | `import 'package:koukicons/hambMenu.dart';`<br>`KoukiconsHambMenu(), `|
+| hambMenu2 | <p align="center"><img width="50" loading="lazy" src="icons/hambMenu2.svg"></p> | `import 'package:koukicons/hambMenu2.dart';`<br>`KoukiconsHambMenu2(), `|
+| headset | <p align="center"><img width="50" loading="lazy" src="icons/headset.svg"></p> | `import 'package:koukicons/headset.dart';`<br>`KoukiconsHeadset(), `|
+| heatMap | <p align="center"><img width="50" loading="lazy" src="icons/heatMap.svg"></p> | `import 'package:koukicons/heatMap.dart';`<br>`KoukiconsHeatMap(), `|
+| help | <p align="center"><img width="50" loading="lazy" src="icons/help.svg"></p> | `import 'package:koukicons/help.dart';`<br>`KoukiconsHelp(), `|
+| help2 | <p align="center"><img width="50" loading="lazy" src="icons/help2.svg"></p> | `import 'package:koukicons/help2.dart';`<br>`KoukiconsHelp2(), `|
+| hide | <p align="center"><img width="50" loading="lazy" src="icons/hide.svg"></p> | `import 'package:koukicons/hide.dart';`<br>`KoukiconsHide(), `|
+| highBattery | <p align="center"><img width="50" loading="lazy" src="icons/highBattery.svg"></p> | `import 'package:koukicons/highBattery.dart';`<br>`KoukiconsHighBattery(), `|
+| highPriority | <p align="center"><img width="50" loading="lazy" src="icons/highPriority.svg"></p> | `import 'package:koukicons/highPriority.dart';`<br>`KoukiconsHighPriority(), `|
+| highVol | <p align="center"><img width="50" loading="lazy" src="icons/highVol.svg"></p> | `import 'package:koukicons/highVol.dart';`<br>`KoukiconsHighVol(), `|
+| highVol2 | <p align="center"><img width="50" loading="lazy" src="icons/highVol2.svg"></p> | `import 'package:koukicons/highVol2.dart';`<br>`KoukiconsHighVol2(), `|
+| home | <p align="center"><img width="50" loading="lazy" src="icons/home.svg"></p> | `import 'package:koukicons/home.dart';`<br>`KoukiconsHome(), `|
+| home1 | <p align="center"><img width="50" loading="lazy" src="icons/home1.svg"></p> | `import 'package:koukicons/home1.dart';`<br>`KoukiconsHome1(), `|
+| home2 | <p align="center"><img width="50" loading="lazy" src="icons/home2.svg"></p> | `import 'package:koukicons/home2.dart';`<br>`KoukiconsHome2(), `|
+| home3 | <p align="center"><img width="50" loading="lazy" src="icons/home3.svg"></p> | `import 'package:koukicons/home3.dart';`<br>`KoukiconsHome3(), `|
+| home4 | <p align="center"><img width="50" loading="lazy" src="icons/home4.svg"></p> | `import 'package:koukicons/home4.dart';`<br>`KoukiconsHome4(), `|
+| icons8Cup | <p align="center"><img width="50" loading="lazy" src="icons/icons8Cup.svg"></p> | `import 'package:koukicons/icons8Cup.dart';`<br>`KoukiconsIcons8Cup(), `|
+| id | <p align="center"><img width="50" loading="lazy" src="icons/id.svg"></p> | `import 'package:koukicons/id.dart';`<br>`KoukiconsId(), `|
+| idea | <p align="center"><img width="50" loading="lazy" src="icons/idea.svg"></p> | `import 'package:koukicons/idea.dart';`<br>`KoukiconsIdea(), `|
+| ideaX | <p align="center"><img width="50" loading="lazy" src="icons/ideaX.svg"></p> | `import 'package:koukicons/ideaX.dart';`<br>`KoukiconsIdeaX(), `|
+| imageFile | <p align="center"><img width="50" loading="lazy" src="icons/imageFile.svg"></p> | `import 'package:koukicons/imageFile.dart';`<br>`KoukiconsImageFile(), `|
+| import | <p align="center"><img width="50" loading="lazy" src="icons/import.svg"></p> | `import 'package:koukicons/import.dart';`<br>`KoukiconsImport(), `|
+| importantArchive | <p align="center"><img width="50" loading="lazy" src="icons/importantArchive.svg"></p> | `import 'package:koukicons/importantArchive.dart';`<br>`KoukiconsImportantArchive(), `|
+| infinity | <p align="center"><img width="50" loading="lazy" src="icons/infinity.svg"></p> | `import 'package:koukicons/infinity.dart';`<br>`KoukiconsInfinity(), `|
+| info | <p align="center"><img width="50" loading="lazy" src="icons/info.svg"></p> | `import 'package:koukicons/info.dart';`<br>`KoukiconsInfo(), `|
+| inspection | <p align="center"><img width="50" loading="lazy" src="icons/inspection.svg"></p> | `import 'package:koukicons/inspection.dart';`<br>`KoukiconsInspection(), `|
+| integratedWebcam | <p align="center"><img width="50" loading="lazy" src="icons/integratedWebcam.svg"></p> | `import 'package:koukicons/integratedWebcam.dart';`<br>`KoukiconsIntegratedWebcam(), `|
+| internal | <p align="center"><img width="50" loading="lazy" src="icons/internal.svg"></p> | `import 'package:koukicons/internal.dart';`<br>`KoukiconsInternal(), `|
+| internet | <p align="center"><img width="50" loading="lazy" src="icons/internet.svg"></p> | `import 'package:koukicons/internet.dart';`<br>`KoukiconsInternet(), `|
+| inTransit | <p align="center"><img width="50" loading="lazy" src="icons/inTransit.svg"></p> | `import 'package:koukicons/inTransit.dart';`<br>`KoukiconsInTransit(), `|
+| invite | <p align="center"><img width="50" loading="lazy" src="icons/invite.svg"></p> | `import 'package:koukicons/invite.dart';`<br>`KoukiconsInvite(), `|
+| ipad | <p align="center"><img width="50" loading="lazy" src="icons/ipad.svg"></p> | `import 'package:koukicons/ipad.dart';`<br>`KoukiconsIpad(), `|
+| iphone | <p align="center"><img width="50" loading="lazy" src="icons/iphone.svg"></p> | `import 'package:koukicons/iphone.dart';`<br>`KoukiconsIphone(), `|
+| key1 | <p align="center"><img width="50" loading="lazy" src="icons/key1.svg"></p> | `import 'package:koukicons/key1.dart';`<br>`KoukiconsKey1(), `|
+| key2 | <p align="center"><img width="50" loading="lazy" src="icons/key2.svg"></p> | `import 'package:koukicons/key2.dart';`<br>`KoukiconsKey2(), `|
+| kindle | <p align="center"><img width="50" loading="lazy" src="icons/kindle.svg"></p> | `import 'package:koukicons/kindle.dart';`<br>`KoukiconsKindle(), `|
+| knob | <p align="center"><img width="50" loading="lazy" src="icons/knob.svg"></p> | `import 'package:koukicons/knob.dart';`<br>`KoukiconsKnob(), `|
+| knob2 | <p align="center"><img width="50" loading="lazy" src="icons/knob2.svg"></p> | `import 'package:koukicons/knob2.dart';`<br>`KoukiconsKnob2(), `|
+| lamp | <p align="center"><img width="50" loading="lazy" src="icons/lamp.svg"></p> | `import 'package:koukicons/lamp.dart';`<br>`KoukiconsLamp(), `|
+| lan | <p align="center"><img width="50" loading="lazy" src="icons/lan.svg"></p> | `import 'package:koukicons/lan.dart';`<br>`KoukiconsLan(), `|
+| landscape | <p align="center"><img width="50" loading="lazy" src="icons/landscape.svg"></p> | `import 'package:koukicons/landscape.dart';`<br>`KoukiconsLandscape(), `|
+| layers | <p align="center"><img width="50" loading="lazy" src="icons/layers.svg"></p> | `import 'package:koukicons/layers.dart';`<br>`KoukiconsLayers(), `|
+| layers2 | <p align="center"><img width="50" loading="lazy" src="icons/layers2.svg"></p> | `import 'package:koukicons/layers2.dart';`<br>`KoukiconsLayers2(), `|
+| leakingBattery | <p align="center"><img width="50" loading="lazy" src="icons/leakingBattery.svg"></p> | `import 'package:koukicons/leakingBattery.dart';`<br>`KoukiconsLeakingBattery(), `|
+| leave | <p align="center"><img width="50" loading="lazy" src="icons/leave.svg"></p> | `import 'package:koukicons/leave.dart';`<br>`KoukiconsLeave(), `|
+| left | <p align="center"><img width="50" loading="lazy" src="icons/left.svg"></p> | `import 'package:koukicons/left.dart';`<br>`KoukiconsLeft(), `|
+| leftDown | <p align="center"><img width="50" loading="lazy" src="icons/leftDown.svg"></p> | `import 'package:koukicons/leftDown.dart';`<br>`KoukiconsLeftDown(), `|
+| leftDown2 | <p align="center"><img width="50" loading="lazy" src="icons/leftDown2.svg"></p> | `import 'package:koukicons/leftDown2.dart';`<br>`KoukiconsLeftDown2(), `|
+| leftUp | <p align="center"><img width="50" loading="lazy" src="icons/leftUp.svg"></p> | `import 'package:koukicons/leftUp.dart';`<br>`KoukiconsLeftUp(), `|
+| leftUp2 | <p align="center"><img width="50" loading="lazy" src="icons/leftUp2.svg"></p> | `import 'package:koukicons/leftUp2.dart';`<br>`KoukiconsLeftUp2(), `|
+| library | <p align="center"><img width="50" loading="lazy" src="icons/library.svg"></p> | `import 'package:koukicons/library.dart';`<br>`KoukiconsLibrary(), `|
+| lightAtTheEndOfTunnel | <p align="center"><img width="50" loading="lazy" src="icons/lightAtTheEndOfTunnel.svg"></p> | `import 'package:koukicons/lightAtTheEndOfTunnel.dart';`<br>`KoukiconsLightAtTheEndOfTunnel(), `|
+| like | <p align="center"><img width="50" loading="lazy" src="icons/like.svg"></p> | `import 'package:koukicons/like.dart';`<br>`KoukiconsLike(), `|
+| like2 | <p align="center"><img width="50" loading="lazy" src="icons/like2.svg"></p> | `import 'package:koukicons/like2.dart';`<br>`KoukiconsLike2(), `|
+| likePlaceholder | <p align="center"><img width="50" loading="lazy" src="icons/likePlaceholder.svg"></p> | `import 'package:koukicons/likePlaceholder.dart';`<br>`KoukiconsLikePlaceholder(), `|
+| likeX | <p align="center"><img width="50" loading="lazy" src="icons/likeX.svg"></p> | `import 'package:koukicons/likeX.dart';`<br>`KoukiconsLikeX(), `|
+| lineChart | <p align="center"><img width="50" loading="lazy" src="icons/lineChart.svg"></p> | `import 'package:koukicons/lineChart.dart';`<br>`KoukiconsLineChart(), `|
+| link | <p align="center"><img width="50" loading="lazy" src="icons/link.svg"></p> | `import 'package:koukicons/link.dart';`<br>`KoukiconsLink(), `|
+| linkGreen | <p align="center"><img width="50" loading="lazy" src="icons/linkGreen.svg"></p> | `import 'package:koukicons/linkGreen.dart';`<br>`KoukiconsLinkGreen(), `|
+| list | <p align="center"><img width="50" loading="lazy" src="icons/list.svg"></p> | `import 'package:koukicons/list.dart';`<br>`KoukiconsList(), `|
+| liveNews | <p align="center"><img width="50" loading="lazy" src="icons/liveNews.svg"></p> | `import 'package:koukicons/liveNews.dart';`<br>`KoukiconsLiveNews(), `|
+| location | <p align="center"><img width="50" loading="lazy" src="icons/location.svg"></p> | `import 'package:koukicons/location.dart';`<br>`KoukiconsLocation(), `|
+| location2 | <p align="center"><img width="50" loading="lazy" src="icons/location2.svg"></p> | `import 'package:koukicons/location2.dart';`<br>`KoukiconsLocation2(), `|
+| location3 | <p align="center"><img width="50" loading="lazy" src="icons/location3.svg"></p> | `import 'package:koukicons/location3.dart';`<br>`KoukiconsLocation3(), `|
+| locationArea | <p align="center"><img width="50" loading="lazy" src="icons/locationArea.svg"></p> | `import 'package:koukicons/locationArea.dart';`<br>`KoukiconsLocationArea(), `|
+| locationPin | <p align="center"><img width="50" loading="lazy" src="icons/locationPin.svg"></p> | `import 'package:koukicons/locationPin.dart';`<br>`KoukiconsLocationPin(), `|
+| lock | <p align="center"><img width="50" loading="lazy" src="icons/lock.svg"></p> | `import 'package:koukicons/lock.dart';`<br>`KoukiconsLock(), `|
+| lock2 | <p align="center"><img width="50" loading="lazy" src="icons/lock2.svg"></p> | `import 'package:koukicons/lock2.dart';`<br>`KoukiconsLock2(), `|
+| lock3 | <p align="center"><img width="50" loading="lazy" src="icons/lock3.svg"></p> | `import 'package:koukicons/lock3.dart';`<br>`KoukiconsLock3(), `|
+| lock4 | <p align="center"><img width="50" loading="lazy" src="icons/lock4.svg"></p> | `import 'package:koukicons/lock4.dart';`<br>`KoukiconsLock4(), `|
+| locked | <p align="center"><img width="50" loading="lazy" src="icons/locked.svg"></p> | `import 'package:koukicons/locked.dart';`<br>`KoukiconsLocked(), `|
+| lockFolder | <p align="center"><img width="50" loading="lazy" src="icons/lockFolder.svg"></p> | `import 'package:koukicons/lockFolder.dart';`<br>`KoukiconsLockFolder(), `|
+| lockLandscape | <p align="center"><img width="50" loading="lazy" src="icons/lockLandscape.svg"></p> | `import 'package:koukicons/lockLandscape.dart';`<br>`KoukiconsLockLandscape(), `|
+| lockOri | <p align="center"><img width="50" loading="lazy" src="icons/lockOri.svg"></p> | `import 'package:koukicons/lockOri.dart';`<br>`KoukiconsLockOri(), `|
+| lockPortrait | <p align="center"><img width="50" loading="lazy" src="icons/lockPortrait.svg"></p> | `import 'package:koukicons/lockPortrait.dart';`<br>`KoukiconsLockPortrait(), `|
+| lockX | <p align="center"><img width="50" loading="lazy" src="icons/lockX.svg"></p> | `import 'package:koukicons/lockX.dart';`<br>`KoukiconsLockX(), `|
+| lowBattery | <p align="center"><img width="50" loading="lazy" src="icons/lowBattery.svg"></p> | `import 'package:koukicons/lowBattery.dart';`<br>`KoukiconsLowBattery(), `|
+| lowBattery2 | <p align="center"><img width="50" loading="lazy" src="icons/lowBattery2.svg"></p> | `import 'package:koukicons/lowBattery2.dart';`<br>`KoukiconsLowBattery2(), `|
+| lowBattery3 | <p align="center"><img width="50" loading="lazy" src="icons/lowBattery3.svg"></p> | `import 'package:koukicons/lowBattery3.dart';`<br>`KoukiconsLowBattery3(), `|
+| lowPriority | <p align="center"><img width="50" loading="lazy" src="icons/lowPriority.svg"></p> | `import 'package:koukicons/lowPriority.dart';`<br>`KoukiconsLowPriority(), `|
+| lowVol | <p align="center"><img width="50" loading="lazy" src="icons/lowVol.svg"></p> | `import 'package:koukicons/lowVol.dart';`<br>`KoukiconsLowVol(), `|
+| lowVol2 | <p align="center"><img width="50" loading="lazy" src="icons/lowVol2.svg"></p> | `import 'package:koukicons/lowVol2.dart';`<br>`KoukiconsLowVol2(), `|
+| magic | <p align="center"><img width="50" loading="lazy" src="icons/magic.svg"></p> | `import 'package:koukicons/magic.dart';`<br>`KoukiconsMagic(), `|
+| magnet1 | <p align="center"><img width="50" loading="lazy" src="icons/magnet1.svg"></p> | `import 'package:koukicons/magnet1.dart';`<br>`KoukiconsMagnet1(), `|
+| magnet2 | <p align="center"><img width="50" loading="lazy" src="icons/magnet2.svg"></p> | `import 'package:koukicons/magnet2.dart';`<br>`KoukiconsMagnet2(), `|
+| magnet3 | <p align="center"><img width="50" loading="lazy" src="icons/magnet3.svg"></p> | `import 'package:koukicons/magnet3.dart';`<br>`KoukiconsMagnet3(), `|
+| makeDecision | <p align="center"><img width="50" loading="lazy" src="icons/makeDecision.svg"></p> | `import 'package:koukicons/makeDecision.dart';`<br>`KoukiconsMakeDecision(), `|
+| manager | <p align="center"><img width="50" loading="lazy" src="icons/manager.svg"></p> | `import 'package:koukicons/manager.dart';`<br>`KoukiconsManager(), `|
+| map | <p align="center"><img width="50" loading="lazy" src="icons/map.svg"></p> | `import 'package:koukicons/map.dart';`<br>`KoukiconsMap(), `|
+| map2 | <p align="center"><img width="50" loading="lazy" src="icons/map2.svg"></p> | `import 'package:koukicons/map2.dart';`<br>`KoukiconsMap2(), `|
+| mapLocation | <p align="center"><img width="50" loading="lazy" src="icons/mapLocation.svg"></p> | `import 'package:koukicons/mapLocation.dart';`<br>`KoukiconsMapLocation(), `|
+| mediumPriority | <p align="center"><img width="50" loading="lazy" src="icons/mediumPriority.svg"></p> | `import 'package:koukicons/mediumPriority.dart';`<br>`KoukiconsMediumPriority(), `|
+| medVol | <p align="center"><img width="50" loading="lazy" src="icons/medVol.svg"></p> | `import 'package:koukicons/medVol.dart';`<br>`KoukiconsMedVol(), `|
+| medVol2 | <p align="center"><img width="50" loading="lazy" src="icons/medVol2.svg"></p> | `import 'package:koukicons/medVol2.dart';`<br>`KoukiconsMedVol2(), `|
+| menu | <p align="center"><img width="50" loading="lazy" src="icons/menu.svg"></p> | `import 'package:koukicons/menu.dart';`<br>`KoukiconsMenu(), `|
+| menu2 | <p align="center"><img width="50" loading="lazy" src="icons/menu2.svg"></p> | `import 'package:koukicons/menu2.dart';`<br>`KoukiconsMenu2(), `|
+| menuX | <p align="center"><img width="50" loading="lazy" src="icons/menuX.svg"></p> | `import 'package:koukicons/menuX.dart';`<br>`KoukiconsMenuX(), `|
+| middleBattery | <p align="center"><img width="50" loading="lazy" src="icons/middleBattery.svg"></p> | `import 'package:koukicons/middleBattery.dart';`<br>`KoukiconsMiddleBattery(), `|
+| mindMap | <p align="center"><img width="50" loading="lazy" src="icons/mindMap.svg"></p> | `import 'package:koukicons/mindMap.dart';`<br>`KoukiconsMindMap(), `|
+| minus | <p align="center"><img width="50" loading="lazy" src="icons/minus.svg"></p> | `import 'package:koukicons/minus.dart';`<br>`KoukiconsMinus(), `|
+| missedCall | <p align="center"><img width="50" loading="lazy" src="icons/missedCall.svg"></p> | `import 'package:koukicons/missedCall.dart';`<br>`KoukiconsMissedCall(), `|
+| mms | <p align="center"><img width="50" loading="lazy" src="icons/mms.svg"></p> | `import 'package:koukicons/mms.dart';`<br>`KoukiconsMms(), `|
+| moneyTransfer | <p align="center"><img width="50" loading="lazy" src="icons/moneyTransfer.svg"></p> | `import 'package:koukicons/moneyTransfer.dart';`<br>`KoukiconsMoneyTransfer(), `|
+| more | <p align="center"><img width="50" loading="lazy" src="icons/more.svg"></p> | `import 'package:koukicons/more.dart';`<br>`KoukiconsMore(), `|
+| more2 | <p align="center"><img width="50" loading="lazy" src="icons/more2.svg"></p> | `import 'package:koukicons/more2.dart';`<br>`KoukiconsMore2(), `|
+| more3 | <p align="center"><img width="50" loading="lazy" src="icons/more3.svg"></p> | `import 'package:koukicons/more3.dart';`<br>`KoukiconsMore3(), `|
+| movie | <p align="center"><img width="50" loading="lazy" src="icons/movie.svg"></p> | `import 'package:koukicons/movie.dart';`<br>`KoukiconsMovie(), `|
+| movie2 | <p align="center"><img width="50" loading="lazy" src="icons/movie2.svg"></p> | `import 'package:koukicons/movie2.dart';`<br>`KoukiconsMovie2(), `|
+| movieCam | <p align="center"><img width="50" loading="lazy" src="icons/movieCam.svg"></p> | `import 'package:koukicons/movieCam.dart';`<br>`KoukiconsMovieCam(), `|
+| multipleCameras | <p align="center"><img width="50" loading="lazy" src="icons/multipleCameras.svg"></p> | `import 'package:koukicons/multipleCameras.dart';`<br>`KoukiconsMultipleCameras(), `|
+| multipleDevices | <p align="center"><img width="50" loading="lazy" src="icons/multipleDevices.svg"></p> | `import 'package:koukicons/multipleDevices.dart';`<br>`KoukiconsMultipleDevices(), `|
+| multipleInputs | <p align="center"><img width="50" loading="lazy" src="icons/multipleInputs.svg"></p> | `import 'package:koukicons/multipleInputs.dart';`<br>`KoukiconsMultipleInputs(), `|
+| multipleSmartphones | <p align="center"><img width="50" loading="lazy" src="icons/multipleSmartphones.svg"></p> | `import 'package:koukicons/multipleSmartphones.dart';`<br>`KoukiconsMultipleSmartphones(), `|
+| multiply | <p align="center"><img width="50" loading="lazy" src="icons/multiply.svg"></p> | `import 'package:koukicons/multiply.dart';`<br>`KoukiconsMultiply(), `|
+| multiply3 | <p align="center"><img width="50" loading="lazy" src="icons/multiply3.svg"></p> | `import 'package:koukicons/multiply3.dart';`<br>`KoukiconsMultiply3(), `|
+| music | <p align="center"><img width="50" loading="lazy" src="icons/music.svg"></p> | `import 'package:koukicons/music.dart';`<br>`KoukiconsMusic(), `|
+| musical | <p align="center"><img width="50" loading="lazy" src="icons/musical.svg"></p> | `import 'package:koukicons/musical.dart';`<br>`KoukiconsMusical(), `|
+| musicX | <p align="center"><img width="50" loading="lazy" src="icons/musicX.svg"></p> | `import 'package:koukicons/musicX.dart';`<br>`KoukiconsMusicX(), `|
+| mute | <p align="center"><img width="50" loading="lazy" src="icons/mute.svg"></p> | `import 'package:koukicons/mute.dart';`<br>`KoukiconsMute(), `|
+| mute2 | <p align="center"><img width="50" loading="lazy" src="icons/mute2.svg"></p> | `import 'package:koukicons/mute2.dart';`<br>`KoukiconsMute2(), `|
+| mute3 | <p align="center"><img width="50" loading="lazy" src="icons/mute3.svg"></p> | `import 'package:koukicons/mute3.dart';`<br>`KoukiconsMute3(), `|
+| navigation | <p align="center"><img width="50" loading="lazy" src="icons/navigation.svg"></p> | `import 'package:koukicons/navigation.dart';`<br>`KoukiconsNavigation(), `|
+| navigator | <p align="center"><img width="50" loading="lazy" src="icons/navigator.svg"></p> | `import 'package:koukicons/navigator.dart';`<br>`KoukiconsNavigator(), `|
+| negativeDynamic | <p align="center"><img width="50" loading="lazy" src="icons/negativeDynamic.svg"></p> | `import 'package:koukicons/negativeDynamic.dart';`<br>`KoukiconsNegativeDynamic(), `|
+| network | <p align="center"><img width="50" loading="lazy" src="icons/network.svg"></p> | `import 'package:koukicons/network.dart';`<br>`KoukiconsNetwork(), `|
+| network2 | <p align="center"><img width="50" loading="lazy" src="icons/network2.svg"></p> | `import 'package:koukicons/network2.dart';`<br>`KoukiconsNetwork2(), `|
+| neutralDecision | <p align="center"><img width="50" loading="lazy" src="icons/neutralDecision.svg"></p> | `import 'package:koukicons/neutralDecision.dart';`<br>`KoukiconsNeutralDecision(), `|
+| neutralTrading | <p align="center"><img width="50" loading="lazy" src="icons/neutralTrading.svg"></p> | `import 'package:koukicons/neutralTrading.dart';`<br>`KoukiconsNeutralTrading(), `|
+| news | <p align="center"><img width="50" loading="lazy" src="icons/news.svg"></p> | `import 'package:koukicons/news.dart';`<br>`KoukiconsNews(), `|
+| newspaper | <p align="center"><img width="50" loading="lazy" src="icons/newspaper.svg"></p> | `import 'package:koukicons/newspaper.dart';`<br>`KoukiconsNewspaper(), `|
+| next | <p align="center"><img width="50" loading="lazy" src="icons/next.svg"></p> | `import 'package:koukicons/next.dart';`<br>`KoukiconsNext(), `|
+| nightLandscape | <p align="center"><img width="50" loading="lazy" src="icons/nightLandscape.svg"></p> | `import 'package:koukicons/nightLandscape.dart';`<br>`KoukiconsNightLandscape(), `|
+| nightPortrait | <p align="center"><img width="50" loading="lazy" src="icons/nightPortrait.svg"></p> | `import 'package:koukicons/nightPortrait.dart';`<br>`KoukiconsNightPortrait(), `|
+| noIdea | <p align="center"><img width="50" loading="lazy" src="icons/noIdea.svg"></p> | `import 'package:koukicons/noIdea.dart';`<br>`KoukiconsNoIdea(), `|
+| nook | <p align="center"><img width="50" loading="lazy" src="icons/nook.svg"></p> | `import 'package:koukicons/nook.dart';`<br>`KoukiconsNook(), `|
+| note | <p align="center"><img width="50" loading="lazy" src="icons/note.svg"></p> | `import 'package:koukicons/note.dart';`<br>`KoukiconsNote(), `|
+| notebook | <p align="center"><img width="50" loading="lazy" src="icons/notebook.svg"></p> | `import 'package:koukicons/notebook.dart';`<br>`KoukiconsNotebook(), `|
+| notebook1 | <p align="center"><img width="50" loading="lazy" src="icons/notebook1.svg"></p> | `import 'package:koukicons/notebook1.dart';`<br>`KoukiconsNotebook1(), `|
+| notebook2 | <p align="center"><img width="50" loading="lazy" src="icons/notebook2.svg"></p> | `import 'package:koukicons/notebook2.dart';`<br>`KoukiconsNotebook2(), `|
+| notebook3 | <p align="center"><img width="50" loading="lazy" src="icons/notebook3.svg"></p> | `import 'package:koukicons/notebook3.dart';`<br>`KoukiconsNotebook3(), `|
+| notif | <p align="center"><img width="50" loading="lazy" src="icons/notif.svg"></p> | `import 'package:koukicons/notif.dart';`<br>`KoukiconsNotif(), `|
+| noVideo | <p align="center"><img width="50" loading="lazy" src="icons/noVideo.svg"></p> | `import 'package:koukicons/noVideo.dart';`<br>`KoukiconsNoVideo(), `|
+| numericalSorting12 | <p align="center"><img width="50" loading="lazy" src="icons/numericalSorting12.svg"></p> | `import 'package:koukicons/numericalSorting12.dart';`<br>`KoukiconsNumericalSorting12(), `|
+| numericalSorting21 | <p align="center"><img width="50" loading="lazy" src="icons/numericalSorting21.svg"></p> | `import 'package:koukicons/numericalSorting21.dart';`<br>`KoukiconsNumericalSorting21(), `|
+| off | <p align="center"><img width="50" loading="lazy" src="icons/off.svg"></p> | `import 'package:koukicons/off.dart';`<br>`KoukiconsOff(), `|
+| offTrig | <p align="center"><img width="50" loading="lazy" src="icons/offTrig.svg"></p> | `import 'package:koukicons/offTrig.dart';`<br>`KoukiconsOffTrig(), `|
+| offTrig2 | <p align="center"><img width="50" loading="lazy" src="icons/offTrig2.svg"></p> | `import 'package:koukicons/offTrig2.dart';`<br>`KoukiconsOffTrig2(), `|
+| ok | <p align="center"><img width="50" loading="lazy" src="icons/ok.svg"></p> | `import 'package:koukicons/ok.dart';`<br>`KoukiconsOk(), `|
+| oldTimeCamera | <p align="center"><img width="50" loading="lazy" src="icons/oldTimeCamera.svg"></p> | `import 'package:koukicons/oldTimeCamera.dart';`<br>`KoukiconsOldTimeCamera(), `|
+| on | <p align="center"><img width="50" loading="lazy" src="icons/on.svg"></p> | `import 'package:koukicons/on.dart';`<br>`KoukiconsOn(), `|
+| onlineSupport | <p align="center"><img width="50" loading="lazy" src="icons/onlineSupport.svg"></p> | `import 'package:koukicons/onlineSupport.dart';`<br>`KoukiconsOnlineSupport(), `|
+| onOff | <p align="center"><img width="50" loading="lazy" src="icons/onOff.svg"></p> | `import 'package:koukicons/onOff.dart';`<br>`KoukiconsOnOff(), `|
+| onOffSwitch | <p align="center"><img width="50" loading="lazy" src="icons/onOffSwitch.svg"></p> | `import 'package:koukicons/onOffSwitch.dart';`<br>`KoukiconsOnOffSwitch(), `|
+| onTrig | <p align="center"><img width="50" loading="lazy" src="icons/onTrig.svg"></p> | `import 'package:koukicons/onTrig.dart';`<br>`KoukiconsOnTrig(), `|
+| onTrig2 | <p align="center"><img width="50" loading="lazy" src="icons/onTrig2.svg"></p> | `import 'package:koukicons/onTrig2.dart';`<br>`KoukiconsOnTrig2(), `|
+| openedFolder | <p align="center"><img width="50" loading="lazy" src="icons/openedFolder.svg"></p> | `import 'package:koukicons/openedFolder.dart';`<br>`KoukiconsOpenedFolder(), `|
+| openFolder | <p align="center"><img width="50" loading="lazy" src="icons/openFolder.svg"></p> | `import 'package:koukicons/openFolder.dart';`<br>`KoukiconsOpenFolder(), `|
+| openFolder2 | <p align="center"><img width="50" loading="lazy" src="icons/openFolder2.svg"></p> | `import 'package:koukicons/openFolder2.dart';`<br>`KoukiconsOpenFolder2(), `|
+| organization | <p align="center"><img width="50" loading="lazy" src="icons/organization.svg"></p> | `import 'package:koukicons/organization.dart';`<br>`KoukiconsOrganization(), `|
+| orgUnit | <p align="center"><img width="50" loading="lazy" src="icons/orgUnit.svg"></p> | `import 'package:koukicons/orgUnit.dart';`<br>`KoukiconsOrgUnit(), `|
+| overtime | <p align="center"><img width="50" loading="lazy" src="icons/overtime.svg"></p> | `import 'package:koukicons/overtime.dart';`<br>`KoukiconsOvertime(), `|
+| package | <p align="center"><img width="50" loading="lazy" src="icons/package.svg"></p> | `import 'package:koukicons/package.dart';`<br>`KoukiconsPackage(), `|
+| paid | <p align="center"><img width="50" loading="lazy" src="icons/paid.svg"></p> | `import 'package:koukicons/paid.dart';`<br>`KoukiconsPaid(), `|
+| panorama | <p align="center"><img width="50" loading="lazy" src="icons/panorama.svg"></p> | `import 'package:koukicons/panorama.dart';`<br>`KoukiconsPanorama(), `|
+| parallelTasks | <p align="center"><img width="50" loading="lazy" src="icons/parallelTasks.svg"></p> | `import 'package:koukicons/parallelTasks.dart';`<br>`KoukiconsParallelTasks(), `|
+| pause | <p align="center"><img width="50" loading="lazy" src="icons/pause.svg"></p> | `import 'package:koukicons/pause.dart';`<br>`KoukiconsPause(), `|
+| pause2 | <p align="center"><img width="50" loading="lazy" src="icons/pause2.svg"></p> | `import 'package:koukicons/pause2.dart';`<br>`KoukiconsPause2(), `|
+| percent | <p align="center"><img width="50" loading="lazy" src="icons/percent.svg"></p> | `import 'package:koukicons/percent.dart';`<br>`KoukiconsPercent(), `|
+| percent2 | <p align="center"><img width="50" loading="lazy" src="icons/percent2.svg"></p> | `import 'package:koukicons/percent2.dart';`<br>`KoukiconsPercent2(), `|
+| perspective | <p align="center"><img width="50" loading="lazy" src="icons/perspective.svg"></p> | `import 'package:koukicons/perspective.dart';`<br>`KoukiconsPerspective(), `|
+| phone | <p align="center"><img width="50" loading="lazy" src="icons/phone.svg"></p> | `import 'package:koukicons/phone.dart';`<br>`KoukiconsPhone(), `|
+| phoneAndroid | <p align="center"><img width="50" loading="lazy" src="icons/phoneAndroid.svg"></p> | `import 'package:koukicons/phoneAndroid.dart';`<br>`KoukiconsPhoneAndroid(), `|
+| phoneApps | <p align="center"><img width="50" loading="lazy" src="icons/phoneApps.svg"></p> | `import 'package:koukicons/phoneApps.dart';`<br>`KoukiconsPhoneApps(), `|
+| phoneChat | <p align="center"><img width="50" loading="lazy" src="icons/phoneChat.svg"></p> | `import 'package:koukicons/phoneChat.dart';`<br>`KoukiconsPhoneChat(), `|
+| phoneDown | <p align="center"><img width="50" loading="lazy" src="icons/phoneDown.svg"></p> | `import 'package:koukicons/phoneDown.dart';`<br>`KoukiconsPhoneDown(), `|
+| phoneMessage | <p align="center"><img width="50" loading="lazy" src="icons/phoneMessage.svg"></p> | `import 'package:koukicons/phoneMessage.dart';`<br>`KoukiconsPhoneMessage(), `|
+| phoneProfile | <p align="center"><img width="50" loading="lazy" src="icons/phoneProfile.svg"></p> | `import 'package:koukicons/phoneProfile.dart';`<br>`KoukiconsPhoneProfile(), `|
+| phoneUp | <p align="center"><img width="50" loading="lazy" src="icons/phoneUp.svg"></p> | `import 'package:koukicons/phoneUp.dart';`<br>`KoukiconsPhoneUp(), `|
+| phoneVibrate | <p align="center"><img width="50" loading="lazy" src="icons/phoneVibrate.svg"></p> | `import 'package:koukicons/phoneVibrate.dart';`<br>`KoukiconsPhoneVibrate(), `|
+| photoReel | <p align="center"><img width="50" loading="lazy" src="icons/photoReel.svg"></p> | `import 'package:koukicons/photoReel.dart';`<br>`KoukiconsPhotoReel(), `|
+| pic | <p align="center"><img width="50" loading="lazy" src="icons/pic.svg"></p> | `import 'package:koukicons/pic.dart';`<br>`KoukiconsPic(), `|
+| pic2 | <p align="center"><img width="50" loading="lazy" src="icons/pic2.svg"></p> | `import 'package:koukicons/pic2.dart';`<br>`KoukiconsPic2(), `|
+| picture | <p align="center"><img width="50" loading="lazy" src="icons/picture.svg"></p> | `import 'package:koukicons/picture.dart';`<br>`KoukiconsPicture(), `|
+| pieChart | <p align="center"><img width="50" loading="lazy" src="icons/pieChart.svg"></p> | `import 'package:koukicons/pieChart.dart';`<br>`KoukiconsPieChart(), `|
+| pin | <p align="center"><img width="50" loading="lazy" src="icons/pin.svg"></p> | `import 'package:koukicons/pin.dart';`<br>`KoukiconsPin(), `|
+| planner | <p align="center"><img width="50" loading="lazy" src="icons/planner.svg"></p> | `import 'package:koukicons/planner.dart';`<br>`KoukiconsPlanner(), `|
+| play | <p align="center"><img width="50" loading="lazy" src="icons/play.svg"></p> | `import 'package:koukicons/play.dart';`<br>`KoukiconsPlay(), `|
+| play2 | <p align="center"><img width="50" loading="lazy" src="icons/play2.svg"></p> | `import 'package:koukicons/play2.dart';`<br>`KoukiconsPlay2(), `|
+| plus | <p align="center"><img width="50" loading="lazy" src="icons/plus.svg"></p> | `import 'package:koukicons/plus.dart';`<br>`KoukiconsPlus(), `|
+| podiumWithAudience | <p align="center"><img width="50" loading="lazy" src="icons/podiumWithAudience.svg"></p> | `import 'package:koukicons/podiumWithAudience.dart';`<br>`KoukiconsPodiumWithAudience(), `|
+| podiumWithoutSpeaker | <p align="center"><img width="50" loading="lazy" src="icons/podiumWithoutSpeaker.svg"></p> | `import 'package:koukicons/podiumWithoutSpeaker.dart';`<br>`KoukiconsPodiumWithoutSpeaker(), `|
+| podiumWithSpeaker | <p align="center"><img width="50" loading="lazy" src="icons/podiumWithSpeaker.svg"></p> | `import 'package:koukicons/podiumWithSpeaker.dart';`<br>`KoukiconsPodiumWithSpeaker(), `|
+| portraitMode | <p align="center"><img width="50" loading="lazy" src="icons/portraitMode.svg"></p> | `import 'package:koukicons/portraitMode.dart';`<br>`KoukiconsPortraitMode(), `|
+| positiveDynamic | <p align="center"><img width="50" loading="lazy" src="icons/positiveDynamic.svg"></p> | `import 'package:koukicons/positiveDynamic.dart';`<br>`KoukiconsPositiveDynamic(), `|
+| previous | <p align="center"><img width="50" loading="lazy" src="icons/previous.svg"></p> | `import 'package:koukicons/previous.dart';`<br>`KoukiconsPrevious(), `|
+| priceTag | <p align="center"><img width="50" loading="lazy" src="icons/priceTag.svg"></p> | `import 'package:koukicons/priceTag.dart';`<br>`KoukiconsPriceTag(), `|
+| print | <p align="center"><img width="50" loading="lazy" src="icons/print.svg"></p> | `import 'package:koukicons/print.dart';`<br>`KoukiconsPrint(), `|
+| printer | <p align="center"><img width="50" loading="lazy" src="icons/printer.svg"></p> | `import 'package:koukicons/printer.dart';`<br>`KoukiconsPrinter(), `|
+| privacy | <p align="center"><img width="50" loading="lazy" src="icons/privacy.svg"></p> | `import 'package:koukicons/privacy.dart';`<br>`KoukiconsPrivacy(), `|
+| privacyX | <p align="center"><img width="50" loading="lazy" src="icons/privacyX.svg"></p> | `import 'package:koukicons/privacyX.dart';`<br>`KoukiconsPrivacyX(), `|
+| process | <p align="center"><img width="50" loading="lazy" src="icons/process.svg"></p> | `import 'package:koukicons/process.dart';`<br>`KoukiconsProcess(), `|
+| profile | <p align="center"><img width="50" loading="lazy" src="icons/profile.svg"></p> | `import 'package:koukicons/profile.dart';`<br>`KoukiconsProfile(), `|
+| profile2 | <p align="center"><img width="50" loading="lazy" src="icons/profile2.svg"></p> | `import 'package:koukicons/profile2.dart';`<br>`KoukiconsProfile2(), `|
+| profile3 | <p align="center"><img width="50" loading="lazy" src="icons/profile3.svg"></p> | `import 'package:koukicons/profile3.dart';`<br>`KoukiconsProfile3(), `|
+| profile4 | <p align="center"><img width="50" loading="lazy" src="icons/profile4.svg"></p> | `import 'package:koukicons/profile4.dart';`<br>`KoukiconsProfile4(), `|
+| profilex | <p align="center"><img width="50" loading="lazy" src="icons/profilex.svg"></p> | `import 'package:koukicons/profilex.dart';`<br>`KoukiconsProfilex(), `|
+| profiley | <p align="center"><img width="50" loading="lazy" src="icons/profiley.svg"></p> | `import 'package:koukicons/profiley.dart';`<br>`KoukiconsProfiley(), `|
+| promote | <p align="center"><img width="50" loading="lazy" src="icons/promote.svg"></p> | `import 'package:koukicons/promote.dart';`<br>`KoukiconsPromote(), `|
+| promote2 | <p align="center"><img width="50" loading="lazy" src="icons/promote2.svg"></p> | `import 'package:koukicons/promote2.dart';`<br>`KoukiconsPromote2(), `|
+| puzzle | <p align="center"><img width="50" loading="lazy" src="icons/puzzle.svg"></p> | `import 'package:koukicons/puzzle.dart';`<br>`KoukiconsPuzzle(), `|
+| questions | <p align="center"><img width="50" loading="lazy" src="icons/questions.svg"></p> | `import 'package:koukicons/questions.dart';`<br>`KoukiconsQuestions(), `|
+| radar | <p align="center"><img width="50" loading="lazy" src="icons/radar.svg"></p> | `import 'package:koukicons/radar.dart';`<br>`KoukiconsRadar(), `|
+| radarPlot | <p align="center"><img width="50" loading="lazy" src="icons/radarPlot.svg"></p> | `import 'package:koukicons/radarPlot.dart';`<br>`KoukiconsRadarPlot(), `|
+| rating | <p align="center"><img width="50" loading="lazy" src="icons/rating.svg"></p> | `import 'package:koukicons/rating.dart';`<br>`KoukiconsRating(), `|
+| ratings | <p align="center"><img width="50" loading="lazy" src="icons/ratings.svg"></p> | `import 'package:koukicons/ratings.dart';`<br>`KoukiconsRatings(), `|
+| reading | <p align="center"><img width="50" loading="lazy" src="icons/reading.svg"></p> | `import 'package:koukicons/reading.dart';`<br>`KoukiconsReading(), `|
+| readingEbook | <p align="center"><img width="50" loading="lazy" src="icons/readingEbook.svg"></p> | `import 'package:koukicons/readingEbook.dart';`<br>`KoukiconsReadingEbook(), `|
+| readX | <p align="center"><img width="50" loading="lazy" src="icons/readX.svg"></p> | `import 'package:koukicons/readX.dart';`<br>`KoukiconsReadX(), `|
+| receive | <p align="center"><img width="50" loading="lazy" src="icons/receive.svg"></p> | `import 'package:koukicons/receive.dart';`<br>`KoukiconsReceive(), `|
+| record | <p align="center"><img width="50" loading="lazy" src="icons/record.svg"></p> | `import 'package:koukicons/record.dart';`<br>`KoukiconsRecord(), `|
+| redo | <p align="center"><img width="50" loading="lazy" src="icons/redo.svg"></p> | `import 'package:koukicons/redo.dart';`<br>`KoukiconsRedo(), `|
+| refresh | <p align="center"><img width="50" loading="lazy" src="icons/refresh.svg"></p> | `import 'package:koukicons/refresh.dart';`<br>`KoukiconsRefresh(), `|
+| registeredTrademark | <p align="center"><img width="50" loading="lazy" src="icons/registeredTrademark.svg"></p> | `import 'package:koukicons/registeredTrademark.dart';`<br>`KoukiconsRegisteredTrademark(), `|
+| removeImage | <p align="center"><img width="50" loading="lazy" src="icons/removeImage.svg"></p> | `import 'package:koukicons/removeImage.dart';`<br>`KoukiconsRemoveImage(), `|
+| repeat | <p align="center"><img width="50" loading="lazy" src="icons/repeat.svg"></p> | `import 'package:koukicons/repeat.dart';`<br>`KoukiconsRepeat(), `|
+| repeat2 | <p align="center"><img width="50" loading="lazy" src="icons/repeat2.svg"></p> | `import 'package:koukicons/repeat2.dart';`<br>`KoukiconsRepeat2(), `|
+| report | <p align="center"><img width="50" loading="lazy" src="icons/report.svg"></p> | `import 'package:koukicons/report.dart';`<br>`KoukiconsReport(), `|
+| restart | <p align="center"><img width="50" loading="lazy" src="icons/restart.svg"></p> | `import 'package:koukicons/restart.dart';`<br>`KoukiconsRestart(), `|
+| resumee | <p align="center"><img width="50" loading="lazy" src="icons/resumee.svg"></p> | `import 'package:koukicons/resumee.dart';`<br>`KoukiconsResumee(), `|
+| reuse | <p align="center"><img width="50" loading="lazy" src="icons/reuse.svg"></p> | `import 'package:koukicons/reuse.dart';`<br>`KoukiconsReuse(), `|
+| right | <p align="center"><img width="50" loading="lazy" src="icons/right.svg"></p> | `import 'package:koukicons/right.dart';`<br>`KoukiconsRight(), `|
+| rightDown | <p align="center"><img width="50" loading="lazy" src="icons/rightDown.svg"></p> | `import 'package:koukicons/rightDown.dart';`<br>`KoukiconsRightDown(), `|
+| rightDown2 | <p align="center"><img width="50" loading="lazy" src="icons/rightDown2.svg"></p> | `import 'package:koukicons/rightDown2.dart';`<br>`KoukiconsRightDown2(), `|
+| rightUp | <p align="center"><img width="50" loading="lazy" src="icons/rightUp.svg"></p> | `import 'package:koukicons/rightUp.dart';`<br>`KoukiconsRightUp(), `|
+| rightUp2 | <p align="center"><img width="50" loading="lazy" src="icons/rightUp2.svg"></p> | `import 'package:koukicons/rightUp2.dart';`<br>`KoukiconsRightUp2(), `|
+| ringing | <p align="center"><img width="50" loading="lazy" src="icons/ringing.svg"></p> | `import 'package:koukicons/ringing.dart';`<br>`KoukiconsRinging(), `|
+| ringing2 | <p align="center"><img width="50" loading="lazy" src="icons/ringing2.svg"></p> | `import 'package:koukicons/ringing2.dart';`<br>`KoukiconsRinging2(), `|
+| roadmap | <p align="center"><img width="50" loading="lazy" src="icons/roadmap.svg"></p> | `import 'package:koukicons/roadmap.dart';`<br>`KoukiconsRoadmap(), `|
+| rotateCamera | <p align="center"><img width="50" loading="lazy" src="icons/rotateCamera.svg"></p> | `import 'package:koukicons/rotateCamera.dart';`<br>`KoukiconsRotateCamera(), `|
+| rotateLand | <p align="center"><img width="50" loading="lazy" src="icons/rotateLand.svg"></p> | `import 'package:koukicons/rotateLand.dart';`<br>`KoukiconsRotateLand(), `|
+| rotatePort | <p align="center"><img width="50" loading="lazy" src="icons/rotatePort.svg"></p> | `import 'package:koukicons/rotatePort.dart';`<br>`KoukiconsRotatePort(), `|
+| rotateToLandscape | <p align="center"><img width="50" loading="lazy" src="icons/rotateToLandscape.svg"></p> | `import 'package:koukicons/rotateToLandscape.dart';`<br>`KoukiconsRotateToLandscape(), `|
+| rotateToPortrait | <p align="center"><img width="50" loading="lazy" src="icons/rotateToPortrait.svg"></p> | `import 'package:koukicons/rotateToPortrait.dart';`<br>`KoukiconsRotateToPortrait(), `|
+| ruler | <p align="center"><img width="50" loading="lazy" src="icons/ruler.svg"></p> | `import 'package:koukicons/ruler.dart';`<br>`KoukiconsRuler(), `|
+| rules | <p align="center"><img width="50" loading="lazy" src="icons/rules.svg"></p> | `import 'package:koukicons/rules.dart';`<br>`KoukiconsRules(), `|
+| safe | <p align="center"><img width="50" loading="lazy" src="icons/safe.svg"></p> | `import 'package:koukicons/safe.dart';`<br>`KoukiconsSafe(), `|
+| safety | <p align="center"><img width="50" loading="lazy" src="icons/safety.svg"></p> | `import 'package:koukicons/safety.dart';`<br>`KoukiconsSafety(), `|
+| salesPerformance | <p align="center"><img width="50" loading="lazy" src="icons/salesPerformance.svg"></p> | `import 'package:koukicons/salesPerformance.dart';`<br>`KoukiconsSalesPerformance(), `|
+| save | <p align="center"><img width="50" loading="lazy" src="icons/save.svg"></p> | `import 'package:koukicons/save.dart';`<br>`KoukiconsSave(), `|
+| scatterPlot | <p align="center"><img width="50" loading="lazy" src="icons/scatterPlot.svg"></p> | `import 'package:koukicons/scatterPlot.dart';`<br>`KoukiconsScatterPlot(), `|
+| search | <p align="center"><img width="50" loading="lazy" src="icons/search.svg"></p> | `import 'package:koukicons/search.dart';`<br>`KoukiconsSearch(), `|
+| search1 | <p align="center"><img width="50" loading="lazy" src="icons/search1.svg"></p> | `import 'package:koukicons/search1.dart';`<br>`KoukiconsSearch1(), `|
+| search2 | <p align="center"><img width="50" loading="lazy" src="icons/search2.svg"></p> | `import 'package:koukicons/search2.dart';`<br>`KoukiconsSearch2(), `|
+| searchFile | <p align="center"><img width="50" loading="lazy" src="icons/searchFile.svg"></p> | `import 'package:koukicons/searchFile.dart';`<br>`KoukiconsSearchFile(), `|
+| searchPhone | <p align="center"><img width="50" loading="lazy" src="icons/searchPhone.svg"></p> | `import 'package:koukicons/searchPhone.dart';`<br>`KoukiconsSearchPhone(), `|
+| searchX | <p align="center"><img width="50" loading="lazy" src="icons/searchX.svg"></p> | `import 'package:koukicons/searchX.dart';`<br>`KoukiconsSearchX(), `|
+| selectTab | <p align="center"><img width="50" loading="lazy" src="icons/selectTab.svg"></p> | `import 'package:koukicons/selectTab.dart';`<br>`KoukiconsSelectTab(), `|
+| selectWin | <p align="center"><img width="50" loading="lazy" src="icons/selectWin.svg"></p> | `import 'package:koukicons/selectWin.dart';`<br>`KoukiconsSelectWin(), `|
+| selectWin2 | <p align="center"><img width="50" loading="lazy" src="icons/selectWin2.svg"></p> | `import 'package:koukicons/selectWin2.dart';`<br>`KoukiconsSelectWin2(), `|
+| selfie | <p align="center"><img width="50" loading="lazy" src="icons/selfie.svg"></p> | `import 'package:koukicons/selfie.dart';`<br>`KoukiconsSelfie(), `|
+| selfServiceKiosk | <p align="center"><img width="50" loading="lazy" src="icons/selfServiceKiosk.svg"></p> | `import 'package:koukicons/selfServiceKiosk.dart';`<br>`KoukiconsSelfServiceKiosk(), `|
+| send | <p align="center"><img width="50" loading="lazy" src="icons/send.svg"></p> | `import 'package:koukicons/send.dart';`<br>`KoukiconsSend(), `|
+| send2 | <p align="center"><img width="50" loading="lazy" src="icons/send2.svg"></p> | `import 'package:koukicons/send2.dart';`<br>`KoukiconsSend2(), `|
+| send3 | <p align="center"><img width="50" loading="lazy" src="icons/send3.svg"></p> | `import 'package:koukicons/send3.dart';`<br>`KoukiconsSend3(), `|
+| serialTasks | <p align="center"><img width="50" loading="lazy" src="icons/serialTasks.svg"></p> | `import 'package:koukicons/serialTasks.dart';`<br>`KoukiconsSerialTasks(), `|
+| serviceMark | <p align="center"><img width="50" loading="lazy" src="icons/serviceMark.svg"></p> | `import 'package:koukicons/serviceMark.dart';`<br>`KoukiconsServiceMark(), `|
+| services | <p align="center"><img width="50" loading="lazy" src="icons/services.svg"></p> | `import 'package:koukicons/services.dart';`<br>`KoukiconsServices(), `|
+| settings | <p align="center"><img width="50" loading="lazy" src="icons/settings.svg"></p> | `import 'package:koukicons/settings.dart';`<br>`KoukiconsSettings(), `|
+| settings1 | <p align="center"><img width="50" loading="lazy" src="icons/settings1.svg"></p> | `import 'package:koukicons/settings1.dart';`<br>`KoukiconsSettings1(), `|
+| settings10 | <p align="center"><img width="50" loading="lazy" src="icons/settings10.svg"></p> | `import 'package:koukicons/settings10.dart';`<br>`KoukiconsSettings10(), `|
+| settings2 | <p align="center"><img width="50" loading="lazy" src="icons/settings2.svg"></p> | `import 'package:koukicons/settings2.dart';`<br>`KoukiconsSettings2(), `|
+| settings3 | <p align="center"><img width="50" loading="lazy" src="icons/settings3.svg"></p> | `import 'package:koukicons/settings3.dart';`<br>`KoukiconsSettings3(), `|
+| settings4 | <p align="center"><img width="50" loading="lazy" src="icons/settings4.svg"></p> | `import 'package:koukicons/settings4.dart';`<br>`KoukiconsSettings4(), `|
+| settings5 | <p align="center"><img width="50" loading="lazy" src="icons/settings5.svg"></p> | `import 'package:koukicons/settings5.dart';`<br>`KoukiconsSettings5(), `|
+| settings6 | <p align="center"><img width="50" loading="lazy" src="icons/settings6.svg"></p> | `import 'package:koukicons/settings6.dart';`<br>`KoukiconsSettings6(), `|
+| settings7 | <p align="center"><img width="50" loading="lazy" src="icons/settings7.svg"></p> | `import 'package:koukicons/settings7.dart';`<br>`KoukiconsSettings7(), `|
+| settings8 | <p align="center"><img width="50" loading="lazy" src="icons/settings8.svg"></p> | `import 'package:koukicons/settings8.dart';`<br>`KoukiconsSettings8(), `|
+| settings9 | <p align="center"><img width="50" loading="lazy" src="icons/settings9.svg"></p> | `import 'package:koukicons/settings9.dart';`<br>`KoukiconsSettings9(), `|
+| share | <p align="center"><img width="50" loading="lazy" src="icons/share.svg"></p> | `import 'package:koukicons/share.dart';`<br>`KoukiconsShare(), `|
+| share1 | <p align="center"><img width="50" loading="lazy" src="icons/share1.svg"></p> | `import 'package:koukicons/share1.dart';`<br>`KoukiconsShare1(), `|
+| share2 | <p align="center"><img width="50" loading="lazy" src="icons/share2.svg"></p> | `import 'package:koukicons/share2.dart';`<br>`KoukiconsShare2(), `|
+| share3 | <p align="center"><img width="50" loading="lazy" src="icons/share3.svg"></p> | `import 'package:koukicons/share3.dart';`<br>`KoukiconsShare3(), `|
+| shipped | <p align="center"><img width="50" loading="lazy" src="icons/shipped.svg"></p> | `import 'package:koukicons/shipped.dart';`<br>`KoukiconsShipped(), `|
+| shop | <p align="center"><img width="50" loading="lazy" src="icons/shop.svg"></p> | `import 'package:koukicons/shop.dart';`<br>`KoukiconsShop(), `|
+| shuffle | <p align="center"><img width="50" loading="lazy" src="icons/shuffle.svg"></p> | `import 'package:koukicons/shuffle.dart';`<br>`KoukiconsShuffle(), `|
+| shuffle2 | <p align="center"><img width="50" loading="lazy" src="icons/shuffle2.svg"></p> | `import 'package:koukicons/shuffle2.dart';`<br>`KoukiconsShuffle2(), `|
+| shutdown | <p align="center"><img width="50" loading="lazy" src="icons/shutdown.svg"></p> | `import 'package:koukicons/shutdown.dart';`<br>`KoukiconsShutdown(), `|
+| sign | <p align="center"><img width="50" loading="lazy" src="icons/sign.svg"></p> | `import 'package:koukicons/sign.dart';`<br>`KoukiconsSign(), `|
+| signature | <p align="center"><img width="50" loading="lazy" src="icons/signature.svg"></p> | `import 'package:koukicons/signature.dart';`<br>`KoukiconsSignature(), `|
+| signpost | <p align="center"><img width="50" loading="lazy" src="icons/signpost.svg"></p> | `import 'package:koukicons/signpost.dart';`<br>`KoukiconsSignpost(), `|
+| silent | <p align="center"><img width="50" loading="lazy" src="icons/silent.svg"></p> | `import 'package:koukicons/silent.dart';`<br>`KoukiconsSilent(), `|
+| silent2 | <p align="center"><img width="50" loading="lazy" src="icons/silent2.svg"></p> | `import 'package:koukicons/silent2.dart';`<br>`KoukiconsSilent2(), `|
+| simCard | <p align="center"><img width="50" loading="lazy" src="icons/simCard.svg"></p> | `import 'package:koukicons/simCard.dart';`<br>`KoukiconsSimCard(), `|
+| simCardChip | <p align="center"><img width="50" loading="lazy" src="icons/simCardChip.svg"></p> | `import 'package:koukicons/simCardChip.dart';`<br>`KoukiconsSimCardChip(), `|
+| siri | <p align="center"><img width="50" loading="lazy" src="icons/siri.svg"></p> | `import 'package:koukicons/siri.dart';`<br>`KoukiconsSiri(), `|
+| slrBackSide | <p align="center"><img width="50" loading="lazy" src="icons/slrBackSide.svg"></p> | `import 'package:koukicons/slrBackSide.dart';`<br>`KoukiconsSlrBackSide(), `|
+| smartphoneTablet | <p align="center"><img width="50" loading="lazy" src="icons/smartphoneTablet.svg"></p> | `import 'package:koukicons/smartphoneTablet.dart';`<br>`KoukiconsSmartphoneTablet(), `|
+| sms | <p align="center"><img width="50" loading="lazy" src="icons/sms.svg"></p> | `import 'package:koukicons/sms.dart';`<br>`KoukiconsSms(), `|
+| soundRecordingCopyright | <p align="center"><img width="50" loading="lazy" src="icons/soundRecordingCopyright.svg"></p> | `import 'package:koukicons/soundRecordingCopyright.dart';`<br>`KoukiconsSoundRecordingCopyright(), `|
+| speaker | <p align="center"><img width="50" loading="lazy" src="icons/speaker.svg"></p> | `import 'package:koukicons/speaker.dart';`<br>`KoukiconsSpeaker(), `|
+| speed | <p align="center"><img width="50" loading="lazy" src="icons/speed.svg"></p> | `import 'package:koukicons/speed.dart';`<br>`KoukiconsSpeed(), `|
+| sportsMode | <p align="center"><img width="50" loading="lazy" src="icons/sportsMode.svg"></p> | `import 'package:koukicons/sportsMode.dart';`<br>`KoukiconsSportsMode(), `|
+| spotlight | <p align="center"><img width="50" loading="lazy" src="icons/spotlight.svg"></p> | `import 'package:koukicons/spotlight.dart';`<br>`KoukiconsSpotlight(), `|
+| stackOfPhotos | <p align="center"><img width="50" loading="lazy" src="icons/stackOfPhotos.svg"></p> | `import 'package:koukicons/stackOfPhotos.dart';`<br>`KoukiconsStackOfPhotos(), `|
+| star | <p align="center"><img width="50" loading="lazy" src="icons/star.svg"></p> | `import 'package:koukicons/star.dart';`<br>`KoukiconsStar(), `|
+| start | <p align="center"><img width="50" loading="lazy" src="icons/start.svg"></p> | `import 'package:koukicons/start.dart';`<br>`KoukiconsStart(), `|
+| statistics | <p align="center"><img width="50" loading="lazy" src="icons/statistics.svg"></p> | `import 'package:koukicons/statistics.dart';`<br>`KoukiconsStatistics(), `|
+| stop | <p align="center"><img width="50" loading="lazy" src="icons/stop.svg"></p> | `import 'package:koukicons/stop.dart';`<br>`KoukiconsStop(), `|
+| stop2 | <p align="center"><img width="50" loading="lazy" src="icons/stop2.svg"></p> | `import 'package:koukicons/stop2.dart';`<br>`KoukiconsStop2(), `|
+| stopwatch | <p align="center"><img width="50" loading="lazy" src="icons/stopwatch.svg"></p> | `import 'package:koukicons/stopwatch.dart';`<br>`KoukiconsStopwatch(), `|
+| stopwatch2 | <p align="center"><img width="50" loading="lazy" src="icons/stopwatch2.svg"></p> | `import 'package:koukicons/stopwatch2.dart';`<br>`KoukiconsStopwatch2(), `|
+| stopwatch3 | <p align="center"><img width="50" loading="lazy" src="icons/stopwatch3.svg"></p> | `import 'package:koukicons/stopwatch3.dart';`<br>`KoukiconsStopwatch3(), `|
+| streetLocation | <p align="center"><img width="50" loading="lazy" src="icons/streetLocation.svg"></p> | `import 'package:koukicons/streetLocation.dart';`<br>`KoukiconsStreetLocation(), `|
+| streetName | <p align="center"><img width="50" loading="lazy" src="icons/streetName.svg"></p> | `import 'package:koukicons/streetName.dart';`<br>`KoukiconsStreetName(), `|
+| streetOrien | <p align="center"><img width="50" loading="lazy" src="icons/streetOrien.svg"></p> | `import 'package:koukicons/streetOrien.dart';`<br>`KoukiconsStreetOrien(), `|
+| substract | <p align="center"><img width="50" loading="lazy" src="icons/substract.svg"></p> | `import 'package:koukicons/substract.dart';`<br>`KoukiconsSubstract(), `|
+| substract2 | <p align="center"><img width="50" loading="lazy" src="icons/substract2.svg"></p> | `import 'package:koukicons/substract2.dart';`<br>`KoukiconsSubstract2(), `|
+| success | <p align="center"><img width="50" loading="lazy" src="icons/success.svg"></p> | `import 'package:koukicons/success.dart';`<br>`KoukiconsSuccess(), `|
+| success2 | <p align="center"><img width="50" loading="lazy" src="icons/success2.svg"></p> | `import 'package:koukicons/success2.dart';`<br>`KoukiconsSuccess2(), `|
+| success3 | <p align="center"><img width="50" loading="lazy" src="icons/success3.svg"></p> | `import 'package:koukicons/success3.dart';`<br>`KoukiconsSuccess3(), `|
+| support | <p align="center"><img width="50" loading="lazy" src="icons/support.svg"></p> | `import 'package:koukicons/support.dart';`<br>`KoukiconsSupport(), `|
+| survey | <p align="center"><img width="50" loading="lazy" src="icons/survey.svg"></p> | `import 'package:koukicons/survey.dart';`<br>`KoukiconsSurvey(), `|
+| susbstract2 | <p align="center"><img width="50" loading="lazy" src="icons/susbstract2.svg"></p> | `import 'package:koukicons/susbstract2.dart';`<br>`KoukiconsSusbstract2(), `|
+| switchCamera | <p align="center"><img width="50" loading="lazy" src="icons/switchCamera.svg"></p> | `import 'package:koukicons/switchCamera.dart';`<br>`KoukiconsSwitchCamera(), `|
+| switchOff | <p align="center"><img width="50" loading="lazy" src="icons/switchOff.svg"></p> | `import 'package:koukicons/switchOff.dart';`<br>`KoukiconsSwitchOff(), `|
+| synchronize | <p align="center"><img width="50" loading="lazy" src="icons/synchronize.svg"></p> | `import 'package:koukicons/synchronize.dart';`<br>`KoukiconsSynchronize(), `|
+| tabletAndroid | <p align="center"><img width="50" loading="lazy" src="icons/tabletAndroid.svg"></p> | `import 'package:koukicons/tabletAndroid.dart';`<br>`KoukiconsTabletAndroid(), `|
+| tabs | <p align="center"><img width="50" loading="lazy" src="icons/tabs.svg"></p> | `import 'package:koukicons/tabs.dart';`<br>`KoukiconsTabs(), `|
+| takeNote | <p align="center"><img width="50" loading="lazy" src="icons/takeNote.svg"></p> | `import 'package:koukicons/takeNote.dart';`<br>`KoukiconsTakeNote(), `|
+| takeNote2 | <p align="center"><img width="50" loading="lazy" src="icons/takeNote2.svg"></p> | `import 'package:koukicons/takeNote2.dart';`<br>`KoukiconsTakeNote2(), `|
+| target | <p align="center"><img width="50" loading="lazy" src="icons/target.svg"></p> | `import 'package:koukicons/target.dart';`<br>`KoukiconsTarget(), `|
+| techPower | <p align="center"><img width="50" loading="lazy" src="icons/techPower.svg"></p> | `import 'package:koukicons/techPower.dart';`<br>`KoukiconsTechPower(), `|
+| template | <p align="center"><img width="50" loading="lazy" src="icons/template.svg"></p> | `import 'package:koukicons/template.dart';`<br>`KoukiconsTemplate(), `|
+| thumbDown | <p align="center"><img width="50" loading="lazy" src="icons/thumbDown.svg"></p> | `import 'package:koukicons/thumbDown.dart';`<br>`KoukiconsThumbDown(), `|
+| thumbUp | <p align="center"><img width="50" loading="lazy" src="icons/thumbUp.svg"></p> | `import 'package:koukicons/thumbUp.dart';`<br>`KoukiconsThumbUp(), `|
+| time | <p align="center"><img width="50" loading="lazy" src="icons/time.svg"></p> | `import 'package:koukicons/time.dart';`<br>`KoukiconsTime(), `|
+| timeFlies | <p align="center"><img width="50" loading="lazy" src="icons/timeFlies.svg"></p> | `import 'package:koukicons/timeFlies.dart';`<br>`KoukiconsTimeFlies(), `|
+| timeline | <p align="center"><img width="50" loading="lazy" src="icons/timeline.svg"></p> | `import 'package:koukicons/timeline.dart';`<br>`KoukiconsTimeline(), `|
+| timetracking | <p align="center"><img width="50" loading="lazy" src="icons/timetracking.svg"></p> | `import 'package:koukicons/timetracking.dart';`<br>`KoukiconsTimetracking(), `|
+| timetracking2 | <p align="center"><img width="50" loading="lazy" src="icons/timetracking2.svg"></p> | `import 'package:koukicons/timetracking2.dart';`<br>`KoukiconsTimetracking2(), `|
+| timetracking3 | <p align="center"><img width="50" loading="lazy" src="icons/timetracking3.svg"></p> | `import 'package:koukicons/timetracking3.dart';`<br>`KoukiconsTimetracking3(), `|
+| todoList | <p align="center"><img width="50" loading="lazy" src="icons/todoList.svg"></p> | `import 'package:koukicons/todoList.dart';`<br>`KoukiconsTodoList(), `|
+| touchscreenSmartphone | <p align="center"><img width="50" loading="lazy" src="icons/touchscreenSmartphone.svg"></p> | `import 'package:koukicons/touchscreenSmartphone.dart';`<br>`KoukiconsTouchscreenSmartphone(), `|
+| track | <p align="center"><img width="50" loading="lazy" src="icons/track.svg"></p> | `import 'package:koukicons/track.dart';`<br>`KoukiconsTrack(), `|
+| tracked | <p align="center"><img width="50" loading="lazy" src="icons/tracked.svg"></p> | `import 'package:koukicons/tracked.dart';`<br>`KoukiconsTracked(), `|
+| trademark | <p align="center"><img width="50" loading="lazy" src="icons/trademark.svg"></p> | `import 'package:koukicons/trademark.dart';`<br>`KoukiconsTrademark(), `|
+| trash | <p align="center"><img width="50" loading="lazy" src="icons/trash.svg"></p> | `import 'package:koukicons/trash.dart';`<br>`KoukiconsTrash(), `|
+| trash2 | <p align="center"><img width="50" loading="lazy" src="icons/trash2.svg"></p> | `import 'package:koukicons/trash2.dart';`<br>`KoukiconsTrash2(), `|
+| trash3 | <p align="center"><img width="50" loading="lazy" src="icons/trash3.svg"></p> | `import 'package:koukicons/trash3.dart';`<br>`KoukiconsTrash3(), `|
+| trash4 | <p align="center"><img width="50" loading="lazy" src="icons/trash4.svg"></p> | `import 'package:koukicons/trash4.dart';`<br>`KoukiconsTrash4(), `|
+| treeStructure | <p align="center"><img width="50" loading="lazy" src="icons/treeStructure.svg"></p> | `import 'package:koukicons/treeStructure.dart';`<br>`KoukiconsTreeStructure(), `|
+| twoSmartphones | <p align="center"><img width="50" loading="lazy" src="icons/twoSmartphones.svg"></p> | `import 'package:koukicons/twoSmartphones.dart';`<br>`KoukiconsTwoSmartphones(), `|
+| undo | <p align="center"><img width="50" loading="lazy" src="icons/undo.svg"></p> | `import 'package:koukicons/undo.dart';`<br>`KoukiconsUndo(), `|
+| unlink | <p align="center"><img width="50" loading="lazy" src="icons/unlink.svg"></p> | `import 'package:koukicons/unlink.dart';`<br>`KoukiconsUnlink(), `|
+| unlock | <p align="center"><img width="50" loading="lazy" src="icons/unlock.svg"></p> | `import 'package:koukicons/unlock.dart';`<br>`KoukiconsUnlock(), `|
+| unlock2 | <p align="center"><img width="50" loading="lazy" src="icons/unlock2.svg"></p> | `import 'package:koukicons/unlock2.dart';`<br>`KoukiconsUnlock2(), `|
+| unlock3 | <p align="center"><img width="50" loading="lazy" src="icons/unlock3.svg"></p> | `import 'package:koukicons/unlock3.dart';`<br>`KoukiconsUnlock3(), `|
+| unlock4 | <p align="center"><img width="50" loading="lazy" src="icons/unlock4.svg"></p> | `import 'package:koukicons/unlock4.dart';`<br>`KoukiconsUnlock4(), `|
+| unlocked | <p align="center"><img width="50" loading="lazy" src="icons/unlocked.svg"></p> | `import 'package:koukicons/unlocked.dart';`<br>`KoukiconsUnlocked(), `|
+| unlocked2 | <p align="center"><img width="50" loading="lazy" src="icons/unlocked2.svg"></p> | `import 'package:koukicons/unlocked2.dart';`<br>`KoukiconsUnlocked2(), `|
+| unlockFolder | <p align="center"><img width="50" loading="lazy" src="icons/unlockFolder.svg"></p> | `import 'package:koukicons/unlockFolder.dart';`<br>`KoukiconsUnlockFolder(), `|
+| unlockOri | <p align="center"><img width="50" loading="lazy" src="icons/unlockOri.svg"></p> | `import 'package:koukicons/unlockOri.dart';`<br>`KoukiconsUnlockOri(), `|
+| up | <p align="center"><img width="50" loading="lazy" src="icons/up.svg"></p> | `import 'package:koukicons/up.dart';`<br>`KoukiconsUp(), `|
+| upLeft | <p align="center"><img width="50" loading="lazy" src="icons/upLeft.svg"></p> | `import 'package:koukicons/upLeft.dart';`<br>`KoukiconsUpLeft(), `|
+| upload | <p align="center"><img width="50" loading="lazy" src="icons/upload.svg"></p> | `import 'package:koukicons/upload.dart';`<br>`KoukiconsUpload(), `|
+| uploadFolder | <p align="center"><img width="50" loading="lazy" src="icons/uploadFolder.svg"></p> | `import 'package:koukicons/uploadFolder.dart';`<br>`KoukiconsUploadFolder(), `|
+| uploadX | <p align="center"><img width="50" loading="lazy" src="icons/uploadX.svg"></p> | `import 'package:koukicons/uploadX.dart';`<br>`KoukiconsUploadX(), `|
+| upRight | <p align="center"><img width="50" loading="lazy" src="icons/upRight.svg"></p> | `import 'package:koukicons/upRight.dart';`<br>`KoukiconsUpRight(), `|
+| userF | <p align="center"><img width="50" loading="lazy" src="icons/userF.svg"></p> | `import 'package:koukicons/userF.dart';`<br>`KoukiconsUserF(), `|
+| userM | <p align="center"><img width="50" loading="lazy" src="icons/userM.svg"></p> | `import 'package:koukicons/userM.dart';`<br>`KoukiconsUserM(), `|
+| users | <p align="center"><img width="50" loading="lazy" src="icons/users.svg"></p> | `import 'package:koukicons/users.dart';`<br>`KoukiconsUsers(), `|
+| users2 | <p align="center"><img width="50" loading="lazy" src="icons/users2.svg"></p> | `import 'package:koukicons/users2.dart';`<br>`KoukiconsUsers2(), `|
+| vid2 | <p align="center"><img width="50" loading="lazy" src="icons/vid2.svg"></p> | `import 'package:koukicons/vid2.dart';`<br>`KoukiconsVid2(), `|
+| vid3 | <p align="center"><img width="50" loading="lazy" src="icons/vid3.svg"></p> | `import 'package:koukicons/vid3.dart';`<br>`KoukiconsVid3(), `|
+| video | <p align="center"><img width="50" loading="lazy" src="icons/video.svg"></p> | `import 'package:koukicons/video.dart';`<br>`KoukiconsVideo(), `|
+| videoCall | <p align="center"><img width="50" loading="lazy" src="icons/videoCall.svg"></p> | `import 'package:koukicons/videoCall.dart';`<br>`KoukiconsVideoCall(), `|
+| videoFile | <p align="center"><img width="50" loading="lazy" src="icons/videoFile.svg"></p> | `import 'package:koukicons/videoFile.dart';`<br>`KoukiconsVideoFile(), `|
+| videoProjector | <p align="center"><img width="50" loading="lazy" src="icons/videoProjector.svg"></p> | `import 'package:koukicons/videoProjector.dart';`<br>`KoukiconsVideoProjector(), `|
+| view | <p align="center"><img width="50" loading="lazy" src="icons/view.svg"></p> | `import 'package:koukicons/view.dart';`<br>`KoukiconsView(), `|
+| view2 | <p align="center"><img width="50" loading="lazy" src="icons/view2.svg"></p> | `import 'package:koukicons/view2.dart';`<br>`KoukiconsView2(), `|
+| viewDetails | <p align="center"><img width="50" loading="lazy" src="icons/viewDetails.svg"></p> | `import 'package:koukicons/viewDetails.dart';`<br>`KoukiconsViewDetails(), `|
+| views | <p align="center"><img width="50" loading="lazy" src="icons/views.svg"></p> | `import 'package:koukicons/views.dart';`<br>`KoukiconsViews(), `|
+| vip | <p align="center"><img width="50" loading="lazy" src="icons/vip.svg"></p> | `import 'package:koukicons/vip.dart';`<br>`KoukiconsVip(), `|
+| voice | <p align="center"><img width="50" loading="lazy" src="icons/voice.svg"></p> | `import 'package:koukicons/voice.dart';`<br>`KoukiconsVoice(), `|
+| voicemail | <p align="center"><img width="50" loading="lazy" src="icons/voicemail.svg"></p> | `import 'package:koukicons/voicemail.dart';`<br>`KoukiconsVoicemail(), `|
+| voicePresentation | <p align="center"><img width="50" loading="lazy" src="icons/voicePresentation.svg"></p> | `import 'package:koukicons/voicePresentation.dart';`<br>`KoukiconsVoicePresentation(), `|
+| volume | <p align="center"><img width="50" loading="lazy" src="icons/volume.svg"></p> | `import 'package:koukicons/volume.dart';`<br>`KoukiconsVolume(), `|
+| volumeAdd | <p align="center"><img width="50" loading="lazy" src="icons/volumeAdd.svg"></p> | `import 'package:koukicons/volumeAdd.dart';`<br>`KoukiconsVolumeAdd(), `|
+| warning | <p align="center"><img width="50" loading="lazy" src="icons/warning.svg"></p> | `import 'package:koukicons/warning.dart';`<br>`KoukiconsWarning(), `|
+| webcam | <p align="center"><img width="50" loading="lazy" src="icons/webcam.svg"></p> | `import 'package:koukicons/webcam.dart';`<br>`KoukiconsWebcam(), `|
+| wifi | <p align="center"><img width="50" loading="lazy" src="icons/wifi.svg"></p> | `import 'package:koukicons/wifi.dart';`<br>`KoukiconsWifi(), `|
+| wifiSignal | <p align="center"><img width="50" loading="lazy" src="icons/wifiSignal.svg"></p> | `import 'package:koukicons/wifiSignal.dart';`<br>`KoukiconsWifiSignal(), `|
+| win | <p align="center"><img width="50" loading="lazy" src="icons/win.svg"></p> | `import 'package:koukicons/win.dart';`<br>`KoukiconsWin(), `|
+| win2 | <p align="center"><img width="50" loading="lazy" src="icons/win2.svg"></p> | `import 'package:koukicons/win2.dart';`<br>`KoukiconsWin2(), `|
+| workflow | <p align="center"><img width="50" loading="lazy" src="icons/workflow.svg"></p> | `import 'package:koukicons/workflow.dart';`<br>`KoukiconsWorkflow(), `|
+| world | <p align="center"><img width="50" loading="lazy" src="icons/world.svg"></p> | `import 'package:koukicons/world.dart';`<br>`KoukiconsWorld(), `|
+| world2 | <p align="center"><img width="50" loading="lazy" src="icons/world2.svg"></p> | `import 'package:koukicons/world2.dart';`<br>`KoukiconsWorld2(), `|
+| write | <p align="center"><img width="50" loading="lazy" src="icons/write.svg"></p> | `import 'package:koukicons/write.dart';`<br>`KoukiconsWrite(), `|
+| zoomIn | <p align="center"><img width="50" loading="lazy" src="icons/zoomIn.svg"></p> | `import 'package:koukicons/zoomIn.dart';`<br>`KoukiconsZoomIn(), `|
+| zoomOut | <p align="center"><img width="50" loading="lazy" src="icons/zoomOut.svg"></p> | `import 'package:koukicons/zoomOut.dart';`<br>`KoukiconsZoomOut(), `|

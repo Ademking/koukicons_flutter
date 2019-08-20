@@ -112,7 +112,7 @@ def gen_markdown():
   for filename in os.listdir(assetDirectory):
     var_name = filename.replace('.svg', '')
     line = "| " + var_name + " | "
-    line += '<p align="center"><img width="50" src="icons/' + str(filename) + '"></p> | ' 
+    line += '<p align="center"><img width="50" loading="lazy" src="icons/' + str(filename) + '"></p> | ' 
     line +=  "`import 'package:koukicons/"+ var_name + ".dart';`<br>" 
     line += '`Koukicons' + uppercase_first_char(var_name) +  "(), `|"  + "\n"
     f1.write("".join(line))

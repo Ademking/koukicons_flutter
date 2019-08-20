@@ -1,3 +1,8 @@
+## [2.0.1] - 2019-08-20
+
+* added lazy loading img preview
+
+
 ## [2.0.0] - 2019-08-02
 
 * fix app size problem : your app will import only used icons = small size
