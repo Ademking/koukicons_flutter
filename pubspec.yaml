@@ -11,10 +11,11 @@ dependencies:
   flutter:
     sdk: flutter
   
-  flutter_svg: ^0.13.1
+  flutter_svg: ^0.15.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
 flutter:
+  
