@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="59px" height="54px" viewBox="0 0 59 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
-    <title>63 - Archive (Flat)</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Icons" sketch:type="MSArtboardGroup" transform="translate(-960.000000, -4080.000000)">
-            <g id="63---Archive-(Flat)" sketch:type="MSLayerGroup" transform="translate(960.000000, 4080.000000)">
-                <path d="M53.679,54 L6.145,54 C6.011,54 5.897,53.902 5.877,53.77 L0.959,21.312 C0.934,21.148 1.061,21 1.227,21 L58.597,21 C58.763,21 58.889,21.148 58.865,21.312 L53.947,53.77 C53.927,53.902 53.813,54 53.679,54" id="Fill-1420" fill="#F8B563" sketch:type="MSShapeGroup"></path>
-                <path d="M54.956,21 L54.956,5.768 C54.956,5.344 54.612,5 54.188,5 L23.391,5 C23.121,5 22.871,4.858 22.732,4.627 L20.179,0.373 C20.041,0.142 19.791,0 19.521,0 L5.724,0 C5.3,0 4.956,0.344 4.956,0.768 L4.956,21 L54.956,21" id="Fill-1421" fill="#B5885B" sketch:type="MSShapeGroup"></path>
-                <path d="M7.956,17 L51.956,17 L51.956,21 L7.956,21 L7.956,17 Z" id="Fill-1422" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-                <path d="M8.956,14 L50.956,14 L50.956,17 L8.956,17 L8.956,14 Z" id="Fill-1423" fill="#E8EDEE" sketch:type="MSShapeGroup"></path>
-                <path d="M9.956,11 L49.956,11 L49.956,14 L9.956,14 L9.956,11 Z" id="Fill-1424" fill="#C7CBC7" sketch:type="MSShapeGroup"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="54" version="1.1" viewBox="0 0 59 54"><title>63 - Archive (Flat)</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Icons" transform="translate(-960.000000, -4080.000000)"><g id="63---Archive-(Flat)" transform="translate(960.000000, 4080.000000)"><path id="Fill-1420" fill="#F8B563" d="M53.679,54 L6.145,54 C6.011,54 5.897,53.902 5.877,53.77 L0.959,21.312 C0.934,21.148 1.061,21 1.227,21 L58.597,21 C58.763,21 58.889,21.148 58.865,21.312 L53.947,53.77 C53.927,53.902 53.813,54 53.679,54"/><path id="Fill-1421" fill="#B5885B" d="M54.956,21 L54.956,5.768 C54.956,5.344 54.612,5 54.188,5 L23.391,5 C23.121,5 22.871,4.858 22.732,4.627 L20.179,0.373 C20.041,0.142 19.791,0 19.521,0 L5.724,0 C5.3,0 4.956,0.344 4.956,0.768 L4.956,21 L54.956,21"/><path id="Fill-1422" fill="#FFF" d="M7.956,17 L51.956,17 L51.956,21 L7.956,21 L7.956,17 Z"/><path id="Fill-1423" fill="#E8EDEE" d="M8.956,14 L50.956,14 L50.956,17 L8.956,17 L8.956,14 Z"/><path id="Fill-1424" fill="#C7CBC7" d="M9.956,11 L49.956,11 L49.956,14 L9.956,14 L9.956,11 Z"/></g></g></g></svg>

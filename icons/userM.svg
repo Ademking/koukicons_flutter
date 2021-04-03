@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="44px" height="58px" viewBox="0 0 44 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
-    <title>298 - User (Flat)</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Icons" sketch:type="MSArtboardGroup" transform="translate(-368.000000, -1318.000000)" fill="#88C057">
-            <g id="298---User-(Flat)" sketch:type="MSLayerGroup" transform="translate(368.000000, 1318.000000)">
-                <path d="M44,49.958 C44,46.919 42.283,44.142 39.566,42.783 L30.014,38.007 C28.78,37.39 28,36.128 28,34.749 L28,31 C28.268,30.695 28.576,30.302 28.904,29.838 C30.205,28 31.19,25.977 31.873,23.854 C33.097,23.477 34,22.345 34,21 L34,17 C34,16.12 33.609,15.333 33,14.783 L33,9 C33,9 34.187,0 22,0 C9.812,0 11,9 11,9 L11,14.783 C10.391,15.333 10,16.12 10,17 L10,21 C10,22.054 10.554,22.981 11.383,23.517 C12.382,27.869 15,31 15,31 L15,34.655 C15,35.989 14.272,37.215 13.101,37.854 L4.18,42.72 C1.603,44.125 0,46.826 0,49.762 L0,52 L0,53 C0,55.762 9.85,58 22,58 C34.15,58 44,55.762 44,53 L44,52 L44,49.958" id="Fill-648" sketch:type="MSShapeGroup"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="58" version="1.1" viewBox="0 0 44 58"><title>298 - User (Flat)</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Icons" fill="#88C057" transform="translate(-368.000000, -1318.000000)"><g id="298---User-(Flat)" transform="translate(368.000000, 1318.000000)"><path id="Fill-648" d="M44,49.958 C44,46.919 42.283,44.142 39.566,42.783 L30.014,38.007 C28.78,37.39 28,36.128 28,34.749 L28,31 C28.268,30.695 28.576,30.302 28.904,29.838 C30.205,28 31.19,25.977 31.873,23.854 C33.097,23.477 34,22.345 34,21 L34,17 C34,16.12 33.609,15.333 33,14.783 L33,9 C33,9 34.187,0 22,0 C9.812,0 11,9 11,9 L11,14.783 C10.391,15.333 10,16.12 10,17 L10,21 C10,22.054 10.554,22.981 11.383,23.517 C12.382,27.869 15,31 15,31 L15,34.655 C15,35.989 14.272,37.215 13.101,37.854 L4.18,42.72 C1.603,44.125 0,46.826 0,49.762 L0,52 L0,53 C0,55.762 9.85,58 22,58 C34.15,58 44,55.762 44,53 L44,52 L44,49.958"/></g></g></g></svg>
