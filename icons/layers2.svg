@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="51px" height="51px" viewBox="0 0 51 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
-    <title>357 - Layers (Flat)</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Icons" sketch:type="MSArtboardGroup" transform="translate(-485.000000, -602.000000)">
-            <g id="357---Layers-(Flat)" sketch:type="MSLayerGroup" transform="translate(485.000000, 602.000000)">
-                <path d="M50.912,14.456 L25.456,29 L0,14.456 L25.456,0 L50.912,14.456" id="Fill-331" fill="#F0CE49" sketch:type="MSShapeGroup"></path>
-                <path d="M25.456,29 L9.656,19.973 L0,25.456 L25.456,40 L50.912,25.456 L41.256,19.973 L25.456,29" id="Fill-332" fill="#ED8A19" sketch:type="MSShapeGroup"></path>
-                <path d="M25.456,40 L9.656,30.973 L0,36.456 L25.456,51 L50.912,36.456 L41.256,30.973 L25.456,40" id="Fill-333" fill="#EA6148" sketch:type="MSShapeGroup"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51" height="51" version="1.1" viewBox="0 0 51 51"><title>357 - Layers (Flat)</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Icons" transform="translate(-485.000000, -602.000000)"><g id="357---Layers-(Flat)" transform="translate(485.000000, 602.000000)"><path id="Fill-331" fill="#F0CE49" d="M50.912,14.456 L25.456,29 L0,14.456 L25.456,0 L50.912,14.456"/><path id="Fill-332" fill="#ED8A19" d="M25.456,29 L9.656,19.973 L0,25.456 L25.456,40 L50.912,25.456 L41.256,19.973 L25.456,29"/><path id="Fill-333" fill="#EA6148" d="M25.456,40 L9.656,30.973 L0,36.456 L25.456,51 L50.912,36.456 L41.256,30.973 L25.456,40"/></g></g></g></svg>

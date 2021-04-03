@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="50px" height="43px" viewBox="0 0 50 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
-    <title>251 - Repeat (Flat)</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="251---Repeat-(Flat)" sketch:type="MSLayerGroup" fill="#42B05C">
-            <path d="M1,21 C0.447,21 0,20.553 0,20 C0,12.832 5.832,7 13,7 L38,7 C38.553,7 39,7.447 39,8 C39,8.553 38.553,9 38,9 L13,9 C6.935,9 2,13.935 2,20 C2,20.553 1.553,21 1,21" id="Fill-781" sketch:type="MSShapeGroup"></path>
-            <path d="M38,16 L49,8 L38,0 L38,16" id="Fill-782" sketch:type="MSShapeGroup"></path>
-            <path d="M37,36 L12,36 C11.447,36 11,35.553 11,35 C11,34.447 11.447,34 12,34 L37,34 C43.065,34 48,29.065 48,23 C48,22.447 48.447,22 49,22 C49.553,22 50,22.447 50,23 C50,30.168 44.168,36 37,36" id="Fill-786" sketch:type="MSShapeGroup"></path>
-            <path d="M12,27 L1,35 L12,43 L12,27" id="Fill-787" sketch:type="MSShapeGroup"></path>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="43" version="1.1" viewBox="0 0 50 43"><title>251 - Repeat (Flat)</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="251---Repeat-(Flat)" fill="#42B05C"><path id="Fill-781" d="M1,21 C0.447,21 0,20.553 0,20 C0,12.832 5.832,7 13,7 L38,7 C38.553,7 39,7.447 39,8 C39,8.553 38.553,9 38,9 L13,9 C6.935,9 2,13.935 2,20 C2,20.553 1.553,21 1,21"/><path id="Fill-782" d="M38,16 L49,8 L38,0 L38,16"/><path id="Fill-786" d="M37,36 L12,36 C11.447,36 11,35.553 11,35 C11,34.447 11.447,34 12,34 L37,34 C43.065,34 48,29.065 48,23 C48,22.447 48.447,22 49,22 C49.553,22 50,22.447 50,23 C50,30.168 44.168,36 37,36"/><path id="Fill-787" d="M12,27 L1,35 L12,43 L12,27"/></g></g></svg>

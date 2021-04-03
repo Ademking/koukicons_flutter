@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="48px" height="58px" viewBox="0 0 48 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
-    <title>348 - Trash Bin (Flat)</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Icons" sketch:type="MSArtboardGroup" transform="translate(-365.000000, -717.000000)">
-            <g id="348---Trash-Bin-(Flat)" sketch:type="MSLayerGroup" transform="translate(366.000000, 718.000000)">
-                <path d="M43,6 L41.044,53 C41.044,53 40.96,57 37.136,57 L8.864,57 C5.04,57 4.956,53 4.956,53 L3,6" id="Fill-436" fill="#23A24D" sketch:type="MSShapeGroup"></path>
-                <path d="M30.999,6 C30.999,6 31.155,0 26.999,0 L21.939,0 L22.061,0 L17,0 C12.844,0 13,6 13,6" id="Stroke-437" stroke="#33636C" stroke-width="2" sketch:type="MSShapeGroup"></path>
-                <path d="M23,16 L23,49 M13,16 L13,49 M33,16 L33,49" id="Stroke-438" stroke="#61B972" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
-                <path d="M0,6 L46,6" id="Stroke-439" stroke="#33636C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="58" version="1.1" viewBox="0 0 48 58"><title>348 - Trash Bin (Flat)</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Icons" transform="translate(-365.000000, -717.000000)"><g id="348---Trash-Bin-(Flat)" transform="translate(366.000000, 718.000000)"><path id="Fill-436" fill="#23A24D" d="M43,6 L41.044,53 C41.044,53 40.96,57 37.136,57 L8.864,57 C5.04,57 4.956,53 4.956,53 L3,6"/><path id="Stroke-437" stroke="#33636C" stroke-width="2" d="M30.999,6 C30.999,6 31.155,0 26.999,0 L21.939,0 L22.061,0 L17,0 C12.844,0 13,6 13,6"/><path id="Stroke-438" stroke="#61B972" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M23,16 L23,49 M13,16 L13,49 M33,16 L33,49"/><path id="Stroke-439" stroke="#33636C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M0,6 L46,6"/></g></g></g></svg>

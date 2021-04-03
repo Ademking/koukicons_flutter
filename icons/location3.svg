@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="37px" height="52px" viewBox="0 0 37 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
-    <title>305 - Location (Flat)</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Icons" sketch:type="MSArtboardGroup" transform="translate(-731.000000, -1201.000000)" fill="#0F81E0">
-            <g id="305---Location-(Flat)" sketch:type="MSLayerGroup" transform="translate(731.000000, 1201.000000)">
-                <path d="M31.676,5.324 L31.676,5.324 C24.578,-1.774 13.069,-1.774 5.97,5.324 C-0.426,11.72 -1.146,23.764 4.282,31 L18.823,52 L33.365,31 C38.792,23.764 38.072,11.72 31.676,5.324 L31.676,5.324 Z M19,24 C15.686,24 13,21.314 13,18 C13,14.687 15.686,12 19,12 C22.314,12 25,14.687 25,18 C25,21.314 22.314,24 19,24 L19,24 Z" id="Fill-1847" sketch:type="MSShapeGroup"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="52" version="1.1" viewBox="0 0 37 52"><title>305 - Location (Flat)</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Icons" fill="#0F81E0" transform="translate(-731.000000, -1201.000000)"><g id="305---Location-(Flat)" transform="translate(731.000000, 1201.000000)"><path id="Fill-1847" d="M31.676,5.324 L31.676,5.324 C24.578,-1.774 13.069,-1.774 5.97,5.324 C-0.426,11.72 -1.146,23.764 4.282,31 L18.823,52 L33.365,31 C38.792,23.764 38.072,11.72 31.676,5.324 L31.676,5.324 Z M19,24 C15.686,24 13,21.314 13,18 C13,14.687 15.686,12 19,12 C22.314,12 25,14.687 25,18 C25,21.314 22.314,24 19,24 L19,24 Z"/></g></g></g></svg>

@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="30px" height="58px" viewBox="0 0 30 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
-    <title>136 - Low Battery (Flat)</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="136---Low-Battery-(Flat)" sketch:type="MSLayerGroup">
-            <path d="M10,0 L20,0 L20,4 L10,4 L10,0 Z" id="Fill-1060" fill="#C7CBC7" sketch:type="MSShapeGroup"></path>
-            <path d="M27.536,58 L2.464,58 C1.103,58 0,56.897 0,55.536 L0,6.464 C0,5.103 1.103,4 2.464,4 L27.536,4 C28.897,4 30,5.103 30,6.464 L30,55.536 C30,56.897 28.897,58 27.536,58" id="Fill-1061" fill="#E8EDEE" sketch:type="MSShapeGroup"></path>
-            <path d="M0,45 L0,55.536 C0,56.897 1.103,58 2.464,58 L27.536,58 C28.897,58 30,56.897 30,55.536 L30,45 L0,45" id="Fill-2255" fill="#42B05C" sketch:type="MSShapeGroup"></path>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="58" version="1.1" viewBox="0 0 30 58"><title>136 - Low Battery (Flat)</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="136---Low-Battery-(Flat)"><path id="Fill-1060" fill="#C7CBC7" d="M10,0 L20,0 L20,4 L10,4 L10,0 Z"/><path id="Fill-1061" fill="#E8EDEE" d="M27.536,58 L2.464,58 C1.103,58 0,56.897 0,55.536 L0,6.464 C0,5.103 1.103,4 2.464,4 L27.536,4 C28.897,4 30,5.103 30,6.464 L30,55.536 C30,56.897 28.897,58 27.536,58"/><path id="Fill-2255" fill="#42B05C" d="M0,45 L0,55.536 C0,56.897 1.103,58 2.464,58 L27.536,58 C28.897,58 30,56.897 30,55.536 L30,45 L0,45"/></g></g></svg>
